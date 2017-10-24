@@ -137,8 +137,32 @@
   </div>
   <div class="col-main w3-container">
     <main id="article-content">
-      <p>Ich habe meiner Internetseite ein Update unterzogen. Sie basiert jetzt auf reinem HTML und CSS, verwendet kein Javascript mehr, keine Links zu Google-Analytics und keinen Canvas-Blödsinn. Das hat für dich den Vorteil, dass du aufgrund meiner Seite keinem möglichen Tracking ausgesetzt bist und für mich, dass ich kein Wordpress verwenden muss.</p>
-<p>Statt Wordpress, verwende ich zur Erzeugung dieser Internetseiten ein Programm namens <a href="http://getpelican.com/">Pelican</a>, das aus Markdown-Dateien eine statische Internetseite macht. Ich habe <a href="http://mathamy.com/migrating-to-github-pages-using-pelican.html">diese Anleitung</a> und <a href="https://github.com/art1fa/minimalX">dieses Styling</a> verwendet, etwas modifiziert, und den Quellcode auf <a href="">GitHub</a> hinterlegt.</p>
+      <p>Ich habe meiner Internetseite ein Update unterzogen. Sie basiert jetzt auf reinem HTML und CSS, verwendet kein Javascript mehr, keine Links zu Google-Analytics und keinen Canvas-Blödsinn. Das hat für dich den Vorteil, dass du aufgrund meiner Seite keinem möglichen Tracking ausgesetzt bist und die Seite schneller läd, und für mich, dass ich kein Wordpress verwenden muss.</p>
+<p>Statt Wordpress, verwende ich zur Erzeugung dieser Internetseiten ein Programm namens <a href="http://getpelican.com/">Pelican</a>, das aus Markdown-Dateien eine statische Internetseite macht. Ich habe <a href="http://mathamy.com/migrating-to-github-pages-using-pelican.html">diese Anleitung</a> und <a href="https://github.com/art1fa/minimalX">dieses Styling</a> verwendet, etwas modifiziert, und den Quellcode auf GitHub hinterlegt.</p>
+<h2>Details</h2>
+<p>Ich habe die Arbeitsverzeichnisse auf meinem GitHub-Account <em>DorKeinath</em> gespeichert unter <em>xcosx.github.io</em>, also in <em>https://github.com/DorKeinath/xcosx.github.io</em>.
+Die HTML-Dateien liegen in meinem GitHub-Account <em>xcosx</em> im Verzeichnis <em>xcosx.github.io</em>, Also in https://github.com/xcosx/xcosx.github.io.git.</p>
+<h3>Workflow</h3>
+<p>Für's Erstellen und Posten eines neuen Artikels verwende ich die folgenden Befehle.</p>
+<div class="highlight"><pre><span></span><span class="c1"># Voransicht</span>
+<span class="nb">source</span> bin/activate
+sudo make devserver
+firefox localhost:8000
+
+<span class="c1"># Inhalt veröffentlichen</span>
+sudo pelican content -s publishconf.py
+<span class="nb">cd</span> output
+git add --all
+git commit -m <span class="s2">&quot;update&quot;</span>
+git push origin master
+xcosx
+
+<span class="c1"># Quellcode auf GitHub speichern</span>
+git add --all
+git commit -m <span class="s2">&quot;update&quot;</span>
+git push origin master
+dorkeinath
+</pre></div>
     </main>
     <br>
     <footer>

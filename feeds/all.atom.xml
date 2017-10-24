@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>xcosx.github.io - ehemals xcosx.de</title><link href="https://xcosx.github.io/" rel="alternate"></link><link href="https://xcosx.github.io/feeds/all.atom.xml" rel="self"></link><id>https://xcosx.github.io/</id><updated>2017-11-23T10:00:00+01:00</updated><entry><title>Update der Homepage</title><link href="https://xcosx.github.io/update_2017.html" rel="alternate"></link><published>2017-11-23T10:00:00+01:00</published><updated>2017-11-23T10:00:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-11-23:/update_2017.html</id><summary type="html">&lt;p&gt;Ich habe meiner Internetseite ein Update unterzogen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ich habe meiner Internetseite ein Update unterzogen. Sie basiert jetzt auf reinem HTML und CSS, verwendet kein Javascript mehr, keine Links zu Google-Analytics und keinen Canvas-Blödsinn. Das hat für dich den Vorteil, dass du aufgrund meiner Seite keinem möglichen Tracking ausgesetzt bist und für mich, dass ich kein Wordpress verwenden muss.&lt;/p&gt;
-&lt;p&gt;Statt Wordpress, verwende ich zur Erzeugung dieser Internetseiten ein Programm namens &lt;a href="http://getpelican.com/"&gt;Pelican&lt;/a&gt;, das aus Markdown-Dateien eine statische Internetseite macht. Ich habe &lt;a href="http://mathamy.com/migrating-to-github-pages-using-pelican.html"&gt;diese Anleitung&lt;/a&gt; und &lt;a href="https://github.com/art1fa/minimalX"&gt;dieses Styling&lt;/a&gt; verwendet, etwas modifiziert, und den Quellcode auf &lt;a href=""&gt;GitHub&lt;/a&gt; hinterlegt.&lt;/p&gt;</content><category term="HTML"></category></entry><entry><title>Feed</title><link href="https://xcosx.github.io/feed.html" rel="alternate"></link><published>2017-10-05T14:48:00+02:00</published><updated>2017-10-05T14:48:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-10-05:/feed.html</id><summary type="html">&lt;p&gt;Um die Beiträge dieser Internetseite zu abonnieren, kannst du einen der folgenden Links zu deiner Feed-App hinzufügen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Um die Beiträge dieser Internetseite zu abonnieren, kannst du einen der folgenden Links zu deiner Feed-App hinzufügen.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>xcosx.github.io - ehemals xcosx.de</title><link href="https://xcosx.github.io/" rel="alternate"></link><link href="https://xcosx.github.io/feeds/all.atom.xml" rel="self"></link><id>https://xcosx.github.io/</id><updated>2017-11-23T10:00:00+01:00</updated><entry><title>Update der Homepage</title><link href="https://xcosx.github.io/update_2017.html" rel="alternate"></link><published>2017-11-23T10:00:00+01:00</published><updated>2017-11-23T10:00:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-11-23:/update_2017.html</id><summary type="html">&lt;p&gt;Ich habe meiner Internetseite ein Update unterzogen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ich habe meiner Internetseite ein Update unterzogen. Sie basiert jetzt auf reinem HTML und CSS, verwendet kein Javascript mehr, keine Links zu Google-Analytics und keinen Canvas-Blödsinn. Das hat für dich den Vorteil, dass du aufgrund meiner Seite keinem möglichen Tracking ausgesetzt bist und die Seite schneller läd, und für mich, dass ich kein Wordpress verwenden muss.&lt;/p&gt;
+&lt;p&gt;Statt Wordpress, verwende ich zur Erzeugung dieser Internetseiten ein Programm namens &lt;a href="http://getpelican.com/"&gt;Pelican&lt;/a&gt;, das aus Markdown-Dateien eine statische Internetseite macht. Ich habe &lt;a href="http://mathamy.com/migrating-to-github-pages-using-pelican.html"&gt;diese Anleitung&lt;/a&gt; und &lt;a href="https://github.com/art1fa/minimalX"&gt;dieses Styling&lt;/a&gt; verwendet, etwas modifiziert, und den Quellcode auf GitHub hinterlegt.&lt;/p&gt;
+&lt;h2&gt;Details&lt;/h2&gt;
+&lt;p&gt;Ich habe die Arbeitsverzeichnisse auf meinem GitHub-Account &lt;em&gt;DorKeinath&lt;/em&gt; gespeichert unter &lt;em&gt;xcosx.github.io&lt;/em&gt;, also in &lt;em&gt;https://github.com/DorKeinath/xcosx.github.io&lt;/em&gt;.
+Die HTML-Dateien liegen in meinem GitHub-Account &lt;em&gt;xcosx&lt;/em&gt; im Verzeichnis &lt;em&gt;xcosx.github.io&lt;/em&gt;, Also in https://github.com/xcosx/xcosx.github.io.git.&lt;/p&gt;
+&lt;h3&gt;Workflow&lt;/h3&gt;
+&lt;p&gt;Für's Erstellen und Posten eines neuen Artikels verwende ich die folgenden Befehle.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;# Voransicht&lt;/span&gt;
+&lt;span class="nb"&gt;source&lt;/span&gt; bin/activate
+sudo make devserver
+firefox localhost:8000
+
+&lt;span class="c1"&gt;# Inhalt veröffentlichen&lt;/span&gt;
+sudo pelican content -s publishconf.py
+&lt;span class="nb"&gt;cd&lt;/span&gt; output
+git add --all
+git commit -m &lt;span class="s2"&gt;&amp;quot;update&amp;quot;&lt;/span&gt;
+git push origin master
+xcosx
+
+&lt;span class="c1"&gt;# Quellcode auf GitHub speichern&lt;/span&gt;
+git add --all
+git commit -m &lt;span class="s2"&gt;&amp;quot;update&amp;quot;&lt;/span&gt;
+git push origin master
+dorkeinath
+&lt;/pre&gt;&lt;/div&gt;</content><category term="HTML"></category></entry><entry><title>Feed</title><link href="https://xcosx.github.io/feed.html" rel="alternate"></link><published>2017-10-05T14:48:00+02:00</published><updated>2017-10-05T14:48:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-10-05:/feed.html</id><summary type="html">&lt;p&gt;Um die Beiträge dieser Internetseite zu abonnieren, kannst du einen der folgenden Links zu deiner Feed-App hinzufügen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Um die Beiträge dieser Internetseite zu abonnieren, kannst du einen der folgenden Links zu deiner Feed-App hinzufügen.&lt;/p&gt;
 &lt;p class="content-highlight"&gt;Eine Feed-App wie &lt;a href="https://f-droid.org/en/packages/net.etuldan.sparss.floss/"&gt;SpaRSS&lt;/a&gt; sollte den Status deiner Chat-App haben&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://xcosx.github.io/feeds/all.rss.xml"&gt;https://xcosx.github.io/feeds/all.rss.xml&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://xcosx.github.io/feeds/all.atom.xml"&gt;https://xcosx.github.io/feeds/all.atom.xml&lt;/a&gt;&lt;/p&gt;
