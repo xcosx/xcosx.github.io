@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>xcosx.github.io - ehemals xcosx.de</title><link href="https://xcosx.github.io/" rel="alternate"></link><link href="https://xcosx.github.io/feeds/all.atom.xml" rel="self"></link><id>https://xcosx.github.io/</id><updated>2017-11-23T10:00:00+01:00</updated><entry><title>Update der Homepage</title><link href="https://xcosx.github.io/update_2017.html" rel="alternate"></link><published>2017-11-23T10:00:00+01:00</published><updated>2017-11-23T10:00:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-11-23:/update_2017.html</id><summary type="html">&lt;p&gt;Ich habe meiner Internetseite ein Update unterzogen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ich habe meiner Internetseite ein Update unterzogen. Sie basiert jetzt auf reinem HTML und CSS, verwendet kein Javascript mehr, keine Links zu Google-Analytics und keinen Canvas-Blödsinn. Das hat für dich den Vorteil, dass du aufgrund meiner Seite keinem möglichen Tracking ausgesetzt bist und für mich, dass ich kein Wordpress verwenden muss.&lt;/p&gt;
+&lt;p&gt;Statt Wordpress, verwende ich zur Erzeugung dieser Internetseiten ein Programm namens &lt;a href="http://getpelican.com/"&gt;Pelican&lt;/a&gt;, das aus Markdown-Dateien eine statische Internetseite macht. Ich habe &lt;a href="http://mathamy.com/migrating-to-github-pages-using-pelican.html"&gt;diese Anleitung&lt;/a&gt; und &lt;a href="https://github.com/art1fa/minimalX"&gt;dieses Styling&lt;/a&gt; verwendet, etwas modifiziert, und den Quellcode auf &lt;a href=""&gt;GitHub&lt;/a&gt; hinterlegt.&lt;/p&gt;</content><category term="HTML"></category></entry><entry><title>Feed</title><link href="https://xcosx.github.io/feed.html" rel="alternate"></link><published>2017-10-05T14:48:00+02:00</published><updated>2017-10-05T14:48:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-10-05:/feed.html</id><summary type="html">&lt;p&gt;Um die Beiträge dieser Internetseite zu abonnieren, kannst du einen der folgenden Links zu deiner Feed-App hinzufügen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Um die Beiträge dieser Internetseite zu abonnieren, kannst du einen der folgenden Links zu deiner Feed-App hinzufügen.&lt;/p&gt;
+&lt;p class="content-highlight"&gt;Eine Feed-App wie &lt;a href="https://f-droid.org/en/packages/net.etuldan.sparss.floss/"&gt;SpaRSS&lt;/a&gt; sollte den Status deiner Chat-App haben&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://xcosx.github.io/feeds/all.rss.xml"&gt;https://xcosx.github.io/feeds/all.rss.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://xcosx.github.io/feeds/all.atom.xml"&gt;https://xcosx.github.io/feeds/all.atom.xml&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Was ist ein Feed?&lt;/h2&gt;
+&lt;p&gt;Was es sich mit sogenannten RSS-Feeds oder Atom-Feeds auf sich hat, ist &lt;a href="http://www.taz.de/!114191/"&gt;hier&lt;/a&gt; gut beschrieben. Ein Feed-Reader ist &lt;em&gt;die&lt;/em&gt; Möglichkeit, auf deinem Gerät Nachrichten zu lesen.&lt;/p&gt;</content></entry><entry><title>Trampelt Trump? Leseempfehlung!</title><link href="https://xcosx.github.io/trampelt-trump-leseempfehlung.html" rel="alternate"></link><published>2016-12-05T22:33:00+01:00</published><updated>2016-12-05T22:33:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-12-05:/trampelt-trump-leseempfehlung.html</id><summary type="html">&lt;p&gt;Dringende Leseempfehlung:&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dringende Leseempfehlung:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/"&gt;https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;... und bitte den Ich-habe-nichts-zu-verbergen-Menschen weiterleiten oder berichten.&lt;/p&gt;
+&lt;p&gt;Das sind ja James-Bond-Szenarien&lt;/p&gt;
+&lt;p&gt;Eine weitere Reaktion auf diesen Beitrag: Was kann man dagegen tun?&lt;/p&gt;
+&lt;p&gt;Gute Frage! Ein paar Vorschläge.&lt;/p&gt;
+&lt;h2&gt;Kurzfristig&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;So wenig Spuren im Internet hinterlassen wie möglich.&lt;ul&gt;
+&lt;li&gt;Sich so selten wie möglich mit dem Internet verbinden&lt;/li&gt;
+&lt;li&gt;Handy absichern&lt;/li&gt;
+&lt;li&gt;PC absichern&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vor allem sollte man es Google und Co. so schwer wie möglich machen.&lt;/li&gt;
+&lt;li&gt;Reden, reden, reden. Mit so vielen Leuten wie möglich über  politische Themen reden und sie dadurch dem einseitigen Einfluss    durch Medien entziehen. Sich selbst nicht einseitig informieren,    sondern vertrauenswürdige, objektive Berichterstattungen suchen,   lesen und verbreiten.&lt;/li&gt;
+&lt;li&gt;De Maizière absetzen und durch jemanden ersetzen, der    informationstechnische Kompetenzen besitzt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Langfristig&lt;/h2&gt;
+&lt;p&gt;Mündigkeit und ethische Kompetenzen bei allen Bürgern ist die
+Grundvoraussetzung, um den Gefahren von BigData entgegen treten zu
+können.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Das Fach &lt;a href="https://xcosx.de/informatik-fuer-alle/"&gt;Informatik als    Pflichtfach&lt;/a&gt; für alle Schüler einführen.&lt;/li&gt;
+&lt;li&gt;Etwas radikaler, aber durchaus vertretbar: Es könnte am Ende der Klasse 8 eine zentrale Prüfung geben, bei deren Bestehen man einen IT-Führerschein erhält, der Voraussetzung für den Besitz eines Handys ist.&lt;/li&gt;
+&lt;li&gt;Das Fach Ethik stärken.&lt;ul&gt;
+&lt;li&gt;Das Fach Ethik auch in Klasse 5 und 6 als offizielles Fach einführen. Die frei werdenden Poolstunden könnte man dann zu Pflichtstunden im Fach Informatik umdefinieren, wodurch sich die Finanzierung doppelt lohnt.&lt;/li&gt;
+&lt;li&gt;Ethik als Pflichtfach für alle Schüler festlegen, und als Lehrergut ausgebildete Ethiklehrer einsetzen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kiwi-verlag.de/buch/der-circle/978-3-462-04675-5/"&gt;The    Circle&lt;/a&gt; zur Pflichtlektüre im Fach Deutsch machen.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Politik"></category><category term="Big Data"></category></entry><entry><title>Gajim mit OMEMO</title><link href="https://xcosx.github.io/gajim-mit-omemo.html" rel="alternate"></link><published>2016-12-05T20:33:00+01:00</published><updated>2016-12-05T20:33:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-12-05:/gajim-mit-omemo.html</id><summary type="html">&lt;p&gt;Bei Gajim das OMEMO-Plugin zum Laufen zu bringen ist nicht ganz trivial. Hier ist eine Anleitung.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Bei Gajim das OMEMO-Plugin zum Laufen zu bringen ist nicht ganz
+trivial. Gajim ist ein Programm, mit dem man Chatten kann und OMEMO ist die aktuellste Verschlüsselungstechnik.&lt;/p&gt;
+&lt;p&gt;Wenn man nur in Konferenzen unterwegs
+ist, braucht man es nicht installieren, aber um mit Gajim sicher
+verschlüsselt und praktisch zu chatten, braucht man das OMEMO-Plugin.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://barfoos.blogsport.eu/gajim-mit-omemo-verschluesselung/"&gt;Hier&lt;/a&gt;
+findet man eine tolle Anleitung. Bei mir musste vorher noch pip
+installiert werden und das sudo dann mit -H angewendet werden. Deswegen
+hier meine Terminal-Befehle&lt;/p&gt;
+&lt;p&gt;Aktuellstes Gajim installieren&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;sudo add-apt-repository &lt;span class="s1"&gt;&amp;#39;deb ftp://ftp.gajim.org/debian unstable main&amp;#39;&lt;/span&gt;
+sudo apt-get update
+sudo apt-get upgrade
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Zum Überprüfen ob die Installation erfolgreich war&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;dpkg -l gajim
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;python-axolotl unter Ubuntu 16.04 LTS&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;sudo apt install python-axolotl python-protobuf
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;python-axolotl unter Ubuntu 14.04.5 TLS&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+&lt;span class="nb"&gt;cd&lt;/span&gt; Downloads/
+wget https://bootstrap.pypa.io/get-pip.py
+sudo chmod +x get-pip.py
+sudo -H python get-pip.py
+sudo -H pip install cryptography --upgrade
+sudo -H pip install python-axolotl
+sudo -H pip install &lt;span class="nv"&gt;protobuf&lt;/span&gt;&lt;span class="o"&gt;==&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;.6.1 python-axolotl
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Dann mit gajim das Plugin OMEMO&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;gajim -l gajim.plugin_system.omemo&lt;span class="o"&gt;=&lt;/span&gt;DEBUG
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;und weiter mit Klicken. Nach dem Installieren das &lt;strong&gt;Aktivieren&lt;/strong&gt; nicht vergessen.&lt;/p&gt;</content></entry><entry><title>Kill: Browser-Addons</title><link href="https://xcosx.github.io/kill-browser-addons.html" rel="alternate"></link><published>2016-11-07T23:29:00+01:00</published><updated>2016-11-07T23:29:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-11-07:/kill-browser-addons.html</id><summary type="html">&lt;p&gt;Addons deinstallieren&lt;/p&gt;</summary><content type="html">&lt;p&gt;Du solltest so wenige Addons wie möglich installiert haben.&lt;/p&gt;
+&lt;p&gt;AdBlock Plus solltet ihr löschen.&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;Nach dem neuesten Skandal fragt man sich, welches Addon noch wirklich
+gut ist. &lt;a href="https://www.kuketz-blog.de/ublock-origin-schutz-gegen-tracker-und-werbung/"&gt;Kuketz empfiehlt das Addon uBlock
+origin&lt;/a&gt;.&lt;/p&gt;</content><category term="Kill"></category></entry><entry><title>Informatik für alle</title><link href="https://xcosx.github.io/informatik-fuer-alle.html" rel="alternate"></link><published>2016-10-31T18:40:00+01:00</published><updated>2016-10-31T18:40:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-10-31:/informatik-fuer-alle.html</id><summary type="html">&lt;p&gt;Grundkenntnisse in Informatik sind eine Bedingung der Möglichkeit von Mündigkeit.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Grundkenntnisse in Informatik sind eine Bedingung der Möglichkeit von
+Mündigkeit.&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;Wer informationstechnische Hintergründe nicht versteht, kann heutzutage
+nicht mehr selbstbestimmt leben. Erst ein Verständnis dessen, was im
+Hintergrund seiner Systeme abläuft, öffnet die Augen für ethische Fragen
+in einem technischen Bereich, und erst mit fortgeschrittenen Kompetenzen
+kann man auf informatisch-ethische Probleme reagieren.&lt;/p&gt;
+&lt;p&gt;Deswegen ist es in einer Demokratie unerlässlich, dass &lt;strong&gt;jeder&lt;/strong&gt; Bürger
+in Informatik unterrichtet wird. &lt;a href="https://www.kuketz-blog.de/kommentar-eine-unbequeme-datenschutz-wahrheit/"&gt;Eine ausführlichere Argumentation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Die &lt;a href="http://www.ill-bw.de/"&gt;ILL-BW&lt;/a&gt; setzt sich dafür ein, dass
+Informatik als Pflichtfach eingeführt wird. Wir sind für jede
+Unterstützung dankbar!&lt;/p&gt;</content></entry><entry><title>Kill: Dropbox</title><link href="https://xcosx.github.io/kill-dropbox.html" rel="alternate"></link><published>2016-10-30T13:13:00+01:00</published><updated>2016-10-30T13:13:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-10-30:/kill-dropbox.html</id><summary type="html">&lt;p&gt;Alternativen zu Dropbox&lt;/p&gt;</summary><content type="html">&lt;p&gt;Alternativen zu Dropbox, Google Cloud, OneDrive,
+iCloud,...&lt;!--more--&gt;Dropbox ist ein Cloud-Service - ziemlich praktisch
+aber genau so unsicher. 2011 konnte man sich aufgrund einer
+Sicherheitslücke mit einem beliebigen Passwort in einen Account
+einloggen. Außerdem benutzt Dropbox Amazon-Server, auf denen deine Daten
+vermutlich analysiert werden. Die Details sind uninteressant, letztlich
+liegen deine Dateien bei Dropbox unverschlüsselt in fremden Händen.
+&lt;a href="http://motherboard.vice.com/de/read/greenwalds-krypto-guru-"&gt;Weitere
+Argumente&lt;/a&gt;.
+Es gibt mehrere Wege, auf Dropbox zu verzichten:&lt;/p&gt;
+&lt;p&gt;Synchronisiere deine Daten auf mehreren Geräten mit
+&lt;a href="http://syncthing.net/"&gt;Syncthing.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Teile Dateien mit &lt;a href="https://onionshare.org/"&gt;OnionShare&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wer nicht auf Dropbox verzichten will, kann
+&lt;a href="https://www.kuketz-blog.de/boxcryptor-dropbox-sicher-nutzen/#more-1101"&gt;BoxCryptor&lt;/a&gt;
+verwenden. Ich persönlich finde das nervig und finde Syncthing
+überzeugender.&lt;/p&gt;
+&lt;p&gt;Will man weiterhin E-Mails mit Anhängen verwenden, um Dateien zu teilen,
+kann &lt;a href="https://veracrypt.codeplex.com/"&gt;VeraCrypt&lt;/a&gt; verwenden.&lt;/p&gt;</content><category term="Kill"></category></entry><entry><title>Kill: Gmail-Mails</title><link href="https://xcosx.github.io/kill-gmail-mails.html" rel="alternate"></link><published>2016-10-22T16:15:00+02:00</published><updated>2016-10-22T16:15:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-10-22:/kill-gmail-mails.html</id><summary type="html">&lt;p&gt;Gmail löschen&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Gmail&lt;/h1&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Es gibt für mich zwei Handlungsweisen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Keine E-Mails mit Gmail schreiben&lt;/li&gt;
+&lt;li&gt;Keine E-Mails an Gmail-Konten schreiben&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ganz allgemein sollte man E-Mails vermeiden, da es praktisch nicht möglich ist, das Senden von Metadaten im Klartext zu verhindern.&lt;/p&gt;
+&lt;p&gt;Ich habe einen Filter angelegt, der E-Mails von Gmail-Konten die
+folgende Nachricht zukommen lässt:&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #339966;"&gt;Jede versendete und ankommende E-Mail in
+deinem Gmail-Konto wird von Google analysiert. Das ist eine ernsthafte
+Verletzung deiner und meiner Privatsphäre.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #339966;"&gt;Aufgrund dessen werde ich deine E-Mail
+lesen, aber evtl. nicht beantworten.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #339966;"&gt;Wenn du einen besseren E-Mail-Anbieter
+suchst, kommen die folgenden zwei in Frage:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #339966;"&gt;[1] &lt;a href="https://posteo.de"&gt;https://posteo.de&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #339966;"&gt;[2] &lt;a href="https://mailbox.org"&gt;https://mailbox.org&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #339966;"&gt;
+----------------------------------------------------&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #339966;"&gt; Please be aware that all sent and
+received e-mails in Gmail will be analyzed by Google. This is a serious
+privacy violation! If you live in Germany consider to change your e-mail
+service:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #339966;"&gt;[1] https://posteo.de&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #339966;"&gt;[2] https://mailbox.org/&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #339966;"&gt;Due to this privacy violation of Google I
+will read your e-mail but might not answer it.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #339966;"&gt;Thank you for your cooperation.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Details siehe Kuketz:
+&lt;a href="https://www.kuketz-blog.de/google-also-jetzt-doch-identified-tracking/"&gt;https://www.kuketz-blog.de/google-also-jetzt-doch-identified-tracking/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Weitere E-Mail-Provider und viele Details:
+&lt;a href="https://privacy-handbuch.de/handbuch_31.htm"&gt;https://privacy-handbuch.de/handbuch_31.htm&lt;/a&gt;&lt;/p&gt;</content><category term="Kill"></category><category term="E-Mail"></category></entry><entry><title>Programmieren lernen</title><link href="https://xcosx.github.io/programmieren-lernen.html" rel="alternate"></link><published>2016-10-15T11:31:00+02:00</published><updated>2016-10-15T11:31:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-10-15:/programmieren-lernen.html</id><summary type="html">&lt;p&gt;Mit Hilfe der folgenden Internetseiten kannst du selbständig beginnen, programmieren zu lernen.&lt;!--more--&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Mit Hilfe der folgenden Internetseiten kannst du selbständig beginnen,
+programmieren zu lernen.&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;Klicki-Bunti&lt;/h2&gt;
+&lt;p&gt;Um ein paar der wichtigsten Strukturen beim Programmieren zu lernen,
+kannst du mit Blöcken programmieren.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Auf &lt;a href="https://code.org/"&gt;code.org&lt;/a&gt; kann man mit Hilfe von &lt;a href="https://studio.code.org/s/20-hour"&gt;Angry
+    Bird&lt;/a&gt;, Videoanleitungen und
+    Drag&amp;amp;Drop-Aufgaben leicht ins Programmieren einsteigen.&lt;/li&gt;
+&lt;li&gt;Mit dem &lt;a href="http://appinventor.mit.edu/explore/"&gt;AppInventor&lt;/a&gt; des MIT
+    kannst du deine erste Android-App durch Klicki-Bunti "programmieren"&lt;/li&gt;
+&lt;li&gt;Ebenso
+    mit&lt;a href="https://www.touchdevelop.com/app/"&gt;TouchDevelop&lt;/a&gt;(Microsoft) für
+    Microsoft-Handys.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Richtiges Programmieren&lt;/h2&gt;
+&lt;p&gt;Das Programmieren mit Blöcken wird von professionellen Programmierern
+natürlich belächelt. Erst das direkte schreiben von Code ist cool. Auf
+den folgenden Seiten findest du gute Tutorials und Nachschlagewerke für
+den Programmiercode der wichtigsten Markups (HTML, CSS) und
+Programmiersprachen (Python, JavaScript, Java)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="http://w3schools.com/"&gt;w3schools.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.codecademy.com/"&gt;codeacademy.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bit.ly/bwinf-kurs"&gt;bwinf&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Entwicklungsumgebungen&lt;/h3&gt;
+&lt;p&gt;Je nachdem, welcher Art von App dein Ziel ist, bieten sich verschiedene
+Möglichkeiten an, dein Ziel zu erreichen. Egal ob für Internetseiten,
+Web-Apps oder native Apps - es gibt immer mehrere Programmiersprachen
+und Entwicklungsumgebungen zur Auswahl. Hier eine kleine Übersicht von
+Programmen, die ich gut finde; sie sind alle kostenlos.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mit &lt;a href="http://gitbook.com/"&gt;GitBook&lt;/a&gt; kannst deine erste Internetseite
+    in Form eines Buches erstellen.&lt;/li&gt;
+&lt;li&gt;Mit &lt;a href="https://thimble.mozilla.org/en-US/"&gt;Thimble&lt;/a&gt;kannst du deine
+    erste Internetseite mit HTML, CSS oder JavaScript programmieren und
+    veröffentlichen.&lt;/li&gt;
+&lt;li&gt;Mit &lt;a href="https://processing.org/"&gt;Processing&lt;/a&gt; kannst du u.a.
+    künstlerische Programme und native Apps programmieren.&lt;ul&gt;
+&lt;li&gt;Eine super Einführung zu Processing findet man auf
+    &lt;a href="http://www.creativecoding.org/"&gt;creativecoding.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mit &lt;a href="https://code.org/educate/applab"&gt;App Lab&lt;/a&gt; kannst du deine erste
+    Web-App schreiben.&lt;/li&gt;
+&lt;li&gt;Mit &lt;a href="http://kivy.org/"&gt;Kivy&lt;/a&gt; kannst du - wenn du dir die Grundlagen
+    des Programmierens bereits erarbeitet und schon einige
+    Programmiererfahrung hast - eine native App für deinen Computer oder
+    dein Handy schreiben.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="ITG"></category><category term="Java"></category><category term="Python"></category><category term="Programmieren"></category></entry><entry><title>Kill: Deinen Netzbetreiber</title><link href="https://xcosx.github.io/kill-deinen-netzbetreiber.html" rel="alternate"></link><published>2016-10-06T16:12:00+02:00</published><updated>2016-10-06T16:12:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-10-06:/kill-deinen-netzbetreiber.html</id><summary type="html">&lt;p&gt;Zu Telekom und Co.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;strong&gt;Telekom&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Telefónica (E-Plus, O2, Aldi,...)&lt;/strong&gt;&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;„Kill“ ist meine neue Artikelserie, die ganz praktische Tipps gibt, was
+man tun muss, um seine Freiheit zu schützen.&lt;/p&gt;
+&lt;p&gt;Wenn du dein Handy im Telekom-Netz oder im Netz der Telefónica benutzt,
+werden deine Daten, u.a. Standortdaten gesammelt und verkauft. Dem hast
+du nicht zugestimmt? Richtig. Leider bleibt dir nichts anderes übrig,
+als deinem Unternehmen deines Vertrauens (hoho) diese Erlaubnis zu
+entziehen. Das nennt man Opt-Out. Du musst deine Handynummer eingeben,
+dann den zugesendeten Code eingeben und dann auf "Ändern" klicken. Um zu
+überprüfen, ob's geklappt hat, kannst du nochmal deine Handynummer
+eingeben.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.optout-service.telekom-dienste.de/public/anmeldung.jsp"&gt;Opt-Out  beiTelekom&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.telefonica.de/dap/selbst-entscheiden.html"&gt;Opt-Out bei Telefónica (O2, E-Plus, Aldi,...)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hintergrund-Infos dazu findest du über
+&lt;a href="https://www.kuketz-blog.de/opt-out-telefonica-vermarktet-bewegungsdaten/"&gt;Kuketz&lt;/a&gt;.&lt;/p&gt;</content><category term="Kill"></category></entry><entry><title>Kill: Google Play</title><link href="https://xcosx.github.io/kill-google-play.html" rel="alternate"></link><published>2016-10-06T15:47:00+02:00</published><updated>2016-10-06T15:47:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-10-06:/kill-google-play.html</id><summary type="html">&lt;p&gt;Ohne den Play-Store auskommen&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;strong&gt;Google Play löschen&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;F-Droid installieren&lt;/strong&gt;&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Ein Handy mit Google-Apps und -Hintergrundprozessen führt unweigerlich zur unfreiwilligen Preisgabe deiner Daten. Von Inselsystemen wie Windows- und Apple-Produkten brauche ich übrigens gar nicht reden.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.theregister.co.uk/2016/09/12/turn_off_location_services_go_ahead_says_google_well_still_track_you/"&gt;Der Google Play Store sammelt z.B. deine Standortdaten und sendet sie nach Hause&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Die gute Nachricht: Es gibt alternative "Stores", über die man Apps
+installieren kann. Ein empfehlenswerter ist
+&lt;a href="http://xcosx.de/f-droid/"&gt;F-Droid&lt;/a&gt;. Dein Vorteil davon, Apps über
+diesen Store zu installieren ist, dass du bessere Apps installieren
+kannst, die sich weniger Daten nach Hause senden als die Apps aus dem Playstore.&lt;/p&gt;
+&lt;p&gt;Die schlechte Nachricht - jetzt kommt das Brett: Man kann natürlich die Google Play App nicht einfach löschen. Aber man kann den Service-Programmen die Internetberechtigung entziehen. Das funktioniert mit den Apps &lt;a href="https://f-droid.org/packages/eu.faircode.netguard/"&gt;NetGuard&lt;/a&gt; (ohne Root-Zugriff) und &lt;a href="https://f-droid.org/packages/dev.ukanth.ufirewall/"&gt;AFWall+&lt;/a&gt; (mit Root-Zugriff).&lt;/p&gt;
+&lt;p&gt;Willst du ganz konsequent sein, musst du ein anderes Android ohne Google-Service auf dein Handy spielen. Ob es für dein Handy ein
+besseres Android gibt, musst du selbst recherchieren. Recht wahrscheinlich ist es, dass es für dein Handy ein &lt;a href="https://wiki.lineageos.org/devices/"&gt;LineageOS&lt;/a&gt;. Eine ganze Serie zu diesem Thema findest du bei
+&lt;a href="https://www.kuketz-blog.de/your-phone-your-data-teil1/"&gt;Kuketz&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Das Bespielen deines Handys mit einem neuen Betriebssystem läuft grob gesagt so: Du sicherst zuerst alle deine Daten auf dem Handy, dann lädst du diverse Programme auf dein Handy und auf deinen PC herunter, installierst ein paar von den Programmen auf deinem (möglichst Linux-)PC, um dann dein Handy mittels USB-Kabel an den PC anschließen und mit ein paar Klicks ein neues Android (was auch ein Linux ist) übertragen und installieren zu können. Wenn man man's zum zweiten Mal macht, braucht man vielleicht eine halbe Stunde dafür, das erste mal vielleicht ein paar Tage.&lt;/p&gt;</content><category term="Kill"></category></entry><entry><title>Mathematik Abitur-Vorbereitung</title><link href="https://xcosx.github.io/mathe-abi.html" rel="alternate"></link><published>2016-10-06T14:07:00+02:00</published><updated>2016-10-06T14:07:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-10-06:/mathe-abi.html</id><summary type="html">&lt;p&gt;Hier findest du Informationen zum Mathematik-Abitur in Baden-Württemberg und Aufgaben, die ich empfehle zu rechnen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hier findest du Informationen zum Mathematik-Abitur in Baden-Württemberg
+und Aufgaben, die ich empfehle zu rechnen&lt;/p&gt;
+&lt;h2&gt;Zum Buch&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.fliptheclassroom.de/"&gt;fliptheclassroom.de&lt;/a&gt; (Lernvideos
+    zu allen Kapiteln des Lambacher Schweizer Kursstufe)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/channel/UCzWDAVC6ZAJsXs808msTahQ/videos"&gt;Lösungen zu den Aufgaben aus dem Buch als
+    Youtube-Videos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.gymnasium-walldorf.de/mathematik/Kursstufe/Loesung_K1/Loesung.htm"&gt;Lösungen zu den Aufgaben aus dem Buch als
+    Fotos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Abituraufgaben inklusive Lösungen&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.matheabi-bw.de/"&gt;matheabi-bw&lt;/a&gt; (Abituraufgaben aus BW,
+    thematisch sortiert, mit Lösungen)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.abiturma.de/abituraufgaben/"&gt;abiturma&lt;/a&gt; (Abituraufgaben
+    aus BW und Bayern, als pdf, Video-Lösungen)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ne.lo-net2.de/selbstlernmaterial/m/abi/abiindex.html"&gt;Lo-net&lt;/a&gt;
+    (Abituraufgaben aller Bundesländer, nach Jahrgängen sortiert)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Gutes Übungsmaterial&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://xcosx.de/?p=99" title="WADI"&gt;WADI&lt;/a&gt; (Aufgaben zu jedem Aufgabentyp
+    für alle Klassenstufen und die Kursstufe, inklusive Lösungen)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.km-bw.de/site/pbs-bw-new/get/documents/KULTUS.Dachmandant/KULTUS/KM-Homepage/Artikelseiten%20KP-KM/1_PDFS_2016/Gymnasium/2017-Aufgaben.pdf"&gt;Musteraufgaben des Kultusministeriums (ab Abitur
+    2017)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.lehrer.uni-karlsruhe.de/~za242/osa/04Abitur/2013-Muster.pdf"&gt;Musteraufgaben des Kultusministeriums (ab Abitur
+    2013)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.lehrer.uni-karlsruhe.de/~za242/osa/04Abitur/2013-Fundus.pdf"&gt;Fundusaufgaben&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2012/2012_10_18-Bildungsstandards-Mathe-Abi.pdf"&gt;KMK&lt;/a&gt;(Bildungsstandards
+    inklusive illustrierende Prüfungsaufgaben)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.schule-bw.de/faecher-und-schularten/mathematisch-naturwissenschaftliche-faecher/mathematik/unterrichtsmaterialien/sekundarstufe2"&gt;Material auf dem
+    Landesbildungsserver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.klassenarbeiten.de/klassenarbeiten/klasse10/zentraleklassenarbeiten/"&gt;Alte
+    ZKs&lt;/a&gt;
+    (Zentrale Klassenarbeiten, damals Klasse 10). Dabei v.a. die
+    Wahrscheinlichkeitsaufgaben rechnen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Organisatorisches und Offizielles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.km-bw.de/site/pbs-bw-new/get/documents/KULTUS.Dachmandant/KULTUS/KM-Homepage/Artikelseiten%20KP-KM/1_PDFS_2016/Gymnasium/2017-Merkhilfe.pdf"&gt;Merkhilfe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.lehrer.uni-karlsruhe.de/~za242/osa/04Abitur/AnforderungenAbitur.pdf"&gt;Anforderungen an
+    Schülerlösungen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.km-bw.de/,Lde_DE/Startseite/Schule/Abitur_BW"&gt;Kultusministerium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.lehrer.uni-karlsruhe.de/~za242/osa/04Abitur/"&gt;Regierungspräsidiums
+    Karlsruhe&lt;/a&gt;
+    (alt, aber obiges gutes Material)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://rp.baden-wuerttemberg.de/rpt/Abt7/Fachberater/Documents/handreichungen_mathematik.pdf"&gt;Mündliches
+    Abitur&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Tools&lt;/h2&gt;
+&lt;p&gt;Im Prinzip reichen Stift und Papier. Ich empfehle, alle Abituraufgaben
+der letzten Jahre durchzurechnen, zu markieren, welche Teilaufgaben nur
+mit Spicken gelöst werden konnten und diese Aufgaben im zweiten
+Durchgang dann noch einmal zu rechnen. Gut ist es, wenn man außerdem zu
+den wichtigsten Themen Übersichten klassischer Aufgabenstellungen und
+ihrer Lösungswege erstellt.&lt;/p&gt;
+&lt;p&gt;Wenn man sich Mal sicher ist, eine Rechnung durchführen zu können, aber
+gerade keinen Bock darauf hat, sind neben des vorgegebenen
+Taschenrechners diese beiden Tools sehr praktisch:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.wolframalpha.com/examples/Math.html"&gt;WolframAlpha&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.geogebra.org/graphing"&gt;GeoGebra&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Abitur"></category><category term="Mathematik"></category></entry><entry><title>Anschläge und Attentate</title><link href="https://xcosx.github.io/anschlaege-und-attentate.html" rel="alternate"></link><published>2016-07-28T09:53:00+02:00</published><updated>2016-07-28T09:53:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-07-28:/anschlaege-und-attentate.html</id><summary type="html">&lt;p&gt;Meine Kommentare zu den Anschlägen&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ich wurde in letzter Zeit öfter gefragt, was ich von den derzeitigen
+Anschlägen und Attentaten halte. &lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;Zu den Anschlägen und Attentaten&lt;/h2&gt;
+&lt;p&gt;Die Anschläge und Attentate, um die's zurzeit geht sind unvernünftig und
+unmoralisch. Hier ein paar Argumentationen - es gibt natürlich noch
+viele weitere.&lt;/p&gt;
+&lt;p&gt;Bezüglich religiös motivierter Attentate muss in einer utilitaristischen
+Argumentation nur auf das Leid der Opfer und Angehöriger derselben
+hingewiesen oder mit der nach Mill qualitativ niedrig zu bewertenden
+Freude des Amokläufers oder der hinter einem Anschlag stehenden
+religiösen Anführern abgewogen werden. Dass religiöse Fanatiker den
+Aspekt der Fruchtbarkeit für sich werten, beruht auf emotionalbedingter
+Naivität und verblendetem Wunschdenken: dass langfristig ein Reich der
+großen Freude entstehen wird, lässt sich in keiner einzigen Stadt
+beobachten, die vom IS über einen längeren Zeitraum hinweg kontrolliert
+wird.&lt;/p&gt;
+&lt;p&gt;Im Sinne des Interessenutilitarismus kann festgestellt werden, dass bei
+einem Anschlag oder Attentat die Interessen der Opfer und vieler
+weiterer Personen nicht berücksichtigt werden.&lt;/p&gt;
+&lt;p&gt;Kant würde darauf hinweisen, dass bei Anschlägen und Attentaten - egal
+aufgrund welcher Motivation - Menschen als Mittel zu einem bestimmten
+Zweck missbraucht werden. Das widerspricht dem Kategorischen Imperativ.
+Eine solche Handlung ist daher eine Handlung aus Neigung und weder
+pflichtgemäß noch eine aus Pflicht. Die Emotionalität der Motivation der
+religiösen Gruppen kann man übrigens auch empirisch schön an den
+Propagandavideos nachweisen und v.a. hören: die Musik gefällt sogar mir.&lt;/p&gt;
+&lt;p&gt;Habermas würde diese nichtsprachliche Tätigkeiten als
+manifest-strategisches Handeln analysieren, das aufgrund ihrer
+Suspension der intersubjektiven Geltungsansprüche jeder
+Akzeptabilitätsbedingung widerspricht und jedweder normativen Deckung
+entblößt ist.&lt;/p&gt;
+&lt;h2&gt;Zu den Tätern&lt;/h2&gt;
+&lt;p&gt;Die Täter sind entweder egoistisch oder boshaft. Es trifft auf sie keine
+dritte Eigenschaft zu, das Oder ist ein implizites.&lt;/p&gt;
+&lt;p&gt;Die Täter verdienen kein Mitleid, weder die religiös noch rein
+egoistisch motivierten Täter, die in den Medien zu oft als "Opfer"
+dargestellt werden.&lt;/p&gt;
+&lt;p&gt;Die Gründe für die Boshaftigkeit der Täter zu suchen, könnte ein erster
+Schritt zur Prävention sein, dass die in den Medien und von der
+Bevölkerung aus Unsicherheit betriebenen Psychologisierungen mehr
+negative Auswirkungen als effektiven Nutzen haben, ist ein Fazit dieses
+Artikel:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.sueddeutsche.de/politik/gewalttaten-das-ego-der-moerder-1.3094188"&gt;http://www.sueddeutsche.de/politik/gewalttaten-das-ego-der-moerder-1.3094188&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wer danach fragt, wie es zu einer solchen Tat kommen konnte, muss sich
+immer vor Augen halten, dass keine Antwort auf diese Frage die Tat
+moralisch rechtfertigen kann. Daher nochmal: Die Täter sind entweder
+egoistisch oder boshaft und sonst nichts.&lt;/p&gt;
+&lt;p&gt;Das rechtfertigt allerdings nicht die Propaganda von Überwachungsmaßnahmen und die Aufgabe unserer freiheitlichen demokratischen Werte aufgrund von Terrorabwehr, diese ist nämlich entweder weit übertrieben oder nur ein Deckmantel für egoistische Ziele.&lt;/p&gt;</content><category term="Amok"></category><category term="Anschlag"></category><category term="Attentat"></category><category term="Habermas"></category><category term="IS"></category><category term="Kant"></category><category term="Schopenhauer"></category><category term="Singer"></category><category term="Utilitarismus"></category></entry><entry><title>Conversations</title><link href="https://xcosx.github.io/conversations.html" rel="alternate"></link><published>2016-07-20T20:27:00+02:00</published><updated>2016-07-20T20:27:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-07-20:/conversations.html</id><summary type="html">&lt;p&gt;Conversations ist zurzeit die sicherste Kommunikations-App und damit die beste Alternative zu WhatsApp.&lt;!--more--&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Conversations ist zurzeit die sicherste Kommunikations-App und damit die beste Alternative zu WhatsApp.&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;Warum ist diese App so gut?&lt;/h2&gt;
+&lt;p&gt;Eine Besonderheit dieser Chat-App ist es, dass sie (im Gegensatz zu
+WhatsApp, Signal,...) nicht über die Telefonnummer funktioniert. Das
+heißt, man tauscht mit seinem Chat-Partner statt die Telefonnummern die
+XMPP-Adressen aus. Die XMPP-Adresse, auch Jabber-ID genannt ist wie eine
+E-Mail-Adresse. Das hat mehrere Vorteile: erstens muss man niemandem
+seine Telefonnummer geben und kann seine berufliche Adresse in den
+Ferien deaktivieren, zweitens hat man sehr viele sogenannte XMPP-Server
+zur Auswahl, auf denen man seine Adresse erstellen kann (wie bei der
+E-Mail gmx.de, web.de usw.), wodurch kein zentraler Server verwendet
+wird, und das wiederum hat sicherheitsrelevante Vorteile (autoritäre
+Staaten sperren bisweilen einzelne Server), drittens kann man seine
+Adresse sogar selbst hosten.&lt;/p&gt;
+&lt;p&gt;Als Verschlüsselung wird OMEMO verwenden, der derzeitig höchsten
+Standard.&lt;/p&gt;
+&lt;h2&gt;Schritt-für-Schritt-Anleitungen&lt;/h2&gt;
+&lt;h3&gt;Installation&lt;/h3&gt;
+&lt;p&gt;Du kannst die App entweder im &lt;a href="https://play.google.com/store/apps/details?id=eu.siacs.conversations"&gt;Google
+Play-Store&lt;/a&gt;
+kaufen oder kostenlos über den App-Store
+&lt;a href="https://f-droid.org/repository/browse/?fdfilter=conversation&amp;amp;fdid=eu.siacs.conversations"&gt;F-Droid&lt;/a&gt;
+installieren. Ich beschreibe hier die Installation über F-Droid, weil
+ich denke, dass man auf Google-Produkte verzichten sollte. Ich habe alle
+meine Apps über F-Droid installiert, denn die dort angebotenen sind alle
+open-source.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;F-Droid&lt;/strong&gt; installieren&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Rufe in deinem Handy-Browser
+    &lt;a href="https://f-droid.org/"&gt;https://f-droid.org&lt;/a&gt; auf und klicke auf
+    "Download F-Droid", um eine Datei mit der Endung apk herunter zu
+    laden. (Falls das nicht funktioniert, versuch's mit einem
+    anderen Browser.)&lt;/li&gt;
+&lt;li&gt;Klicke auf die heruntergeladene Datei und folge den
+    Bildschirmanweisungen, um die App zu installieren.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conversations&lt;/strong&gt; installieren&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Starte deinen neuen App-Store namens F-Droid.&lt;/li&gt;
+&lt;li&gt;Klicke auf das den Kreis mit dem Pfeil, um die Paketquellen zu
+    aktualisieren und warte bis das abgeschlossen ist.&lt;/li&gt;
+&lt;li&gt;Suche nach der Anwendung "Conversations" (grünes Symbol) und
+    installiere sie.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Eigenes XMPP-Konto anlegen&lt;/h3&gt;
+&lt;p&gt;Sobald du die App installiert hast, und sie startest, kommt ein
+Startbildschirm mit der Überschrift "Join the Conversation".&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Klicke auf &lt;strong&gt;Nutze eigenen Provider&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Entscheide dich für eine XMPP-Adresse. Dabei hast du extrem viel
+    &lt;a href="https://gultsch.de/compliance_ranked.html"&gt;Auswahl&lt;/a&gt;, z.B.&lt;ul&gt;
+&lt;li&gt;ich@trashserver.net&lt;/li&gt;
+&lt;li&gt;ich@ubuntu-jabber.de&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Setze den Haken bei "Neues Konto auf Server erstellen".&lt;/li&gt;
+&lt;li&gt;Gib zwei Mal ein Passwort ein. Wäre nicht schlecht, wenn du dir das
+    irgendwo aufschreiben würdest.&lt;/li&gt;
+&lt;li&gt;Beim Avatar kannst du auf "Überspringen" klicken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Einem Konferenzraum beitreten&lt;/h4&gt;
+&lt;p&gt;Entweder durch Klick auf einen passenden
+&lt;a href="https://xcosx.de/ethik-konferenz/"&gt;Link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Oder von Hand:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;+&lt;/li&gt;
+&lt;li&gt;Konferenzen&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;mit zwei Menschen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Konferenz beitreten&lt;/li&gt;
+&lt;li&gt;Konferenzadresse eingeben.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;Kontakt erstellen&lt;/h4&gt;
+&lt;p&gt;Um jemandem zu schreiben, muss man seine XMPP-Adresse kennen und sie
+hinzufügen. Dazu gibt es zwei Wege&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bei "Unterhaltung beginnen" auf das Männchen mit dem Plus klicken
+    und die XMPP-Adresse eingeben.&lt;/li&gt;
+&lt;li&gt;Im Menü "QR-Code scannen" aufrufen und den QR-Code des Anderen
+    fotografieren. Man finde seinen QR-Code unter "Konto verwalten".
+    Dort muss man auf seine XMPP-Adresse klicken und dann im Menü auf
+    "QR-Code anzeigen".&lt;/li&gt;
+&lt;li&gt;Der Andere bekommt jetzt eine Nachricht und kann auf "Auch
+    hinzufügen" klicken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Sicher Chatten&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Am Besten ihr schreibt euch erst einmal eine unverschlüsselte
+    Nachricht und ihr fügt euch gegenseitig hinzu.&lt;/li&gt;
+&lt;li&gt;Dann klickt ihr auf das Schloss, wählt OMEMO aus und schickt euch
+    noch eine Nachricht.&lt;/li&gt;
+&lt;li&gt;Dabei kommt evtl. ein Fenster mit dem Titel "&lt;strong&gt;OMEMO-Fingerabdruck
+    vertrauen&lt;/strong&gt;".&lt;ul&gt;
+&lt;li&gt;Hier muss man den &lt;strong&gt;Schalter&lt;/strong&gt; nach rechts ziehen, sodass er
+    grün wird.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Android"></category><category term="App"></category><category term="XMPP"></category><category term="Chat"></category><category term="Kommunikation"></category></entry><entry><title>Schütz dich!</title><link href="https://xcosx.github.io/schuetz-dich.html" rel="alternate"></link><published>2016-03-14T19:51:00+01:00</published><updated>2016-03-14T19:51:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-03-14:/schuetz-dich.html</id><summary type="html">&lt;p&gt;Mit diesen Apps kannst du deine Privatsphäre schützen, und die deiner Freunde.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Mit diesen Apps kannst du deine Privatsphäre schützen, und die deiner Freunde.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Unsere tolle Regierung hat die Vorratsdatenspeicherung (VDS)
+wieder einmal eingeführt. Das zeigt wie wenig sich viele Bundestags und
+-ratsabgeordnete beim Thema Datensicherheit auskennen und mit dem damit
+untrennbar verbundenen Schutz der Privatsphäre der Bürger. &lt;a href="http://xcosx.de/wp-content/uploads/2015/10/VDS_Vorratsdatenspeicherung.pdf"&gt;Meine
+Zusammenfassung der Argumente gegen die
+VDS.&lt;/a&gt;
+&lt;a href="http://www.xcosx.de/mgb/keineph-slides/slides/vds.md.html"&gt;Meine Präsentation Freiheit vs.
+VDS&lt;/a&gt;. Bis das
+Verfassungsgericht die VDS wieder für illegal beurteilt, kann man nur
+eins tun: sich selbst schützen. Die wirksamsten Möglichkeiten sind der
+Verzicht auf's Internet und das vorübergehende Einmotten der SIM-Karte.
+Zu radikal? Dann kannst du folgendes tun:&lt;/p&gt;
+&lt;h2&gt;Für Jedermann: Schöne Apps, leicht zu bedienen&lt;/h2&gt;
+&lt;p&gt;Mit diesen netten Apps kann man sicherstellen, dass Mitteilungen
+verschlüsselt übertragen werden. Im Vergleich zu normalen SMS und
+WhatsApp sind diese Apps sehr sicher.&lt;/p&gt;
+&lt;h3&gt;Android&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Conversations&lt;/strong&gt;
+    (&lt;a href="https://play.google.com/store/apps/details?id=eu.siacs.conversations"&gt;Playstore&lt;/a&gt;,
+    &lt;a href="https://f-droid.org/repository/browse/?fdfilter=conversation&amp;amp;fdid=eu.siacs.conversations"&gt;F-Droid&lt;/a&gt;).
+    Das ist zurzeit die sicherste App mit dem besten Konzept.
+    &lt;a href="http://xcosx.de/conversations/"&gt;Mehr.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Es gibt noch weitere Apps, die eine gute Verschlüsselung haben oder
+    vertrauenswürdig aussehen, aber aus anderen Sicherheitsaspekten
+    heraus &lt;em&gt;nicht&lt;/em&gt; so gut sind&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Signal&lt;/strong&gt;. Benutzt einen zentralen Server und ist nicht so offen
+    für eine Entwickler-Community. Ist also nicht optimal. Dafür kann man telefonieren und die Nachrichten kommen zuverlässig an.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Threema&lt;/strong&gt;. Benutzt einen zentralen Server und ist nicht
+    open-source. Außerdem steht der Server in der Schweiz, und die
+    Schweiz hat Ende 2016 ihrem Geheimdienst quasi alle Rechte
+    gewährt. Ist also nicht optimal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Apple-Zeug&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Der beste iPhone-Messenger
+    heißt&lt;a href="https://xcosx.de/messenger-fuers-iphone/"&gt;&lt;strong&gt;ChatSecure.&lt;/strong&gt;&lt;/a&gt;
+    Beim ersten Start unter "Neues Konto" eine Jabber-ID anlegen, zum
+    Beispiel als Benutzername deinen Namen und als Domäne
+    ubuntu-jabber.de. Fürs Chatten mit einer anderen Person braucht man
+    seine Jabber-ID also z.B. person@ubuntu-jabber.de.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Windoof&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Threema&lt;/strong&gt;
+    (&lt;a href="https://www.microsoft.com/en-us/store/apps/threema/9nblggh095s5"&gt;WindowsStore&lt;/a&gt;).
+    Einschränkungen s.o.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Für Anspruchsvollere: Noch mehr Privatsphäre&lt;/h2&gt;
+&lt;p&gt;Um zu erschweren, dass beim Surfen und Kommunizieren deine Inhalte &lt;em&gt;und
+Metadaten&lt;/em&gt; gespeichert werden, muss man Verschlüsselungsprogramme in
+Kombination mit Tor verwenden.&lt;/p&gt;
+&lt;h3&gt;Android&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Orbot&lt;/strong&gt;
+    (&lt;a href="https://f-droid.org/repository/browse/?fdfilter=orbot&amp;amp;fdid=org.torproject.android"&gt;F-Droid&lt;/a&gt;/
+    &lt;a href="https://play.google.com/store/apps/details?id=org.torproject.android"&gt;Playstore&lt;/a&gt;).
+    Für die Verbindung mit Tor. Dann Firefox mit Orbot verwenden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Apple-Zeug&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Onion Browser&lt;/strong&gt;
+    (&lt;a href="https://itunes.apple.com/us/app/onion-browser/id519296448?mt=8"&gt;iTunes&lt;/a&gt;).
+    Browser fürs Surfen mit Tor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Windoof&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;TorBundle&lt;/strong&gt;
+    (&lt;a href="http://www.chip.de/downloads/Tor-Browser-Paket_22479695.html"&gt;chip.de&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pidgin&lt;/strong&gt;
+    (&lt;a href="http://www.chip.de/downloads/Pidgin_13009923.html"&gt;chip.de&lt;/a&gt;) + OTR
+    für Pidgin
+    (&lt;a href="http://www.chip.de/downloads/OTR-fuer-Pidgin_24518582.html"&gt;chip.de&lt;/a&gt;).
+    Das OTR-Plugin aktivieren. Beim Erstellen eines neuen Kontos XMPP
+    auswählen, bei Benutzer zum Beispiel deinen Namen und als Domäne
+    jabber.de. Fürs Chatten mit einer anderen Person braucht man seine
+    Jabber-ID also person@xmppserver.de. Als Proxy Tor einstellen.&lt;/li&gt;
+&lt;li&gt;Alternativ zu Pidgin: torchat&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Linux&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tor&lt;/strong&gt; (&lt;a href="https://www.torproject.org/projects/torbrowser.html.en"&gt;https://www.torproject.org/projects/torbrowser.html.en&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gajim&lt;/strong&gt;. Verwendet XMPP und OMEMO, als wie Conversations und
+    ChatSecure.
+    &lt;a href="https://xcosx.de/gajim-mit-omemo/"&gt;Installationsanleitung&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Weitere Maßnahmen&lt;/h2&gt;
+&lt;p&gt;Natürlich ist die optimale Sicherheit durch die Installation von ein,
+zwei Apps noch nicht erreicht. Dadurch kann man zum Beispiel noch nicht
+sicherstellen, dass keine App nach Hause telefoniert, oder auch das
+Betriebssystem, der Prozessor,... Will man noch mehr Maßnahmen
+ergreifen, kann man sich am
+&lt;a href="http://www.kuketz-blog.de/projekte/"&gt;kuketz-blog&lt;/a&gt; orientieren. Eine
+übersichtliche Darstellung von weiteren Maßnahmen findet man auf
+&lt;a href="https://netzpolitik.org/2015/2-jahre-snowden-enthuellungen-special-zur-digitalen-selbstverteidigung/"&gt;netzpolitik&lt;/a&gt;.
+Wer sich umfassend einarbeiten will, kann das gut auf
+&lt;a href="https://capulcu.blackblogs.org/bandi/"&gt;capulcu&lt;/a&gt;angehen. Die Seite
+&lt;a href="https://www.privacytools.io/"&gt;privacytools.io&lt;/a&gt; ist handlich und
+beinhaltet viele praktische Tipps zu Apps usw.&lt;/p&gt;
+&lt;h3&gt;Was ist mit E-Mails?&lt;/h3&gt;
+&lt;p&gt;Den Inhalt von E-Mails kann man inzwischen recht komfortabel mit PGP
+verschlüsseln. Leider ist es aber umständlich, per E-Mail ohne die
+Preisgabe von Metadaten zu kommunizieren. Auf capulcu (s.o.) sind einige
+Möglichkeiten beschrieben.&lt;/p&gt;
+&lt;p&gt;Die sichersten (und nachhaltigsten!) E-Mail-Anbieter sind
+&lt;a href="https://posteo.de/de"&gt;Posteo&lt;/a&gt; und &lt;a href="http://mailbox.org/"&gt;Mailbox.org&lt;/a&gt;.
+Bei anderen Anbietern sind eure E-Mails oft unverschlüsselt gespeichert,
+bei manchen werden sogar die Inhalte statistisch ausgewertet.&lt;/p&gt;</content><category term="Android"></category><category term="App"></category><category term="Jabber"></category><category term="PC"></category><category term="Sicherheit"></category><category term="TextSecure"></category><category term="WhatsApp"></category><category term="XMPP"></category></entry><entry><title>Informatik-AG</title><link href="https://xcosx.github.io/informatik-ag.html" rel="alternate"></link><published>2016-03-11T23:11:00+01:00</published><updated>2016-03-11T23:11:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-03-11:/informatik-ag.html</id><summary type="html">&lt;p&gt;Material meiner Informatik-AG&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ich veröffentliche meine Unterrichtsmaterialien im&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.gitbook.com/book/dorkeinath/informatik-ag/details"&gt;Git-Book Informatik-AG&lt;/a&gt;&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;Wer Ideen beitragen, mich auf Fehler aufmerksam machen oder mitschreiben will, kann sich sehr gerne bei mir melden.&lt;/p&gt;</content></entry><entry><title>ITG-Unterricht</title><link href="https://xcosx.github.io/itg-unterricht.html" rel="alternate"></link><published>2016-03-11T22:40:00+01:00</published><updated>2016-03-11T22:40:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-03-11:/itg-unterricht.html</id><summary type="html">&lt;p&gt;Material zu ITG-Unterricht&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ich veröffentliche meine Unterrichtsmaterialien im&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.gitbook.com/book/dorkeinath/itg/details"&gt;GitBook ITG&lt;/a&gt;&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;Wer Ideen beitragen, mich auf Fehler aufmerksam machen oder mitschreiben
+will, kann sich sehr gerne bei mir melden.&lt;/p&gt;</content></entry><entry><title>Ethik-Unterricht</title><link href="https://xcosx.github.io/ethik-unterricht.html" rel="alternate"></link><published>2016-02-14T22:54:00+01:00</published><updated>2016-02-14T22:54:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2016-02-14:/ethik-unterricht.html</id><summary type="html">&lt;p&gt;Links zum Ethik-Unterricht&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Unterrichtsmaterial&lt;/h2&gt;
+&lt;p&gt;Mein Material für Ethikunterricht in der Oberstufe findet man
+hier:&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;GitBook&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.gitbook.com/book/dorkeinath/ethik-kurs/details"&gt;GitBook
+    Ethik-Kurs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Präsentationen&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://xcosx.de/mgb/slides.php"&gt;Slides Version 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://xcosx.de/mgb/ethik-slides.php"&gt;Slides Version 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content></entry><entry><title>F-Droid</title><link href="https://xcosx.github.io/f-droid.html" rel="alternate"></link><published>2015-10-27T18:16:00+01:00</published><updated>2015-10-27T18:16:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2015-10-27:/f-droid.html</id><summary type="html">&lt;p&gt;Alternative zu Googles Playstore.&lt;!--more--&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Alternative zu Googles Playstore.&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;Im App-Store namens F-Droid sind alle Apps open-source, was die Apps
+grundsätzlich sicherer macht.&lt;/p&gt;
+&lt;h2&gt;F-Droid installieren&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Mit deinem Browser (Firefox) auf
+    &lt;a href="https://f-droid.org/"&gt;f-droid.org&lt;/a&gt;gehen und auf "Download" klicken.
+    Es wird eine *.apk-Datei heruntergeladen.&lt;/li&gt;
+&lt;li&gt;Diese apk-Datei musst du jetzt installieren. Dazu kannst du in einen Datei-Manager gehen und auf die Datei klicken. Den
+    Bildschirmanweisungen folgen. (Während der Installation wird ein
+    Hinweis darauf kommen, dass und wie du für die Zeit der Installation
+    unter Systemeinstellungen/Sicherheit/Geräteverwaltung ein Häkchen
+    bei "Unbekannte Herkunft" setzen musst.)&lt;/li&gt;
+&lt;/ol&gt;</content></entry><entry><title>Cyberkrieg</title><link href="https://xcosx.github.io/cyberkrieg.html" rel="alternate"></link><published>2015-10-18T17:40:00+02:00</published><updated>2015-10-18T17:40:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2015-10-18:/cyberkrieg.html</id><summary type="html">&lt;p&gt;Links zum Thema Cyberkrieg&lt;/p&gt;</summary><content type="html">&lt;p&gt;Edward Snowden: "Wir sehen unerwartete Auswirkungen, völlig neue
+Verhaltensweisen,&lt;!--more--&gt; wenn wir den kleinen bösen Virus in das
+große Becken unserer Privatleben, in all unsere privaten Systeme im Netz
+setzen. Denn der Virus neigt dazu, zu flüchten, und dann wird das ein
+Jurassic Park."&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.chip.de/news/Snowden-Doku-Citizenfour-Oscar-Gewinner-jetzt-kostenlos-anschauen_76784926.html"&gt;Doku-Thriller über Edward Snowden
+"Citizenfour"&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.daserste.de/information/reportage-dokumentation/dokus/videos/die-story-im-ersten-schlachtfeld-internet-100.html"&gt;Video "Schlachtfeld Internet" u.a. mit Edward
+Snowden&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.ndr.de/nachrichten/netzwelt/Stuxnet-Die-erste-Waffe-im-digitalen-Krieg,kriegiminternet102.html"&gt;Hintergrund-Informationen des NDR zum Thema
+Cyberkrieg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://motherboard.vice.com/de/blog/geheimdienste-sind-teure-datenmll-sammler-die-sich-nicht-an-gesetze-halten"&gt;Interview mit Binney zum Thema Kontrolle der
+Geheimdienste&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://m.heise.de/newsticker/meldung/Gas-und-Oel-Industrie-Leichte-Ziele-fuer-Hacker-2922912.html"&gt;17.11.2015 Gas- und Öl-Industrie: Leichte Ziele für
+Hacker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.ndr.de/nachrichten/netzwelt/Stuxnet-Die-erste-Waffe-im-digitalen-Krieg,kriegiminternet102.html"&gt;10.1.2015 Langner zu Stuxnet und digitalen
+Waffen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Laura Poitras: "Die Vereinigten Staaten benutzen die Angst, um einen
+Sicherheitsapparat zu rechtfertigen, der nicht mehr Teil des
+demokratischen Prozesses oder einer demokratischen Kontrolle ist."&lt;/p&gt;</content></entry><entry><title>Gefahren für die Daten</title><link href="https://xcosx.github.io/gefahren-fuer-die-daten.html" rel="alternate"></link><published>2015-10-17T19:33:00+02:00</published><updated>2015-10-17T19:33:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2015-10-17:/gefahren-fuer-die-daten.html</id><summary type="html">&lt;p&gt;Kleine Auswahl an Artikel, die über die Sicherheitslage von Daten&lt;/p&gt;</summary><content type="html">&lt;p&gt;Kleine Auswahl an Artikel, die über die Sicherheitslage von Daten
+berichten.&lt;/p&gt;
+&lt;p&gt;Sorry, dass ich die Auswahl nicht aktualisiere, sonst müsste ich jeden
+Tag hier Zeit investieren.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;"Jede Person hat das Recht auf Achtung ihres Privat- und Familienlebens,
+ihrer Wohnung und ihrer Korrespondenz.“&lt;/p&gt;
+&lt;p&gt;(Europäische Menschenrechtskonvention Art. 8 Abs. 1)&lt;/p&gt;
+&lt;p&gt;"Jede Person hat das Recht auf Schutz der sie betreffenden
+personenbezogenen Daten. Diese Daten dürfen nur nach Treu und Glauben
+für festgelegte Zwecke und mit Einwilligung der betroffenen Person oder
+auf einer sonstigen gesetzlich geregelten legitimen Grundlage
+verarbeitet werden. Jede Person hat das Recht, Auskunft über die sie
+betreffenden erhobenen Daten zu erhalten und die Berichtigung der Daten
+zu erwirken“&lt;/p&gt;
+&lt;p&gt;(Charta der Grundrechte der Europäischen Union Art. 8)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://m.heise.de/security/meldung/Weiterhin-Riesensicherheitsloch-bei-Patientendaten-3133550.html"&gt;13.3.2016 Unsichere
+Gesundheitskarte&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://netzpolitik.org/2015/eff-bericht-google-trackt-schueler-ueber-chromebooks/"&gt;7.12.2015 Google trackt
+Schüler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/security/meldung/Datenschutz-Werbe-Tracker-ueberwinden-Geraetegrenzen-2921817.html"&gt;15.11.2015 Werbe-Tracker überwinden
+Gerätegrenzen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/security/meldung/Glaeserne-Arbeitnehmer-Verdi-warnt-vor-Kehrseite-der-Datenflut-2921793.html"&gt;15.11.2015 Verdi warnt vor Kehrseite der
+Datenflut&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/security/meldung/Patchday-Microsoft-macht-Windows-und-seine-Webbrowser-sicherer-2916526.html"&gt;11.11.2015 12 Lücken bei
+Microsoft&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/security/meldung/Zahlen-bekanntgegeben-Von-der-NSA-verschwiegene-IT-Sicherheitsluecken-2912944.html"&gt;10.11.2015 NSA hält Lücken
+geheim&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/security/meldung/Grusskarten-App-Hacker-brechen-in-Computersystem-von-Touchnote-ein-2911992.html"&gt;9.11.2015 Nutzerdaten der Grußkarten-App Touchnote
+gehackt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/security/meldung/Verschluesselungstrojaner-Chimera-droht-mit-Veroeffentlichung-persoenlicher-Daten-2909986.html"&gt;6.11.2015 Trojaner verschlüsselt private Fotos und droht mit
+Veröffentlichung
+derselben&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/security/meldung/157-000-Kunden-vom-TalkTalk-Hack-betroffen-2909767.html"&gt;6.11.2015 Daten der App TalkTalk
+gehackt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.faz.net/aktuell/politik/ausland/europa/britisches-geheimdienstgesetz-snowdens-vermaechtnis-13894363.html?printPagedArticle=true#pageIndex_2"&gt;4.11.2015 Snowdens Befürchtungen werden beim Britischer Geheimdienst
+real&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/security/meldung/Jugendliche-hacken-angeblich-einen-E-Mail-Account-des-FBI-Vizedirektors-2880161.html"&gt;5.11.2015 Jugendliche Hacken
+FBI-Account&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/security/meldung/Wormhole-Schwachstelle-Backdoor-in-ueber-14-000-Android-Apps-2868252.html"&gt;3.11.2015 Backdoor für 14000 Apps
+entdeckt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/security/meldung/ADAC-zeigte-versehentlich-Mitgliederdaten-online-2867019.html"&gt;2.11.2015 ADAC zeigt versehentlich Mitgliederdaten
+online&lt;/a&gt;
+&lt;a href="http://www.heise.de/security/meldung/ADAC-Abgegriffene-Mitgliederdaten-von-Datentraegern-geloescht-2877632.html"&gt;Betroffene Mitglieder werden nicht
+informiert&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/newsticker/meldung/Europol-Cyber-Kriminelle-werden-immer-aggressiver-2835263.html"&gt;30.9.2015 Cyber-Kriminelle werden immer
+aggressiver&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/security/meldung/Bundestag-Hack-war-ein-Phishing-Angriff-ueber-un-org-2811847.html"&gt;12.9.2015 Daten aus dem Bundestag
+gehackt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.heise.de/security/meldung/Deutsche-Telekom-warnt-vor-Spam-Welle-2786008.html"&gt;19.8.2015 Erfolgreicher Hack bei
+T-Online&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://m.heise.de/security/meldung/Webhoster-1blu-gehackt-und-erpresst-2777957.html"&gt;13.8.2015 1blu gehackt und
+erpresst&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.bfdi.bund.de/DE/Infothek/Pressemitteilungen/2015/18_WarnungVorFitnessapps.html?nn=5217040"&gt;16.7.2015 Warnung vor
+Fitness-Apps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.telemedicus.info/article/677-Das-IT-Grundrecht-im-Detail.html"&gt;27.2.2008 IT-Grundrecht im
+Detail&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Browser-Check&lt;/h2&gt;
+&lt;p&gt;Teste auf &lt;a href="https://panopticlick.eff.org/"&gt;Panopticclick&lt;/a&gt;, ob dein
+Browser "unique" ist. Wenn ja, bedeutet das, dass Internetseiten deinen
+Browser als &lt;em&gt;deinen&lt;/em&gt; erkennen und dich damit tracken können.&lt;/p&gt;</content></entry><entry><title>Ethik-AUVs und -Referenten</title><link href="https://xcosx.github.io/ethik-auvs-und-referenten.html" rel="alternate"></link><published>2015-10-15T14:05:00+02:00</published><updated>2015-10-15T14:05:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2015-10-15:/ethik-auvs-und-referenten.html</id><summary type="html">&lt;p&gt;Vorschläge für den Ethikunterricht&lt;!--more--&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Vorschläge für den Ethikunterricht&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;AUVs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Suchtberatungsstelle&lt;/li&gt;
+&lt;li&gt;Hospiz&lt;/li&gt;
+&lt;li&gt;Friedhof&lt;/li&gt;
+&lt;li&gt;Zoo (Zusammenarbeit mit KIT; Thema Artenschutz und Tierethik)&lt;/li&gt;
+&lt;li&gt;Supermarkt&lt;/li&gt;
+&lt;li&gt;Tafelladen&lt;/li&gt;
+&lt;li&gt;ChaosComputerClub&lt;/li&gt;
+&lt;li&gt;Straßenverkehr und Behinderungen&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ziviler-friedensdienst.org/de/material"&gt;Ziviler
+    Fiedensdienst&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Thema Recht und Gerechtigkeit&lt;ul&gt;
+&lt;li&gt;Menschenrechtszentrum (Karlsruhe)&lt;/li&gt;
+&lt;li&gt;Internationales Begegnungszentrum (Karlsruhe)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Thema Nachhaltigkeit&lt;ul&gt;
+&lt;li&gt;Naju&lt;/li&gt;
+&lt;li&gt;Klärwerk&lt;/li&gt;
+&lt;li&gt;Stromversorger&lt;/li&gt;
+&lt;li&gt;Ernährungszentrum des Landwirtschaftsamts&lt;/li&gt;
+&lt;li&gt;MyClimate (Referent der Universität)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Thema Religion&lt;ul&gt;
+&lt;li&gt;Garten der Religionen (Karlsruhe beim Scheck-In-Center)&lt;/li&gt;
+&lt;li&gt;Moschee&lt;/li&gt;
+&lt;li&gt;Kirche&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Thema Medizinethik&lt;ul&gt;
+&lt;li&gt;DKMS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Berlin: Deutscher Ethikrat&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Referenten&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Amnesty International&lt;/li&gt;
+&lt;li&gt;Unicef&lt;/li&gt;
+&lt;li&gt;Bundeswehr&lt;/li&gt;
+&lt;li&gt;Naju&lt;/li&gt;
+&lt;li&gt;Zeitzeugen&lt;/li&gt;
+&lt;li&gt;Blindenwerk&lt;/li&gt;
+&lt;li&gt;ProForma (Thema Sexualethik)&lt;/li&gt;
+&lt;li&gt;Filmemacher (z.B. Journalisten der Doku "Marsch der Würde" zum Thema
+    Flüchlinge&lt;/li&gt;
+&lt;/ul&gt;</content></entry><entry><title>Sozial Bücher kaufen</title><link href="https://xcosx.github.io/sozial-buecher-kaufen.html" rel="alternate"></link><published>2015-06-30T21:53:00+02:00</published><updated>2015-06-30T21:53:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2015-06-30:/sozial-buecher-kaufen.html</id><summary type="html">&lt;p&gt;So kann man gut Bücher kaufen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://www.buch7.de/static/kostenstruktur"&gt;buch7.de&lt;/a&gt; spendet 75 % des Gewinns an soziale Projekte.&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;Wer bei &lt;a href="https://www.buch7.de/static/kostenstruktur"&gt;buch7.de&lt;/a&gt; ein Buch
+kauft, spendet daher - für ihn kostenlos - ca. 5 % des Buchpreises für
+soziale Projekte.&lt;/p&gt;
+&lt;p&gt;Ob man Bücher überhaupt im Internet kaufen sollte, ist natürlich eine
+interessante Frage. Wer kleine regionale Buchläden mag und auch in
+Zukunft in seiner Stadt haben möchte, sollte besser direkt dort Bücher
+kaufen. Die meisten kleinen Buchläden bieten übrigens auch an, dass man
+auf ihrer Internetseite Bücher bestellt und bei ihnen abholt.&lt;/p&gt;
+&lt;p&gt;Aber besser als Bücher bei Amazon oder Thalia zu kaufen, ist das
+Bestellen bei &lt;a href="https://www.buch7.de/"&gt;buch7.de&lt;/a&gt;allemal.&lt;/p&gt;</content><category term="Bücher"></category><category term="Good Shops"></category></entry><entry><title>Good Shops</title><link href="https://xcosx.github.io/good-shops.html" rel="alternate"></link><published>2015-05-04T21:22:00+02:00</published><updated>2015-05-04T21:22:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2015-05-04:/good-shops.html</id><summary type="html">&lt;p&gt;Wo man mit gutem Gewissen einkaufen kann&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Wo man mit gutem Gewissen einkaufen kann&lt;/h2&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Bevor's zu den empfehlenswerten Shops geht, zwei Bemerkungen&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Am ökologischsten ist es, wenn man gar keine Klamotten oder Schuhe
+    einkauft. Ergo ist es sinnvoll, gute Qualität zu kaufen.&lt;/li&gt;
+&lt;li&gt;Im September 2014 hat Entwicklungsminister Gerd Müller zu einem
+    Bündnis für Nachhaltigkeit und Fairness aufgerufen. Die meisten
+    großen Unternehmen wie Adidas oder Tchibo haben dabei eine
+    Blockadehaltung eingenommen. Hier findet man die &lt;a href="http://www.bmz.de/de/zentrales_downloadarchiv/Presse/Textilbuendnis/Textilbuendnis_Beitrittserklaerungen.pdf"&gt;Liste derjenigen,
+    die dem Bündnis beigetreten
+    sind&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Kleidung&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.zuendstoff-clothing.de/"&gt;Zündstoff&lt;/a&gt; (Es gibt auch einen
+    Laden in Freiburg)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.monagoo.com/magazin/2014/06/projekt-faire-laufkleidung-zusammenfassung-des-nachhaltigen-selbstversuchs/"&gt;Monagoo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.lana-shop.de/"&gt;Lana&lt;/a&gt; (u. a. Kinder-Klamotten)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.grundstoff.net/schuhe-sneaker-und-flipflops-c-32.html"&gt;Grundstoff&lt;/a&gt;
+    (u.a. Klamotten von &lt;a href="http://www.stanleystella.com/de#about"&gt;Stanley &amp;amp;
+    Stella&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.cotton.de/fair-bio/stanley-and-stella/"&gt;Cotton.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.pristineplanet.com/womens-shoes-earth-eco-friendly-shoes-socially-responsible-hemp/women%27s-shoes/1016_a_0.html"&gt;Pristine
+    Planet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.toms.com"&gt;toms&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Womit ich keine gute Erfahrung gemacht habe&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Earth positive (nicht nachhaltig, da sehr schnell kaputt)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Schuhe&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.zuendstoff-clothing.de/"&gt;Zündstoff&lt;/a&gt; (Es gibt auch einen
+    Laden in Freiburg)&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.zuendstoff-clothing.de/Produkte/Frauen/Schuhe/?bFilterNewRequest=1&amp;amp;q=&amp;amp;aPkgShopListfilter[3c7fcc43-2ce3-32af-9e50-7bb3c41d2584][]=Ethletic&amp;amp;aPkgShopListfilter[8fb5cf37-bf02-2147-b0ff-83a47f3d6422][dStartValue]=&amp;amp;aPkgShopListfilter[8fb5cf37-bf02-2147-b0ff-83a47f3d6422][dEndValue]="&gt;Ethletic&lt;/a&gt; (Ökologische
+    Variante der Chucks)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.zuendstoff-clothing.de/Produkte/Frauen/Schuhe/?bFilterNewRequest=1&amp;amp;q=&amp;amp;aPkgShopListfilter[8fb5cf37-bf02-2147-b0ff-83a47f3d6422][dStartValue]=&amp;amp;aPkgShopListfilter[8fb5cf37-bf02-2147-b0ff-83a47f3d6422][dEndValue]="&gt;ekn &lt;/a&gt;(Schuhe
+    in Portugal hergestellt,
+    Bio, &lt;a href="http://www.ekinfootwear.de/about"&gt;Hersteller-Shop&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.monagoo.com/magazin/2014/06/projekt-faire-laufkleidung-zusammenfassung-des-nachhaltigen-selbstversuchs/"&gt;Monagoo&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.lunge.com/"&gt;Lunge&lt;/a&gt;(Laufschuhe/Joggingschuhe)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kavat.com/en/"&gt;Kavat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Socken&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://jungfeld.com/de_de/qualitaet"&gt;Jungfeld&lt;/a&gt;(deutsche Biosocken)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Outdoor&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.vaude.com/"&gt;Vaude&lt;/a&gt;(Deutscher Hersteller von
+    Outdoor-Produkten, die so &lt;a href="http://www.zeit.de/2014/32/antje-von-dewitz-vaude"&gt;ökologisch und fair wie
+    möglich&lt;/a&gt; sind.)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://patagonia.com/"&gt;Patagonia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bücher&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://buch7.de"&gt;buch7.de&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Schokolade&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Meine derzeitige Lieblingsschokolade: &lt;a href="https://www.bioschokolade.de/produktsortiment/gourmet-tafeln/vivani-bio-schokolade-dunkle-vollmilch/a-713/"&gt;Vivani 50
+    %&lt;/a&gt;.
+    Gibt's bei Alnatura und zurzeit ab 11 Tafeln billiger bei
+    &lt;a href="http://www.biovio.de/Naturkost/Suesses/Schokolade/Vivani-Dunkle-Vollmilch-50--Cacao-80-g.html"&gt;biovio.de&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Zum Stöbern&lt;/h3&gt;
+&lt;p&gt;Die folgende Liste zu Öko-Mode habe ich nicht selbst zusammen gestellt
+und nicht ausprobiert:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;http://www.manomama.de/shop/&lt;/li&gt;
+&lt;li&gt;http://www.armedangels.de&lt;/li&gt;
+&lt;li&gt;http://www.livingcrafts.de&lt;/li&gt;
+&lt;li&gt;http://de.hessnatur.com&lt;/li&gt;
+&lt;li&gt;https://www.bleed-clothing.com&lt;/li&gt;
+&lt;li&gt;http://maas-natur.de&lt;/li&gt;
+&lt;li&gt;http://www.fairtragen.de/index.php&lt;/li&gt;
+&lt;li&gt;http://www.ekinfootwear.de/women.html?limit=all&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;http://webshop.kuyichi.com/view/women/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;https://www.bundladen.de&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;http://www.waschbaer.de&lt;/li&gt;
+&lt;li&gt;http://www.avocadostore.de&lt;/li&gt;
+&lt;li&gt;http://www.we-wood.com/orologi_de.php?riv=de&lt;/li&gt;
+&lt;li&gt;http://www.natureline.de&lt;/li&gt;
+&lt;li&gt;http://www.bett-und-tuch.de&lt;/li&gt;
+&lt;li&gt;http://www.upcycling-markt.de/k_Rucksaecke-134.html&lt;/li&gt;
+&lt;li&gt;http://www.allnatura.de&lt;/li&gt;
+&lt;li&gt;http://www.hema-wollversand.de/janni_biogarn.htm&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;http://senger-tierpuppen.de/index.php?id=21&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;http://mappenmanufaktur.com&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;http://www.schreiner-loeffler.de&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Bio"></category><category term="Bücher"></category><category term="Fair Trade"></category><category term="Good Shops"></category><category term="Klamotten"></category><category term="Kleidung"></category><category term="Nachhaltigkeit"></category><category term="Outdoor"></category><category term="Schokolade"></category><category term="Schuhe"></category><category term="Wandern"></category></entry><entry><title>Vom Handy zum Beamer: Das RPi im Klassenzimmer</title><link href="https://xcosx.github.io/rpi-im-klassenzimmer.html" rel="alternate"></link><published>2015-03-15T21:19:00+01:00</published><updated>2015-03-15T21:19:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2015-03-15:/rpi-im-klassenzimmer.html</id><summary type="html">&lt;p&gt;Du willst deine Medien vom Handy an den Beamer senden?&lt;!--more--&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Du willst deine Medien vom Handy an den Beamer senden?&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;Dann kannst du dir von einem beliebigen Hersteller einen WLAN-Stick
+kaufen, der das kann (ca. 35-60 €) oder du bastelst dir mit einer
+Raspberry Pi (RPi) deine Lösung selbst.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google Chromecast&lt;/strong&gt;. Ich habe Googles Chromecast ausprobiert und
+    für gut befunden - unter bestimmten Bedingungen. Aber unter meinen
+    Voraussetzungen ist es nicht geeignet, und zwar (1) weil ich bei
+    meinen Schülern nicht ständig Werbung von Google zeigen möchte, und
+    (2) weil in unseren Klassenzimmern kein WLAN zur Verfügung steht.
+    Ich muss also bei meinem Handy die Internetverbindung aktivieren und
+    einen AccessPoint bereit stellen. Dann brauche ich ein zweites
+    Handy, um Medien streamen zu können. Oder ich nehme mein Handy als
+    Client, brauche aber einen mobilen Router.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AppleTV&lt;/strong&gt;. Einen Erfahrungsbericht zu AppleTV mit dem iPad hat
+    &lt;a href="https://cspannagel.wordpress.com/2015/01/15/mobil-prasentieren-im-horsaal/"&gt;Spannagel&lt;/a&gt;geschrieben.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Raspberry Pi - Meine Lösung&lt;/h2&gt;
+&lt;p&gt;In das Raspberry Pi mit Kodi/XBMC  einen (speziellen s.u.) WLAN-Dongle
+stecken, ein paar wenige Einstellungen tätigen, fertig. Wenn man weiß
+wie es geht, dauert die Installation ca. 5 Min. Beim ersten Mal dauert
+es länger.&lt;/p&gt;
+&lt;p&gt;Jetzt kann man das Handy mit dem vom RPi bereit gestellten WLAN
+verbinden und Medien (über das UPnP/DLNA-Protokoll) zum RPi senden, das
+RPi sendet sie dann über den HDMI-Ausgang an den Beamer&lt;a href="http://xcosx.de/wp-content/uploads/2015/02/RPi-am-Mobi.png"&gt;.&lt;br&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://xcosx.de/wp-content/uploads/2015/02/Screenshot_2015-02-17-11-46-3301.png"&gt;&lt;img alt="Screenshot_2015-02-17-11-46-33\~01" src="http://xcosx.de/wp-content/uploads/2015/02/Screenshot_2015-02-17-11-46-3301-300x144.png"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Funktionsweise&lt;/h2&gt;
+&lt;p&gt;Das Besondere an meiner Lösung ist, dass das RPi ein WLAN bereit stellt,
+das quasi offline ist, also einen AccessPoint, der nicht mit dem
+Internet verbunden ist, quasi ein WLAN-Hotspot ohne Internet, ein WLAN
+ad-hoc Netzwerk. Das ist nicht Wifi-Direct, sondern im wörtlichen Sinne
+ein WLAN, ein lokales Funknetzwerk. LibreELEC bzw. Kodi beherrscht die
+Protokolle UPnP und AirPlay, sodass man mit Android- und Apple-Handys
+Medien streamen kann.&lt;/p&gt;
+&lt;p&gt;Screen-Mirroring ist mit Apps wie &lt;a href="https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial"&gt;Screen Stream
+Mirroring&lt;/a&gt;
+auch möglich, allerdings benötigt man auf dem Handy Superuser-Rechte.
+(&lt;a href="http://www.kuketz-blog.de/grundstein-legen-android-ohne-google-teil2/"&gt;Android-Handy
+rooten.&lt;/a&gt;)
+Ob es eine Opensource-Software gibt, die das kann, weiß ich nicht.&lt;/p&gt;
+&lt;h2&gt;Details&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Raspberry Pi kaufen:
+    &lt;a href="http://www.rasppishop.de/"&gt;http://www.rasppishop.de/boards/&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;Evtl. gleich noch Zubehör&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.rasppishop.de/diverse/kabel-adapter/hdmidvivideoaudio/130/audio/videokabel-hdmi-19pol-stecker-hdmi-19pol-stecker-1-8-m-mit-ethernet"&gt;HDMI-Kabel&lt;/a&gt;
+    oder &lt;a href="http://www.rasppishop.de/diverse/kabel-adapter/hdmidvivideoaudio/39/audio/videokabel-dvi-zu-hdmi-2m"&gt;HDMI zu
+    DVI-Kabel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rasppishop.de/diverse/kabel-adapter/usb/137/usb-zu-micro-usb-kabel-1-m-raspberry-pi-power-supply"&gt;Micro-USB-Kabel&lt;/a&gt;
+    oder einen ganzen
+    &lt;a href="http://www.rasppishop.de/stromversorgung/3/steckernetzteil-erp-micro-usb-5volt-1-0-a-geeignet-fuer-raspberry-pi"&gt;Stromanschluss&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Eine SD-Karte (theoretisch genügt 1 GB)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;WLAN-Dongle von LogiLink kaufen:
+    &lt;a href="http://www.amazon.de/gp/product/B007JWB1N2?psc=1&amp;amp;redirect=true&amp;amp;ref_=oh_aui_detailpage_o01_s00"&gt;WL0084B&lt;/a&gt;
+    (nur mit wenigen Sticks funktioniert diese WLAN-Variante. Bei einem
+    vorhandenen WLAN kann man auch den &lt;a href="http://www.rasppishop.de/diverse/netzwerk/w-lan/146/wireless-usb-11n-nano-adapter-802.11n-wifi-dongle-fuer-raspberry-pi"&gt;üblichen
+    WLAN-Dongle&lt;/a&gt;
+    oder den TL-WN725N nehmen, da man kein Tethering aktivieren muss.)&lt;/li&gt;
+&lt;li&gt;LibreELEC mit Kodi (ehemals XBMC) installieren&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://libreelec.tv/downloads/"&gt;LibreELEC (mit Kodi)
+    herunterladen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wiki.libreelec.tv/index.php?title=Installation"&gt;LibreELEC (mit Kodi) auf der SD-Karte
+    installieren&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;WLAN-Dongle anschließen und im Kodi vier Optionen aktivieren&lt;ul&gt;
+&lt;li&gt;Optionen/LibreELEC/Netzwerk: aktiv + WLAN-AccesPoint
+    ('tethered') aktivieren&lt;/li&gt;
+&lt;li&gt;Optionen/Einstellungen/Dienste/UPnP: UPnP-Server aktivieren +
+    Steuerung über UPnP zulassen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Auf Android beherrschen z.B.&lt;a href="https://f-droid.org/repository/browse/?fdfilter=upnp&amp;amp;fdpage=1&amp;amp;page_id=0"&gt;diese Opensource-Apps
+    UPnP&lt;/a&gt;,
+    oder, wer GooglePlay benutzt: BubbleUPnP.&lt;/li&gt;
+&lt;li&gt;Tipp: Das RPi immer brav herunterfahren, z.B. mit der App
+    &lt;a href="https://f-droid.org/repository/browse/?fdfilter=kodi&amp;amp;fdid=org.xbmc.kore"&gt;Kore&lt;/a&gt;
+    oder Yatse oder sicher gehen, dass die RPi nichts schreibt, während
+    man aus schaltet.&lt;/li&gt;
+&lt;li&gt;Powerpoint und PDF-Dateien können nicht direkt gestreamt werden
+    (zurzeit noch nicht?). Als Workaround mache ich von den Seiten, die
+    ich den Schülern zeigen möchte, Screenshots direkt in das
+    Verzeichnis, das ich mit meinem Handy
+    &lt;a href="https://f-droid.org/repository/browse/?fdfilter=syncthing&amp;amp;fdid=com.nutomic.syncthingandroid"&gt;synchronisiere&lt;/a&gt;.
+    Hier mein Bash-Skript:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- --&gt;
+
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
+2
+3
+4
+5
+6
+7&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/bin/bash&lt;/span&gt;
+&lt;span class="nv"&gt;PFAD_B&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;/home/x/PDF/jpg_of_pdf&amp;quot;&lt;/span&gt;
+&lt;span class="nb"&gt;cd&lt;/span&gt; /home/x/PDF/to_jpg
+&lt;span class="k"&gt;for&lt;/span&gt; i in *.pdf
+ do convert -verbose -interlace none -density &lt;span class="m"&gt;300&lt;/span&gt; -quality &lt;span class="m"&gt;90&lt;/span&gt;  &lt;span class="nv"&gt;$i&lt;/span&gt;   &lt;span class="nv"&gt;$file&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;&lt;/span&gt;&lt;span class="nv"&gt;$PFAD_B&lt;/span&gt;&lt;span class="s2"&gt;/&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="nv"&gt;i&lt;/span&gt;&lt;span class="p"&gt;/pdf/jpg&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;&lt;/span&gt;
+&lt;span class="k"&gt;done&lt;/span&gt;
+&lt;span class="nb"&gt;exit&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content><category term="Android"></category><category term="Raspberry Pi"></category><category term="UPnP"></category></entry><entry><title>Mathematische Grundlagen</title><link href="https://xcosx.github.io/grula-mathe.html" rel="alternate"></link><published>2015-01-17T19:06:00+01:00</published><updated>2015-01-17T19:06:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2015-01-17:/grula-mathe.html</id><summary type="html">&lt;p&gt;Dir fehlen mathematische Grundlagen aus der Unter- oder Mittelstufe? Hier findest du u.a. Erklärungen und Aufgaben.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dir fehlen mathematische Grundlagen aus der Unter- oder Mittelstufe?
+&lt;!--more--&gt;Hier findest du u.a. Erklärungen und Aufgaben. Besonders gut finde ich die Seiten, auf denen man seine eigenen Aufgaben erstellen und
+lösen kann, denn auf einigen wird dann sogar der Rechenweg angezeigt. Du
+kannst dir also deine eigene Aufgabe stellen, sie lösen und danach mit
+der Rechnung der Seite vergleichen.&lt;/p&gt;
+&lt;h1&gt;Zahlen&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.arndt-bruenner.de/mathe/scripts/zahlwoerter.htm"&gt;Zahlwörter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Rechnen mit Zahlen&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Android-App King of Math&lt;/li&gt;
+&lt;li&gt;Mit eigenen Zahlen &lt;a href="http://www.arndt-bruenner.de/mathe/scripts/dividieren1.htm"&gt;schriftlich
+    dividieren&lt;/a&gt;
+    und Rechenweg anzeigen lassen. Weitere Seite mit der man das
+    &lt;a href="http://www.calculino.com/de/schule/schriftliche-division_rechner.html"&gt;schriftliche
+    Dividieren&lt;/a&gt;
+    üben kann.&lt;/li&gt;
+&lt;li&gt;Umrechnen von
+    &lt;a href="http://www.arndt-bruenner.de/mathe/scripts/einheitenueben.htm"&gt;Einheiten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Erklärungen und Übungen zu Bruchzahlen: &lt;a href="http://www.br.de/grips/faecher/grips-mathe/index.html"&gt;BR
+    GRIPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mit
+    eigenen&lt;a href="http://www.arndt-bruenner.de/mathe/scripts/bruchrechnung2.htm"&gt;Brüchen&lt;/a&gt;
+    rechnen und Rechenweg anzeigen lassen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Gleichungen&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://nlvm.usu.edu/en/nav/frames_asid_201_g_3_t_2.html"&gt;Online-Waage&lt;/a&gt;
+    mit zwei Tools: Gleichungen lösen und eigene Gleichungen erstellen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Flächen&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://mediabox.br-online.de/boxen/grips_m16_umfang-grundlagen_02/html/index.html"&gt;Grundlagen mit Videos
+    erklärt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.mathe-mbg.de/6-klasse/stoff/88-flaecheninhalt-von-dreiecken-und-vierecken"&gt;Dreiecke und
+    Vierecke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ne.lo-net2.de/selbstlernmaterial/m/s1ge/fi/fiindex.html"&gt;Raute, Drache,
+    Trapez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.mathe-mbg.de/8-klasse/stoff/118-kreisflaechen"&gt;Kreis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Maße und Einheiten&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.br.de/grips/faecher/grips-mathe/15-groessen110.html"&gt;Größen im
+    Überblick&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Übungen gibt's auf dieser Seite auch (unten rechts auf "weiter mit
+    Üben" klicken)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Schulstoff von Klasse 5 bis 10&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Erklärungen und Probe-Klassenarbeiten zu allen Unter- und
+    Mittelstufenklassen: &lt;a href="http://www.mathe-mbg.de/"&gt;http://www.mathe-mbg.de/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Schulstoff von Klasse 5 bis zum Abitur&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://ne.lo-net2.de/selbstlernmaterial/index.html"&gt;Nach Themen
+    sortiert&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Mathematik"></category><category term="MGB"></category><category term="Online-Rechner"></category><category term="Zahlensysteme"></category></entry><entry><title>Warum Primark schlecht ist</title><link href="https://xcosx.github.io/warum-primark-schlecht-ist.html" rel="alternate"></link><published>2014-05-03T22:23:00+02:00</published><updated>2014-05-03T22:23:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2014-05-03:/warum-primark-schlecht-ist.html</id><summary type="html">&lt;p&gt;Weil Primark noch schlechter ist als die Menschen, die dort einkaufen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Weil Primark noch schlechter ist als die Menschen, die dort einkaufen.
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;Auch schlecht&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;H&amp;amp;M&lt;/li&gt;
+&lt;li&gt;Zara&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Wo und was man mit gutem Gewissen einkaufen kann&lt;/h2&gt;
+&lt;p&gt;&lt;a href="good-shops.html"&gt;Good Shops&lt;/a&gt;&lt;/p&gt;</content><category term="Good Shops"></category><category term="Kleidung"></category><category term="Primark"></category><category term="Schuhe"></category></entry><entry><title>Zahlensysteme</title><link href="https://xcosx.github.io/zahlensysteme.html" rel="alternate"></link><published>2014-04-30T16:40:00+02:00</published><updated>2014-04-30T16:40:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2014-04-30:/zahlensysteme.html</id><summary type="html">&lt;p&gt;Seite, auf der man zwischen verschiedenen Zahlensystemen umrechnen lassen kann.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Seite, auf der man zwischen verschiedenen Zahlensystemen umrechnen
+lassen kann.&lt;br&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2&gt;Zahlensysteme&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm"&gt;http://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm&lt;/a&gt;&lt;/p&gt;</content><category term="Binärzahlen"></category><category term="Online-Rechner"></category><category term="Schriftliche Division"></category><category term="Teilen"></category><category term="Zahlensysteme"></category></entry><entry><title>Sich ökologisch bewegen</title><link href="https://xcosx.github.io/sich-oekologisch-bewegen.html" rel="alternate"></link><published>2014-04-30T13:53:00+02:00</published><updated>2014-04-30T13:53:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2014-04-30:/sich-oekologisch-bewegen.html</id><summary type="html">&lt;p&gt;Möglichkeiten um möglichst umweltverträglich von A nach B zu kommen.&lt;!--more--&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Möglichkeiten um möglichst umweltverträglich von A nach B zu kommen.&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;Reihenfolge von gut zu schlecht&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Sich nach B denken (&lt;a href="https://de.wikipedia.org/wiki/Immanuel_Kant"&gt;sehr
+    gut&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Wandern, Joggen, Fahrrad fahren,&lt;/li&gt;
+&lt;li&gt;E-Bike fahren, &lt;a href="http://dboards.de/"&gt;E-Skateboard&lt;/a&gt;fahren - zumindest,
+    wenn man die Akkus mit Ökostrom läd&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.fernbusse.de/fernbus-anbieter/"&gt;Fernbus&lt;/a&gt;(z. B.
+    &lt;a href="http://meinfernbus.de/"&gt;MeinFernbus&lt;/a&gt;,
+    &lt;a href="https://www.postbus.de/"&gt;Postbus&lt;/a&gt;,... . Mit einem einigermaßen
+    vollen Bus zu fahren, ist
+    &lt;a href="http://www.oeko.de/aktuelles/2014/bus-und-bahn-klimafreundlichste-verkehrsmittel/"&gt;ökologischer&lt;/a&gt;als
+    mit der Bahn.)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.blablacar.de/"&gt;BlaBlaCar&lt;/a&gt;(kostenlose Alternative zu
+    &lt;a href="http://www.mitfahrgelegenheit.de/"&gt;Mitfahrgelegenheit&lt;/a&gt;. Mit 3
+    Personen ist ein Auto i.d.R. so ökologisch wie die Bahn.)&lt;/li&gt;
+&lt;li&gt;Die Bahn&lt;/li&gt;
+&lt;li&gt;Auto alleine&lt;/li&gt;
+&lt;li&gt;Flugzeug&lt;/li&gt;
+&lt;li&gt;Heißluftballon&lt;/li&gt;
+&lt;li&gt;Kreuzfahrtschiff (&lt;a href="http://www.greenpeace-magazin.de/kreuzfahrt/"&gt;sehr
+    schlecht&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Die Planung einer Reise kann bei
+&lt;a href="http://www.verkehrsmittelvergleich.de/"&gt;VerkehrsmittelVergleich&lt;/a&gt;beginnen.&lt;/p&gt;
+&lt;p&gt;Um festzustellen, wie umweltverträglich du lebst, kannst du deinen
+&lt;a href="http://www.mein-fussabdruck.at/#start"&gt;ökologischen Fußabdruck&lt;/a&gt;messen
+(&lt;a href="http://www.verbraucherbildung.de/verbraucherwissen/der-oekologische-fussabdruck"&gt;Informationen&lt;/a&gt;dazu).&lt;/p&gt;</content><category term="Fernbus"></category><category term="Ökologie"></category><category term="ökologischer Fußabdruck"></category><category term="Umwelt"></category></entry><entry><title>Podcast-Empfehlungen</title><link href="https://xcosx.github.io/podcast-empfehlungen.html" rel="alternate"></link><published>2014-03-12T14:21:00+01:00</published><updated>2014-03-12T14:21:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2014-03-12:/podcast-empfehlungen.html</id><summary type="html">&lt;p&gt;Podcast-Empfehlungen&lt;/p&gt;</summary><content type="html">&lt;p&gt;Sogenannte Podcasts sind Radio-Beiträge oder andere Audio- oder
+Video-Dateien, die man mit jedem PC oder Handy herunterladen und so
+jederzeit anhören kann. &lt;!--more--&gt;Zum Beispiel kann man zuhause über
+WLAN Podcasts auf sein Handy laden und im Auto über
+ein &lt;a href="http://www.thomann.de/de/cat_cableguy~ncx.html?ccmem=1"&gt;Audio-Kabel&lt;/a&gt;
+(Miniklinkenstecker) anhören.&lt;/p&gt;
+&lt;h2&gt;Podcast-Empfehlungen&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.deutschlandradio.de/podcasts.226.de.html"&gt;Deutschlandradio&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.deutschlandfunk.de/podcast-hintergrund.725.de.podcast.xml"&gt;Hintergrund&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.deutschlandfunk.de/podcast-interview-der-woche.869.de.podcast.xml"&gt;Interview der
+    Woche&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ZDF (Videos)&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.zdf.de/ZDFmediathek/podcast/1973452?view=podcast"&gt;Auslandsjournal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Android"></category><category term="App"></category><category term="Nachrichten"></category><category term="Podcast"></category><category term="Radio"></category><category term="Raspberry Pi"></category><category term="UPnP"></category></entry><entry><title>Raspberry Pi: 30-€-PC mit vielen Einsatzmöglichkeiten</title><link href="https://xcosx.github.io/raspberry-pi-30-e-pc-mit-vielen-einsatzmoeglichkeiten.html" rel="alternate"></link><published>2014-03-01T13:15:00+01:00</published><updated>2014-03-01T13:15:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2014-03-01:/raspberry-pi-30-e-pc-mit-vielen-einsatzmoeglichkeiten.html</id><summary type="html">&lt;p&gt;Das Raspberry Pi ist eine Platine, die mit ihrem USB, HDMI, LAN und Audio-Anschluss viele Möglicheiten bietet. Sie ist ein kleiner&lt;/p&gt;</summary><content type="html">&lt;p&gt;Computer.&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;Das Raspberry Pi ist eine Platine, die mit ihrem USB, HDMI, LAN und
+Audio-Anschluss viele Möglicheiten bietet. Sie ist ein kleiner
+Computer.&lt;!--more--&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;RPi als Stereoanlage verwenden.&lt;/li&gt;
+&lt;li&gt;Mittels RPi  Handy-Fotos oder Internet-Videos auf dem eigenen
+    Fernseher anschauen (ZDF-Mediathek,...).&lt;/li&gt;
+&lt;li&gt;RPi als eigenen Server verwenden.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.pcwelt.de/ratgeber/Die_besten_Verwendungsmoeglichkeiten_fuer_Raspberry_Pi-Mini-PC-7663628.html"&gt;Weitere
+    Möglichkeiten&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Die RPi hat meines Erachtens mehrere Vorteile. (1) Der Preis ist recht
+günstig. WLAN-Lautsprecher oder Internet- bzw. Medien-taugliche
+Fernseher sind teuer, die Software basiert oft auf keinem öffentlichen
+Standard, sie bieten meist nur unregelmäßig Software-Updates und zudem
+senden manche ungewollt Daten ins Netz. (2) Mit der RPi kann man leicht
+alte Geräte zur Ausgabe moderner Medien umfunktionieren, was auch die
+Umwelt schont. Der Betrieb eines Raspi ist resourcenschonend, sie
+verbraucht sehr wenig Strom. (3) Ist der jetzige Verwendungszweck nicht
+mehr gewünscht, kann die RPi für einen möglicherweise ganz anderen Zweck
+verwendet werden.&lt;/p&gt;
+&lt;p&gt;Der Nachteil ist, dass man sich ein bisschen mit der Software
+auseinandersetzen muss.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=gflfzQs9JJs"&gt;Nettes Video, das einige Möglichkeiten des RPi
+zeigt&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Bedienung mit dem Handy&lt;/h3&gt;
+&lt;p&gt;Im Prinzip geht die Bedienung einer RPi mit allen Apps, die das
+UPnP-Protokoll oder Airplay beherrschen. Das kann z.B. die
+Fritz-Box-App.&lt;/p&gt;
+&lt;p&gt;Eine gute Android-App, mit der man alle Medien auf einer RPi abspielen
+kann
+ist &lt;a href="https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp"&gt;BubbleUPnP&lt;/a&gt;
+(3,49 €). Falls du eine bessere App kennst, bitte Bescheid sagen. Das
+Abspielen mit der BubbleUPnP funktioniert so:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Unter "DEVICES" den "RENDERER" (das ist das Abspielgerät, also die
+    Raspberry Pi) und die "LIBRARY" (das ist die Quelle, auf der die
+    abzuspielenden Daten liegen) auswählen. Bei der Raspi muss zuvor
+    natürlich unter den Einstellungen "UPnP Renderer aktivieren"
+    ausgewählt und die Fernsteuerung zugelassen werden.&lt;/li&gt;
+&lt;li&gt;Unter "LIBRARY" die abzuspielenden Daten auswählen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;1. RPi als Stereoanlage&lt;/h2&gt;
+&lt;p&gt;Zum Beispiel kann man in die Küche eine RPi legen, die mit dem Router
+(&lt;a href="http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=netgear+powerline"&gt;über
+LAN&lt;/a&gt;oder
+WLAN) verbunden ist. An die RPi über ein
+&lt;a href="http://www.thomann.de/de/cat_cableguy~ncx.html?ccmem=1"&gt;Audio-Kabel&lt;/a&gt;
+(Miniklinkenstecker) einen Lautsprecher oder ein altes Radio mit einem
+Line-In-Eingang anschließen. Und schon kann man über das eigene Handy
+gesteuert Musik hören. Die Musik-Dateien können dabei im Internet, auf
+dem Handy, auf dem eigenen Computer, auf einer NAS, auf einer an die
+Raspberry Pi angeschlossenen USB-Festplatte oder einem angeschlossenen
+USB-Stick liegen.&lt;/p&gt;
+&lt;h3&gt;Installation&lt;/h3&gt;
+&lt;p&gt;Hat man alle Kabel, braucht man nur noch eine SD-Karte, auf die man das
+Betriebssystem installieren muss. Das dauert, wenn man's ein Mal gemacht
+hat, ca. 5 Minuten. Die SD-Karte sollte 4 GB groß sein. (Für Kodi reicht
+1 GB.)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.raspberrypi.org/documentation/installation/noobs.md"&gt;Anleitungen für alle offiziellen
+    RPi-Betriebssysteme&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Danach einfach die Karte in die RPi stecken. Jetzt will man vermutlich
+noch ein paar Einstellungen im Betriebssystem vornehmen, z. B. ob der
+Audio-Ausgang der analoge oder der HDMI-Ausgang sein soll. Dazu einfach
+einen Bildschirm (evtl. über einen Adapter) und eine USB-Maus oder
+-Tastatur anschließen. Sobald das Raspi Strom bekommt, fährt es hoch und
+ist bereit.&lt;/p&gt;
+&lt;h3&gt;Optimierung der Audio-Qualität&lt;/h3&gt;
+&lt;p&gt;Bei den alten Modellen ist anscheinend die Audio-Qualität nur
+mittelmäßig, wenn man den normalen Stereo-Ausgang benutzt. Das habe ich
+zwar nicht gehört, aber für rund 40 € kann man wohl schönere
+Sinus-Kurven bekommen. Die Zusatzkarte, die man dazu auf's RPi montieren
+kann, heißt
+&lt;a href="http://www.crazy-audio.com/projects/hifiberry-mini/"&gt;HiFiBerry&lt;/a&gt;.
+Teurere Alternativen, und eine Begründung warum ein direktes Anlöten
+einers D/A-Wandlers besser ist als einen
+&lt;a href="http://www.raspyfi.com/the-right-usb-dac-for-your-raspberry-pi/"&gt;DAC&lt;/a&gt;über
+USB zu verwenden (7 bis unendlich Euro), findet man
+&lt;a href="http://volumio.org/raspberry-pi-i2s-dac-sounds-so-good/"&gt;hier&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mehr zum Thema Optimierung der Audio-Qualität kann man bei
+&lt;a href="http://www.raspyfi.com/project/"&gt;Raspyfi&lt;/a&gt; bzw.
+&lt;a href="http://volumio.org/"&gt;Volumio&lt;/a&gt;nachlesen. Hier kann man auch ein für
+Audio optimiertes Betriebssystem
+(&lt;a href="http://volumio.org/get-started/"&gt;Volumio&lt;/a&gt; statt Raspbmc oder OpenElec)
+finden, das ich aber noch nicht selbst ausprobiert habe. Eine Anleitung
+findet man auch beim
+&lt;a href="http://www.forum-raspberrypi.de/Thread-volumio-der-ultimative-musikplayer-fuer-den-raspberry-pi"&gt;Raspi-Forum&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;2. Mittels RPi Internet-Videos auf dem eigenen Fernseher anschauen&lt;/h2&gt;
+&lt;p&gt;Funktioniert genau so wie bei 1.&lt;/p&gt;
+&lt;p&gt;Gute Apps, um Videos aus dem Internet zu streamen sind&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.zdf.android.mediathek"&gt;ZDF
+    Mediathek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.sh.theke"&gt;Theke&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Man kann aber auch einfach über den Handy-Browser auf die gewünschte
+Internetseite gehen und dort den Link des abzuspielenden Mediums an
+BubbleUPnP senden. Dazu ist die App&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.semperpax.sempervidlinksFree"&gt;SemperVidLinks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;notwendig. Außerdem bietet sich &lt;span style="line-height: 1.5;"&gt;für das
+Streamen von Medien aus dem Internet die Android-App&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://play.google.com/store/apps/details?id=mb.videoget"&gt;vGet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="line-height: 1.5;"&gt;an.&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;3. RPi als eigener Server&lt;/h2&gt;
+&lt;p&gt;Stichworte: ArkOS, SSL, OwnCloud&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="http://www.kuketz-blog.de/projekt-arkos-raus-aus-der-cloud/"&gt;http://www.kuketz-blog.de/projekt-arkos-raus-aus-der-cloud/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kuketz-blog.de/projekt-arkos-hardware-und-installation/"&gt;http://www.kuketz-blog.de/projekt-arkos-hardware-und-installation/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kuketz-blog.de/projekt-arkos-erste-konfigurationsschritte/"&gt;http://www.kuketz-blog.de/projekt-arkos-erste-konfigurationsschritte/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kuketz-blog.de/projekt-arkos-installation-ssl-zertifikat/"&gt;http://www.kuketz-blog.de/projekt-arkos-installation-ssl-zertifikat/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kuketz-blog.de/owncloud-eine-alternative-zu-nebuloesen-cloud-diensten/"&gt;http://www.kuketz-blog.de/owncloud-eine-alternative-zu-nebuloesen-cloud-diensten/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;4. Weitere Möglichkeiten&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://www.forum-raspberrypi.de/Thread-tutorial-uebersicht"&gt;http://www.forum-raspberrypi.de/Thread-tutorial-uebersicht&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://xcosx.de/rpi-im-klassenzimmer/" title="Vom Handy zum Beamer: Das RPi im Klassenzimmer"&gt;Das RPi im
+Klassenzimmer&lt;/a&gt;&lt;/p&gt;</content><category term="Android"></category><category term="App"></category><category term="Freiheit"></category><category term="Musik"></category><category term="OwnCloud"></category><category term="PC"></category><category term="Raspberry Pi"></category><category term="Sicherheit"></category><category term="TV"></category><category term="UPnP"></category></entry><entry><title>Sichere SMS</title><link href="https://xcosx.github.io/sichere-sms.html" rel="alternate"></link><published>2014-02-27T19:23:00+01:00</published><updated>2014-02-27T19:23:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2014-02-27:/sichere-sms.html</id><summary type="html">&lt;p&gt;Sichere SMS schreiben&lt;/p&gt;</summary><content type="html">&lt;p&gt;Mit &lt;a href="http://smssecure.org/"&gt;SMSSecure&lt;!--more--&gt;&lt;/a&gt; kann man sehr gut
+verschlüsselte SMS versenden. Voraussetzung ist, dass der Andere das
+Programm auch installiert hat.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://f-droid.org/repository/browse/?fdfilter=SMSSecure&amp;amp;fdid=org.smssecure.smssecure"&gt;SMSSecure&lt;/a&gt;
+    im &lt;a href="https://f-droid.org/"&gt;F-Droid-Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://play.google.com/store/apps/details?id=org.smssecure.smssecure"&gt;SMSSecure&lt;/a&gt;
+    im Playstore&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Android"></category><category term="App"></category><category term="Freiheit"></category><category term="iOS"></category><category term="Sicherheit"></category><category term="WhatsApp"></category></entry><entry><title>WADI</title><link href="https://xcosx.github.io/wadi.html" rel="alternate"></link><published>2014-02-10T20:13:00+01:00</published><updated>2014-02-10T20:13:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2014-02-10:/wadi.html</id><summary type="html">&lt;p&gt;Hier sind alle WADI-Aufgaben und Lösungen direkt verlinkt.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hier sind alle WADI-Aufgaben und Lösungen direkt verlinkt.&lt;/p&gt;
+&lt;p&gt;WADI ist eine Sammlung von thematisch geordneten Aufgabenblättern für
+jede Klassenstufe und die Kursstufe.&lt;/p&gt;
+&lt;p&gt;Die Aufgaben sind so gewählt, dass sie Basiskompetenzen abfragen.
+Dadurch können diese Blätter auch zur Analyse des eigenen derzeitigen
+Leistungsstandes dienen. Wenn du eine Aufgabe oder ein ganzes Blatt
+nicht verstehst, kannst du das in der letzten Spalte notieren und damit
+zu deinem Lehrer gehen; er kann dir dann zu diesem Thema passendes
+Material geben.&lt;/p&gt;
+&lt;p&gt;Die Links führen auf den &lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/basis/"&gt;Server der Landesakademie.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/wadi5_1/WADI-5.pdf"&gt;WADI_5.pdf&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/wadi5_2/WADI-6.pdf"&gt;WADI_6.pdf&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/wadi7_1/WADI-7.pdf"&gt;WADI_7.pdf&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/wadi7_2/WADI-8.pdf"&gt;WADI_8.pdf&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/wadi9_1/wadi_9_02_04_16.pdf"&gt;WADI_9.pdf&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/wadi9_2/wadi_10_16_02_16.pdf"&gt;WADI_10.pdf&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/wadi_kursstufe/wadi_kursstufe_20_07_12.pdf"&gt;WADI-Kursstufe.pdf&lt;/a&gt;&lt;/p&gt;</content><category term="Abitur"></category><category term="Mathematik"></category><category term="WADI"></category></entry><entry><title>Schüler-Moodle</title><link href="https://xcosx.github.io/schueler-moodle.html" rel="alternate"></link><published>2014-02-04T23:10:00+01:00</published><updated>2014-02-04T23:10:00+01:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2014-02-04:/schueler-moodle.html</id><summary type="html">&lt;p&gt;Schüler-Moodle&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://moodle2.schule-bw.de/login/index.php"&gt;Hier geht's zum Schüler-Moodle auf dem
+Landesserver.&lt;!--more--&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://moodle2.schule-bw.de/login/index.php"&gt;https://moodle2.schule-bw.de/login/index.php&lt;/a&gt;&lt;/p&gt;</content><category term="MGB"></category><category term="Moodle"></category></entry></feed>
