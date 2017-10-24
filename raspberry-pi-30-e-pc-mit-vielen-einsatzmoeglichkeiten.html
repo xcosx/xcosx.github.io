@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <title>xcosx.github.io - ehemals xcosx.de</title>
+
+
+    <!-- CSS -->
+    <!-- <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:regular,bold|Reenie+Beanie"> -->
+    <link rel="stylesheet" type="text/css" href="http://localhost:8000/theme/css/w3.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:8000/theme/css/style.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:8000/theme/css/jqcloud.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:8000/theme/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:8000/theme/css/shariff.min.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:8000/theme/css/pygments-highlight-github.css">
+
+    <!-- JavaScript -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> -->
+    <script src="http://localhost:8000/theme/js/jqcloud.min.js"></script>
+
+     <!-- Meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="xcosx" />
+
+    <meta name="tags" content="Android" />
+    <meta name="tags" content="App" />
+    <meta name="tags" content="Freiheit" />
+    <meta name="tags" content="Musik" />
+    <meta name="tags" content="OwnCloud" />
+    <meta name="tags" content="PC" />
+    <meta name="tags" content="Raspberry Pi" />
+    <meta name="tags" content="Sicherheit" />
+    <meta name="tags" content="TV" />
+    <meta name="tags" content="UPnP" />
+    <meta property="og:site_name" content="xcosx.github.io - ehemals xcosx.de">
+    <meta property="og:title" content="Raspberry Pi: 30-€-PC mit vielen Einsatzmöglichkeiten - xcosx.github.io - ehemals xcosx.de" />
+    <meta property="og:description" content="<p>Das Raspberry Pi ist eine Platine, die mit ihrem USB, HDMI, LAN und Audio-Anschluss viele Möglicheiten bietet. Sie ist ein kleiner</p>" />
+    <meta property="og:image" content="http://localhost:8000/images/rpi.png">
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://localhost:8000/raspberry-pi-30-e-pc-mit-vielen-einsatzmoeglichkeiten.html" />
+    <meta property="og:locale" content="de_DE" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Raspberry Pi: 30-€-PC mit vielen Einsatzmöglichkeiten - xcosx.github.io - ehemals xcosx.de">
+    <meta name="twitter:description" content="<p>Das Raspberry Pi ist eine Platine, die mit ihrem USB, HDMI, LAN und Audio-Anschluss viele Möglicheiten bietet. Sie ist ein kleiner</p>">
+    <meta name="twitter:image" content="http://localhost:8000/images/rpi.png">
+</head>
+<body>
+  <div class="w3-row w3-card w3-white">
+    <header id=banner>
+       <!-- AUTHOR INITIALS-->
+      <a href="http://localhost:8000" id=logo title="Home">EK</a>
+      <nav id="menu">
+        <ul>
+          <li class="w3-bottombar w3-border-white w3-hover-border-red" ><a href="http://localhost:8000/category/ethik.html">Ethik</a></li>
+          <li class="w3-bottombar w3-border-white w3-hover-border-red" style="font-weight: bold;"><a href="http://localhost:8000/category/it.html">IT</a></li>
+          <li class="w3-bottombar w3-border-white w3-hover-border-red" ><a href="http://localhost:8000/category/it-ethik.html">IT-Ethik</a></li>
+          <li class="w3-bottombar w3-border-white w3-hover-border-red" ><a href="http://localhost:8000/category/mgb.html">MGB</a></li>
+          <!-- Suche mit MetaGer -->
+          <form class="w3-bottombar w3-border-white w3-hover-border-red" action="https://metager.de//meta/meta.ger3" method="get" accept-charset="UTF-8">
+              <style type="text/css" scoped>
+              input[type=text] {
+                  width: 53px;
+                  box-sizing: border-box;
+                  border: 0px solid #fff;
+                  background-color: #fff;
+                  /*Picture*/
+                  /*background-image: url('/images/searchicon5.png');
+                  background-repeat: no-repeat;
+                  background-position-x: 50%;
+                  background-position-y: 50%;*/
+                  /*Picture end*/
+                  /*Für den Text "Suche mit MetaGer"*/
+                  font-size: 14pt;
+                  padding-left: 51px;
+                  /*color: #fff;*/
+                  -webkit-transition: width 0.4s ease-in-out;
+                  transition: width 0.4s ease-in-out;
+                }
+                input[type=text]:focus {
+                  width: 100%;
+                  background-position-x: 95%;
+                  padding-left: 50px;
+                  background-color: rgb(241, 241, 241);
+                  color: #868282;
+                }
+                input[type=text]:before {
+                    font-family: 'Fontawesome';
+                    color: red;
+                    position: relative;
+                    left: -5px;
+                    content: "\f007";
+                }
+                .search-bar {
+                  position: relative;
+                }
+
+                .search-bar .icon {
+                  position: absolute;
+                  top: 47%;
+                  left: 10px;
+                  transform: translateY(-50%);
+                }
+
+                .search-bar .input-text {
+                  /*height: 20px;*/
+                  /*padding: 8px 8px 8px 35px;*/
+                }
+              </style>
+              <div class="search-bar">
+                  <i class="icon fa fa-search"></i>
+              <input class="input-text" type="text" name="eingabe" placeholder="Suche mit Metager" required>
+          </div>
+               <!-- <i class="fa fa-search" aria-hidden="true"></i> -->
+              </input>
+              <input type="hidden" name="encoding" value="utf8"></input><input type="hidden" name="site" value="xcosx.de">
+              <input type="hidden" name="lang" value="all">
+              <input type="hidden" name="wdgt-version" value="1">
+          </form>
+          <!-- Suche Ende -->
+        </ul>
+      </nav>
+    </header>
+  </div>
+<br>
+<article>
+  <header class="w3-container col-main">
+    <h1>Raspberry Pi: 30-€-PC mit vielen Einsatzmöglichkeiten</h1>
+    <div class="post-info">
+      <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
+        <span>Gepostet am <time datetime="2014-03-01T13:15:00+01:00">Sa, 01. März 2014</time> in <i><a href="http://localhost:8000/category/it.html" title="Alle Artikel der Kategorie IT">IT</a></i>
+        </span>
+      </div>
+      <div id="article-tags">
+        <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+          <a href="http://localhost:8000/tag/android.html" title="Alle Posts zum Thema Android">#Android</a>
+        </span>
+        <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+          <a href="http://localhost:8000/tag/app.html" title="Alle Posts zum Thema App">#App</a>
+        </span>
+        <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+          <a href="http://localhost:8000/tag/freiheit.html" title="Alle Posts zum Thema Freiheit">#Freiheit</a>
+        </span>
+        <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+          <a href="http://localhost:8000/tag/musik.html" title="Alle Posts zum Thema Musik">#Musik</a>
+        </span>
+        <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+          <a href="http://localhost:8000/tag/owncloud.html" title="Alle Posts zum Thema Owncloud">#OwnCloud</a>
+        </span>
+        <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+          <a href="http://localhost:8000/tag/pc.html" title="Alle Posts zum Thema Pc">#PC</a>
+        </span>
+        <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+          <a href="http://localhost:8000/tag/raspberry-pi.html" title="Alle Posts zum Thema Raspberry Pi">#Raspberry Pi</a>
+        </span>
+        <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+          <a href="http://localhost:8000/tag/sicherheit.html" title="Alle Posts zum Thema Sicherheit">#Sicherheit</a>
+        </span>
+        <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+          <a href="http://localhost:8000/tag/tv.html" title="Alle Posts zum Thema Tv">#TV</a>
+        </span>
+        <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+          <a href="http://localhost:8000/tag/upnp.html" title="Alle Posts zum Thema Upnp">#UPnP</a>
+        </span>
+      </div>
+    </div>
+  </header>
+  <br>
+  <div class="headerimage-article">
+    <img src="/images/rpi.png" style="width: 100%;">
+  </div>
+  <div class="col-main w3-container">
+    <main id="article-content">
+      <p>Computer.<!--more--></p>
+<p>Das Raspberry Pi ist eine Platine, die mit ihrem USB, HDMI, LAN und
+Audio-Anschluss viele Möglicheiten bietet. Sie ist ein kleiner
+Computer.<!--more--></p>
+<ol>
+<li>RPi als Stereoanlage verwenden.</li>
+<li>Mittels RPi  Handy-Fotos oder Internet-Videos auf dem eigenen
+    Fernseher anschauen (ZDF-Mediathek,...).</li>
+<li>RPi als eigenen Server verwenden.</li>
+<li><a href="http://www.pcwelt.de/ratgeber/Die_besten_Verwendungsmoeglichkeiten_fuer_Raspberry_Pi-Mini-PC-7663628.html">Weitere
+    Möglichkeiten</a></li>
+</ol>
+<p>Die RPi hat meines Erachtens mehrere Vorteile. (1) Der Preis ist recht
+günstig. WLAN-Lautsprecher oder Internet- bzw. Medien-taugliche
+Fernseher sind teuer, die Software basiert oft auf keinem öffentlichen
+Standard, sie bieten meist nur unregelmäßig Software-Updates und zudem
+senden manche ungewollt Daten ins Netz. (2) Mit der RPi kann man leicht
+alte Geräte zur Ausgabe moderner Medien umfunktionieren, was auch die
+Umwelt schont. Der Betrieb eines Raspi ist resourcenschonend, sie
+verbraucht sehr wenig Strom. (3) Ist der jetzige Verwendungszweck nicht
+mehr gewünscht, kann die RPi für einen möglicherweise ganz anderen Zweck
+verwendet werden.</p>
+<p>Der Nachteil ist, dass man sich ein bisschen mit der Software
+auseinandersetzen muss.</p>
+<p><a href="https://www.youtube.com/watch?v=gflfzQs9JJs">Nettes Video, das einige Möglichkeiten des RPi
+zeigt</a></p>
+<h3>Bedienung mit dem Handy</h3>
+<p>Im Prinzip geht die Bedienung einer RPi mit allen Apps, die das
+UPnP-Protokoll oder Airplay beherrschen. Das kann z.B. die
+Fritz-Box-App.</p>
+<p>Eine gute Android-App, mit der man alle Medien auf einer RPi abspielen
+kann
+ist <a href="https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp">BubbleUPnP</a>
+(3,49 €). Falls du eine bessere App kennst, bitte Bescheid sagen. Das
+Abspielen mit der BubbleUPnP funktioniert so:</p>
+<ol>
+<li>Unter "DEVICES" den "RENDERER" (das ist das Abspielgerät, also die
+    Raspberry Pi) und die "LIBRARY" (das ist die Quelle, auf der die
+    abzuspielenden Daten liegen) auswählen. Bei der Raspi muss zuvor
+    natürlich unter den Einstellungen "UPnP Renderer aktivieren"
+    ausgewählt und die Fernsteuerung zugelassen werden.</li>
+<li>Unter "LIBRARY" die abzuspielenden Daten auswählen.</li>
+</ol>
+<h2>1. RPi als Stereoanlage</h2>
+<p>Zum Beispiel kann man in die Küche eine RPi legen, die mit dem Router
+(<a href="http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=netgear+powerline">über
+LAN</a>oder
+WLAN) verbunden ist. An die RPi über ein
+<a href="http://www.thomann.de/de/cat_cableguy~ncx.html?ccmem=1">Audio-Kabel</a>
+(Miniklinkenstecker) einen Lautsprecher oder ein altes Radio mit einem
+Line-In-Eingang anschließen. Und schon kann man über das eigene Handy
+gesteuert Musik hören. Die Musik-Dateien können dabei im Internet, auf
+dem Handy, auf dem eigenen Computer, auf einer NAS, auf einer an die
+Raspberry Pi angeschlossenen USB-Festplatte oder einem angeschlossenen
+USB-Stick liegen.</p>
+<h3>Installation</h3>
+<p>Hat man alle Kabel, braucht man nur noch eine SD-Karte, auf die man das
+Betriebssystem installieren muss. Das dauert, wenn man's ein Mal gemacht
+hat, ca. 5 Minuten. Die SD-Karte sollte 4 GB groß sein. (Für Kodi reicht
+1 GB.)</p>
+<ul>
+<li><a href="http://www.raspberrypi.org/documentation/installation/noobs.md">Anleitungen für alle offiziellen
+    RPi-Betriebssysteme</a></li>
+</ul>
+<p>Danach einfach die Karte in die RPi stecken. Jetzt will man vermutlich
+noch ein paar Einstellungen im Betriebssystem vornehmen, z. B. ob der
+Audio-Ausgang der analoge oder der HDMI-Ausgang sein soll. Dazu einfach
+einen Bildschirm (evtl. über einen Adapter) und eine USB-Maus oder
+-Tastatur anschließen. Sobald das Raspi Strom bekommt, fährt es hoch und
+ist bereit.</p>
+<h3>Optimierung der Audio-Qualität</h3>
+<p>Bei den alten Modellen ist anscheinend die Audio-Qualität nur
+mittelmäßig, wenn man den normalen Stereo-Ausgang benutzt. Das habe ich
+zwar nicht gehört, aber für rund 40 € kann man wohl schönere
+Sinus-Kurven bekommen. Die Zusatzkarte, die man dazu auf's RPi montieren
+kann, heißt
+<a href="http://www.crazy-audio.com/projects/hifiberry-mini/">HiFiBerry</a>.
+Teurere Alternativen, und eine Begründung warum ein direktes Anlöten
+einers D/A-Wandlers besser ist als einen
+<a href="http://www.raspyfi.com/the-right-usb-dac-for-your-raspberry-pi/">DAC</a>über
+USB zu verwenden (7 bis unendlich Euro), findet man
+<a href="http://volumio.org/raspberry-pi-i2s-dac-sounds-so-good/">hier</a>.</p>
+<p>Mehr zum Thema Optimierung der Audio-Qualität kann man bei
+<a href="http://www.raspyfi.com/project/">Raspyfi</a> bzw.
+<a href="http://volumio.org/">Volumio</a>nachlesen. Hier kann man auch ein für
+Audio optimiertes Betriebssystem
+(<a href="http://volumio.org/get-started/">Volumio</a> statt Raspbmc oder OpenElec)
+finden, das ich aber noch nicht selbst ausprobiert habe. Eine Anleitung
+findet man auch beim
+<a href="http://www.forum-raspberrypi.de/Thread-volumio-der-ultimative-musikplayer-fuer-den-raspberry-pi">Raspi-Forum</a>.</p>
+<h2>2. Mittels RPi Internet-Videos auf dem eigenen Fernseher anschauen</h2>
+<p>Funktioniert genau so wie bei 1.</p>
+<p>Gute Apps, um Videos aus dem Internet zu streamen sind</p>
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.zdf.android.mediathek">ZDF
+    Mediathek</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.sh.theke">Theke</a></li>
+</ul>
+<p>Man kann aber auch einfach über den Handy-Browser auf die gewünschte
+Internetseite gehen und dort den Link des abzuspielenden Mediums an
+BubbleUPnP senden. Dazu ist die App</p>
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.semperpax.sempervidlinksFree">SemperVidLinks</a></li>
+</ul>
+<p>notwendig. Außerdem bietet sich <span style="line-height: 1.5;">für das
+Streamen von Medien aus dem Internet die Android-App</span></p>
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=mb.videoget">vGet</a></li>
+</ul>
+<p><span style="line-height: 1.5;">an.</span></p>
+<h2>3. RPi als eigener Server</h2>
+<p>Stichworte: ArkOS, SSL, OwnCloud</p>
+<ol>
+<li><a href="http://www.kuketz-blog.de/projekt-arkos-raus-aus-der-cloud/">http://www.kuketz-blog.de/projekt-arkos-raus-aus-der-cloud/</a></li>
+<li><a href="http://www.kuketz-blog.de/projekt-arkos-hardware-und-installation/">http://www.kuketz-blog.de/projekt-arkos-hardware-und-installation/</a></li>
+<li><a href="http://www.kuketz-blog.de/projekt-arkos-erste-konfigurationsschritte/">http://www.kuketz-blog.de/projekt-arkos-erste-konfigurationsschritte/</a></li>
+<li><a href="http://www.kuketz-blog.de/projekt-arkos-installation-ssl-zertifikat/">http://www.kuketz-blog.de/projekt-arkos-installation-ssl-zertifikat/</a></li>
+<li><a href="http://www.kuketz-blog.de/owncloud-eine-alternative-zu-nebuloesen-cloud-diensten/">http://www.kuketz-blog.de/owncloud-eine-alternative-zu-nebuloesen-cloud-diensten/</a></li>
+</ol>
+<h2>4. Weitere Möglichkeiten</h2>
+<p><a href="http://www.forum-raspberrypi.de/Thread-tutorial-uebersicht">http://www.forum-raspberrypi.de/Thread-tutorial-uebersicht</a></p>
+<p><a href="http://xcosx.de/rpi-im-klassenzimmer/" title="Vom Handy zum Beamer: Das RPi im Klassenzimmer">Das RPi im
+Klassenzimmer</a></p>
+    </main>
+    <br>
+    <footer>
+      <div class="adjust-width">
+        <div id="author-block" class="w3-light-grey w3-border">
+            <img style="width: 35px; height: 56px; margin-left:50px;" src="theme/images/bookmark-red.png" alt="bookmark"></img>
+            <div id="author-info">
+                <a href="http://localhost:8000/authors.html#ephraim-keinath"><img style="width: 60px; height: 60px;" src="/authors/ephraim-keinath.png" onerror="this.src='/theme/images/avatar.png'"></img>
+                </a>
+                <div style="margin-left: 20px; margin-top: 15px;">
+                    <a href="http://localhost:8000/authors.html#ephraim-keinath"><span id="author-name" class="w3-hover-text-dark-grey">Ephraim Keinath</span></a>
+                    <p id="author-story" style="max-width: 500px;">DorKeinath hat Mathematik und Philosophie studiert und beschäftigt sich auch mit Informatik.</p>
+                </div>
+            </div>
+        </div>
+      </div>
+      <br>
+    </footer>
+  </div>
+</article>
+<br>
+  <footer id="contentinfo">
+    <div id="blogroll" class="w3-row">
+        <div class="blogroll-block w3-col l3 m3 s6">
+            <div>
+                <h6>Kategorien</h6>
+                <ul>
+                    <li class=""><a href="http://localhost:8000/category/ethik.html">Ethik<a></li>
+                    <li class=""><a href="http://localhost:8000/category/it.html">IT<a></li>
+                    <li class=""><a href="http://localhost:8000/category/it-ethik.html">IT-Ethik<a></li>
+                    <li class=""><a href="http://localhost:8000/category/mgb.html">MGB<a></li>
+                </ul>
+            </div>
+        </div>
+    <div class="blogroll-block w3-col l3 m3 s6">
+      <div>
+        <h6>Top Tags</h6>
+        <ul>
+          <li class=""><a href="http://localhost:8000/tag/android.html"> #Android (6)</a></li>
+          <li class=""><a href="http://localhost:8000/tag/app.html"> #App (5)</a></li>
+          <li class=""><a href="http://localhost:8000/tag/kill.html"> #Kill (5)</a></li>
+          <li class=""><a href="http://localhost:8000/tag/good-shops.html"> #Good Shops (3)</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="blogroll-block w3-col l3 m3 s6">
+      <div>
+          <h6><a href="http://localhost:8000/authors.html">Autor</a></h6>
+          <ul>
+              <!--  -->
+              <li class=""><a href="http://localhost:8000/authors.html">Ephraim Keinath</a></li>
+              <!-- <li class=""><a href="http://localhost:8000/authors.html#ephraim-keinath">Ephraim Keinath</a></li> -->
+               <li class="empty"></li>
+              <li class="empty"></li>
+              <li class="empty"></li>
+          </ul>
+      </div>
+    </div>
+<!--
+      <div class="blogroll-block w3-col l3 m3 s6">
+          <div>
+              <h6>Social Media</h6>
+              <ul>
+                  <li><a class="sc-commenting-o" href="/pages/kontakt.html" target="_blank"><span style="text-transform: capitalize;">commenting-o</span> <i class="fa fa-commenting-o"></i></a></li>
+                  <li><a class="sc-rss" href="feed.html" target="_blank"><span style="text-transform: capitalize;">rss</span> <i class="fa fa-rss"></i></a></li>
+                  <li><a class="sc-github" href="https://github.com/DorKeinath" target="_blank"><span style="text-transform: capitalize;">github</span> <i class="fa fa-github"></i></a></li>
+                  <li class="empty"></li>
+              </ul>
+          </div>
+      </div>
+-->
+    </div>
+    <div id="contact">
+        <ul>
+            <li><a href="http://localhost:8000/pages/kontakt.html">Kontakt</a></li>
+            <li><a href="http://localhost:8000/pages/impressum.html">Impressum</a></li>
+        </ul>
+    </div>
+    <div id="copyright" class="w3-center w3-small w3-text-grey w3-padding-48">
+        <span>Made with ❤️ by EK | Powered by <a href="http://getpelican.com" target="_blank"><u>Pelican</u></a>, <a href="https://github.com/art1fa/minimalX" target="_blank"><u>minimalX</u></a>, <a href="https://openclipart.org/" target="_blank"><u>openclipart</u></a> and <a href="https://metager.de/" target="_blank"><u>MetaGer</u></a>
+        </span>
+    </div>
+  </footer>
+<!--  -->
+<!--  -->
+<!-- <script src="http://localhost:8000/theme/js/shariff.min.js"></script> -->
+</body>
+</html>
