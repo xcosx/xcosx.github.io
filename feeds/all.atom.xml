@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>xcosx.github.io - ehemals xcosx.de</title><link href="https://xcosx.github.io/" rel="alternate"></link><link href="https://xcosx.github.io/feeds/all.atom.xml" rel="self"></link><id>https://xcosx.github.io/</id><updated>2017-10-26T21:59:00+02:00</updated><entry><title>Schütz dich Test</title><link href="https://xcosx.github.io/schuetz-dich2.html" rel="alternate"></link><published>2017-10-26T21:59:00+02:00</published><updated>2017-10-26T21:59:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-10-26:/schuetz-dich2.html</id><summary type="html">&lt;p&gt;Mit diesen Apps kannst du deine Privatsphäre schützen, und die deiner Freunde.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Mit diesen Apps kannst du deine Privatsphäre schützen, und die deiner Freunde.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>xcosx.github.io - ehemals xcosx.de</title><link href="https://xcosx.github.io/" rel="alternate"></link><link href="https://xcosx.github.io/feeds/all.atom.xml" rel="self"></link><id>https://xcosx.github.io/</id><updated>2017-10-26T22:14:00+02:00</updated><entry><title>Test3</title><link href="https://xcosx.github.io/test3.html" rel="alternate"></link><published>2017-10-26T22:14:00+02:00</published><updated>2017-10-26T22:14:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-10-26:/test3.html</id><summary type="html">&lt;p&gt;Das ist ein Test. Nummer zwei.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Das ist ein Test. Wird ein Bild im Atom angezeigt?&lt;/p&gt;
+&lt;h2&gt;Text&lt;/h2&gt;
+&lt;p&gt;Unsere tolle Regierung hat die Vorratsdatenspeicherung (VDS)
+wieder einmal eingeführt. Das zeigt wie wenig sich viele Bundestags und
+-ratsabgeordnete beim Thema Datensicherheit auskennen und mit dem damit
+untrennbar verbundenen Schutz der Privatsphäre der Bürger. &lt;a href="http://xcosx.de/wp-content/uploads/2015/10/VDS_Vorratsdatenspeicherung.pdf"&gt;Meine
+Zusammenfassung der Argumente gegen die
+VDS.&lt;/a&gt;
+&lt;a href="http://www.xcosx.de/mgb/keineph-slides/slides/vds.md.html"&gt;Meine Präsentation Freiheit vs.
+VDS&lt;/a&gt;. Bis das
+Verfassungsgericht die VDS wieder für illegal beurteilt, kann man nur
+eins tun: sich selbst schützen. Die wirksamsten Möglichkeiten sind der
+Verzicht auf's Internet und das vorübergehende Einmotten der SIM-Karte.
+Zu radikal? Dann kannst du folgendes tun:&lt;/p&gt;
+&lt;h2&gt;Für Jedermann: Schöne Apps, leicht zu bedienen&lt;/h2&gt;
+&lt;p&gt;Mit diesen netten Apps kann man sicherstellen, dass Mitteilungen
+verschlüsselt übertragen werden. Im Vergleich zu normalen SMS und
+WhatsApp sind diese Apps sehr sicher.&lt;/p&gt;</content><category term="Android"></category></entry><entry><title>Schütz dich Test</title><link href="https://xcosx.github.io/schuetz-dich2.html" rel="alternate"></link><published>2017-10-26T21:59:00+02:00</published><updated>2017-10-26T21:59:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-10-26:/schuetz-dich2.html</id><summary type="html">&lt;p&gt;Mit diesen Apps kannst du deine Privatsphäre schützen, und die deiner Freunde.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Mit diesen Apps kannst du deine Privatsphäre schützen, und die deiner Freunde.&lt;/p&gt;
 &lt;!--more--&gt;
 
 &lt;p&gt;Unsere tolle Regierung hat die Vorratsdatenspeicherung (VDS)
@@ -111,24 +128,7 @@ Möglichkeiten beschrieben.&lt;/p&gt;
 &lt;p&gt;Die sichersten (und nachhaltigsten!) E-Mail-Anbieter sind
 &lt;a href="https://posteo.de/de"&gt;Posteo&lt;/a&gt; und &lt;a href="http://mailbox.org/"&gt;Mailbox.org&lt;/a&gt;.
 Bei anderen Anbietern sind eure E-Mails oft unverschlüsselt gespeichert,
-bei manchen werden sogar die Inhalte statistisch ausgewertet.&lt;/p&gt;</content><category term="Android"></category><category term="App"></category><category term="Jabber"></category><category term="PC"></category><category term="Sicherheit"></category><category term="TextSecure"></category><category term="WhatsApp"></category><category term="XMPP"></category></entry><entry><title>Test</title><link href="https://xcosx.github.io/test.html" rel="alternate"></link><published>2017-10-26T21:27:00+02:00</published><updated>2017-10-26T21:27:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-10-26:/test.html</id><summary type="html">&lt;p&gt;Das ist ein Test&lt;/p&gt;</summary><content type="html">&lt;p&gt;Das ist ein Test. Wird ein Bild im Atom angezeigt?&lt;/p&gt;</content><category term="Android"></category></entry><entry><title>Test2</title><link href="https://xcosx.github.io/test2.html" rel="alternate"></link><published>2017-10-26T21:27:00+02:00</published><updated>2017-10-26T21:27:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-10-26:/test2.html</id><summary type="html">&lt;p&gt;Das ist ein Test. Nummer zwei.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Das ist ein Test. Wird ein Bild im Atom angezeigt?&lt;/p&gt;
-&lt;h2&gt;Text&lt;/h2&gt;
-&lt;p&gt;Unsere tolle Regierung hat die Vorratsdatenspeicherung (VDS)
-wieder einmal eingeführt. Das zeigt wie wenig sich viele Bundestags und
--ratsabgeordnete beim Thema Datensicherheit auskennen und mit dem damit
-untrennbar verbundenen Schutz der Privatsphäre der Bürger. &lt;a href="http://xcosx.de/wp-content/uploads/2015/10/VDS_Vorratsdatenspeicherung.pdf"&gt;Meine
-Zusammenfassung der Argumente gegen die
-VDS.&lt;/a&gt;
-&lt;a href="http://www.xcosx.de/mgb/keineph-slides/slides/vds.md.html"&gt;Meine Präsentation Freiheit vs.
-VDS&lt;/a&gt;. Bis das
-Verfassungsgericht die VDS wieder für illegal beurteilt, kann man nur
-eins tun: sich selbst schützen. Die wirksamsten Möglichkeiten sind der
-Verzicht auf's Internet und das vorübergehende Einmotten der SIM-Karte.
-Zu radikal? Dann kannst du folgendes tun:&lt;/p&gt;
-&lt;h2&gt;Für Jedermann: Schöne Apps, leicht zu bedienen&lt;/h2&gt;
-&lt;p&gt;Mit diesen netten Apps kann man sicherstellen, dass Mitteilungen
-verschlüsselt übertragen werden. Im Vergleich zu normalen SMS und
-WhatsApp sind diese Apps sehr sicher.&lt;/p&gt;</content><category term="Android"></category></entry><entry><title>Update der Homepage</title><link href="https://xcosx.github.io/update_2017.html" rel="alternate"></link><published>2017-10-23T10:00:00+02:00</published><updated>2017-10-23T10:00:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-10-23:/update_2017.html</id><summary type="html">&lt;p&gt;Ich habe meiner Internetseite ein Update unterzogen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ich habe meiner Internetseite ein Update unterzogen. Sie basiert jetzt auf reinem HTML und CSS, verwendet kein Javascript mehr, keine Links zu Google-Analytics und keinen Canvas-Blödsinn. Das hat für dich den Vorteil, dass du aufgrund meiner Seite keinem möglichen Tracking ausgesetzt bist und die Seite schneller läd, und für mich, dass ich kein Wordpress verwenden muss.&lt;/p&gt;
+bei manchen werden sogar die Inhalte statistisch ausgewertet.&lt;/p&gt;</content><category term="Android"></category><category term="App"></category><category term="Jabber"></category><category term="PC"></category><category term="Sicherheit"></category><category term="TextSecure"></category><category term="WhatsApp"></category><category term="XMPP"></category></entry><entry><title>Test</title><link href="https://xcosx.github.io/test.html" rel="alternate"></link><published>2017-10-26T21:27:00+02:00</published><updated>2017-10-26T21:27:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-10-26:/test.html</id><summary type="html">&lt;p&gt;Das ist ein Test&lt;/p&gt;</summary><content type="html">&lt;p&gt;Das ist ein Test. Wird ein Bild im Atom angezeigt?&lt;/p&gt;</content><category term="Android"></category></entry><entry><title>Update der Homepage</title><link href="https://xcosx.github.io/update_2017.html" rel="alternate"></link><published>2017-10-23T10:00:00+02:00</published><updated>2017-10-23T10:00:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2017-10-23:/update_2017.html</id><summary type="html">&lt;p&gt;Ich habe meiner Internetseite ein Update unterzogen.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ich habe meiner Internetseite ein Update unterzogen. Sie basiert jetzt auf reinem HTML und CSS, verwendet kein Javascript mehr, keine Links zu Google-Analytics und keinen Canvas-Blödsinn. Das hat für dich den Vorteil, dass du aufgrund meiner Seite keinem möglichen Tracking ausgesetzt bist und die Seite schneller läd, und für mich, dass ich kein Wordpress verwenden muss.&lt;/p&gt;
 &lt;p&gt;Statt Wordpress, verwende ich zur Erzeugung dieser Internetseiten ein Programm namens &lt;a href="http://getpelican.com/"&gt;Pelican&lt;/a&gt;, das aus Markdown-Dateien eine statische Internetseite macht. Ich habe &lt;a href="http://mathamy.com/migrating-to-github-pages-using-pelican.html"&gt;diese Anleitung&lt;/a&gt; und &lt;a href="https://github.com/art1fa/minimalX"&gt;dieses Styling&lt;/a&gt; verwendet, etwas modifiziert, und den Quellcode auf GitHub hinterlegt.&lt;/p&gt;
 &lt;h2&gt;Details&lt;/h2&gt;
 &lt;p&gt;Ich habe die Arbeitsverzeichnisse auf meinem GitHub-Account &lt;em&gt;DorKeinath&lt;/em&gt; gespeichert unter &lt;em&gt;xcosx.github.io&lt;/em&gt;, also in &lt;em&gt;https://github.com/DorKeinath/xcosx.github.io&lt;/em&gt;.
