@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>xcosx.github.io - ehemals xcosx.de</title><link>https://xcosx.github.io/</link><description></description><lastBuildDate>Thu, 26 Oct 2017 22:14:00 +0200</lastBuildDate><item><title>Test3</title><link>https://xcosx.github.io/test3.html</link><description>&lt;p&gt;Das ist ein Test. Wird ein Bild im Atom angezeigt?&lt;/p&gt;
-&lt;h2&gt;Text&lt;/h2&gt;
-&lt;p&gt;Unsere tolle Regierung hat die Vorratsdatenspeicherung (VDS)
-wieder einmal eingeführt. Das zeigt wie wenig sich viele Bundestags und
--ratsabgeordnete beim Thema Datensicherheit auskennen und mit dem damit
-untrennbar verbundenen Schutz der Privatsphäre der Bürger. &lt;a href="http://xcosx.de/wp-content/uploads/2015/10/VDS_Vorratsdatenspeicherung.pdf"&gt;Meine
-Zusammenfassung der Argumente gegen die
-VDS.&lt;/a&gt;
-&lt;a href="http://www.xcosx.de/mgb/keineph-slides/slides/vds.md.html"&gt;Meine Präsentation Freiheit vs.
-VDS&lt;/a&gt;. Bis das
-Verfassungsgericht die VDS wieder für illegal beurteilt, kann man nur
-eins tun: sich selbst schützen. Die wirksamsten Möglichkeiten sind der
-Verzicht auf's Internet und das vorübergehende Einmotten der SIM-Karte.
-Zu radikal? Dann kannst du folgendes tun:&lt;/p&gt;
-&lt;h2&gt;Für Jedermann: Schöne Apps, leicht zu bedienen&lt;/h2&gt;
-&lt;p&gt;Mit diesen netten Apps kann man sicherstellen, dass Mitteilungen
-verschlüsselt übertragen werden. Im Vergleich zu normalen SMS und
-WhatsApp sind diese Apps sehr sicher.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Thu, 26 Oct 2017 22:14:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2017-10-26:/test3.html</guid><category>Android</category></item><item><title>Update der Homepage</title><link>https://xcosx.github.io/update_2017.html</link><description>&lt;p&gt;Ich habe meiner Internetseite ein Update unterzogen. Sie basiert jetzt auf reinem HTML und CSS, verwendet kein Javascript mehr, keine Links zu Google-Analytics und keinen Canvas-Blödsinn. Das hat für dich den Vorteil, dass du aufgrund meiner Seite keinem möglichen Tracking ausgesetzt bist und die Seite schneller läd, und für mich, dass ich kein Wordpress verwenden muss.&lt;/p&gt;
+<rss version="2.0"><channel><title>xcosx.github.io - ehemals xcosx.de</title><link>https://xcosx.github.io/</link><description></description><lastBuildDate>Mon, 23 Oct 2017 10:00:00 +0200</lastBuildDate><item><title>Update der Homepage</title><link>https://xcosx.github.io/update_2017.html</link><description>&lt;p&gt;Ich habe meiner Internetseite ein Update unterzogen. Sie basiert jetzt auf reinem HTML und CSS, verwendet kein Javascript mehr, keine Links zu Google-Analytics und keinen Canvas-Blödsinn. Das hat für dich den Vorteil, dass du aufgrund meiner Seite keinem möglichen Tracking ausgesetzt bist und die Seite schneller läd, und für mich, dass ich kein Wordpress verwenden muss.&lt;/p&gt;
 &lt;p&gt;Statt Wordpress, verwende ich zur Erzeugung dieser Internetseiten ein Programm namens &lt;a href="http://getpelican.com/"&gt;Pelican&lt;/a&gt;, das aus Markdown-Dateien eine statische Internetseite macht. Ich habe &lt;a href="http://mathamy.com/migrating-to-github-pages-using-pelican.html"&gt;diese Anleitung&lt;/a&gt; und &lt;a href="https://github.com/art1fa/minimalX"&gt;dieses Styling&lt;/a&gt; verwendet, etwas modifiziert, und den Quellcode auf GitHub hinterlegt.&lt;/p&gt;
 &lt;h2&gt;Details&lt;/h2&gt;
 &lt;p&gt;Ich habe die Arbeitsverzeichnisse auf meinem GitHub-Account &lt;em&gt;DorKeinath&lt;/em&gt; gespeichert unter &lt;em&gt;xcosx.github.io&lt;/em&gt;, also in &lt;em&gt;https://github.com/DorKeinath/xcosx.github.io&lt;/em&gt;.
