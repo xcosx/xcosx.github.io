@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>xcosx - DorKeinath</title><link>https://xcosx.github.io/</link><description></description><lastBuildDate>Mon, 23 Oct 2017 10:00:00 +0200</lastBuildDate><item><title>Update der Homepage</title><link>https://xcosx.github.io/update_2017.html</link><description>&lt;p&gt;Ich habe meiner Internetseite ein Update verpasst. Sie basiert jetzt auf reinem HTML und CSS, verwendet kein Javascript mehr, keine Links zu Google-Analytics und keinen Canvas-Blödsinn. Das hat für dich den Vorteil, dass du aufgrund meiner Seite keinem möglichen Tracking ausgesetzt bist und die Seite schneller läd, und für mich, dass ich kein Wordpress verwenden muss.&lt;/p&gt;
+<rss version="2.0"><channel><title>xcosx - DorKeinath</title><link>https://xcosx.github.io/</link><description></description><lastBuildDate>Sun, 29 Oct 2017 11:22:00 +0100</lastBuildDate><item><title>Ein gutes neues Handy</title><link>https://xcosx.github.io/neues-handy.html</link><description>&lt;h1&gt;Ein gutes neues Handy&lt;/h1&gt;
+&lt;p&gt;Die meisten Menschen, die ich kenne, denken bei der Frage nach einem guten Handy nur an die Leistung des Handys. Ich bin der Meinung, dass das Attribut &lt;em&gt;gut&lt;/em&gt; mehr enthält, und schlage für die Wahl eines neuen Handys die folgenden Kategorien vor:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Technisch gut&lt;/li&gt;
+&lt;li&gt;Ethisch gut&lt;/li&gt;
+&lt;li&gt;Ästhetisch gut&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Unter dem &lt;strong&gt;technischen&lt;/strong&gt; Aspekt sind die Geschwindigkeit, und der Bildschirm am wichtigsten. Also Prozessorgeschwindigkeit, dass genug Speicher vorhanden ist und das Handy mit einer SD-Karte erweitert werden kann, und beim Bildschirm die Auflösung und der Härtegrad des Glases.&lt;/p&gt;
+&lt;p&gt;Was &lt;strong&gt;ästhetisch&lt;/strong&gt; gut ist, muss jeder für sich entscheiden. Das Ästhetische steht allerdings etwas in Konkurrenz zum Praktischen. Ich fände z.B. ein kleines Handy schön, aber darauf kann man nicht gut lesen. Das Fairphone 2 hat um die Pixelfläche des Bildschirms herum einen Rand, was nicht so hübsch ist wie ohne, aber es ist praktisch, um das Handy zu halten, ohne etwas aus Versehen anzuklicken.&lt;/p&gt;
+&lt;p&gt;Die entscheidenden &lt;strong&gt;ethischen&lt;/strong&gt; Punkte sind meines Erachtens &lt;em&gt;Nachhaltigkeit&lt;/em&gt;, ob die Materialien &lt;em&gt;fair&lt;/em&gt; gehandelt wurden, welches &lt;em&gt;Unternehmen&lt;/em&gt; man mit dem Kauf unterstützt und ob man mit dem Handy die Möglichkeit hat, &lt;em&gt;Informationssicherheit&lt;/em&gt; und &lt;em&gt;Datenschutz&lt;/em&gt; zu maximieren.&lt;/p&gt;
+&lt;p&gt;Um diese Kriterien beim Kauf eines neuen Handys zu erfüllen, gibt es nur zwei Wege: Entweder man kauft ein gebrauchtes Handy oder man kauft ein Fairphone 2.&lt;/p&gt;
+&lt;h2&gt;Ein gebrauchtes Handy&lt;/h2&gt;
+&lt;p&gt;Die Nachhaltigkeit beim Kauf eines gebrauchten Handys ist offensichtlich: Es wird dann kein weiteres produziert.
+Fast alle Handys produziert ab 2013 sind technisch schnell genug. Mein erstes Smartphone hat 90 Sekunden gebraucht, um ein Foto zu machen, das geht natürlich nicht, aber bereits ein dual core mit 1,7 GHz und 1,5 GB RAM sind so gut, dass der normale Mensch kein Ruckeln oder Langsamkeit fest stellt. Ästhetisch gesehen findet man gebrauchte Handys, die wie neu aussehen. Man kann ja vielleicht auch eine neue Hülle drum machen.
+Wichtig ist, dass man ein neues Betriebssystem auf das Handy drauf bekommt. Ich empfehle daher bei &lt;a href="https://download.lineageos.org/"&gt;LineageOS&lt;/a&gt; zu schauen, welches Handy von denen mit der neuesten Android-Version unterstützt wird und dir gefällt, schnell genug ist usw. und sobald du es bekommst, kannst du es mit deren Anleitung mit dem neuesten Betriebssystem bespielen.&lt;/p&gt;
+&lt;h2&gt;Das Fairphone&lt;/h2&gt;
+&lt;p&gt;Ich habe mich 2015 für den Kauf eines &lt;a href="https://www.vireo.de/fairphone/fairphone/3758/fairphone-2"&gt;Fairphones 2&lt;/a&gt; entschieden.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Nachhaltigkeit.&lt;/em&gt; Ich rechtfertigte das gegenüber dem bisher Gesagtem so: Wenn ich ein gebrauchtes Handy kaufe, unterstütze ich den, dem ich es abkaufe darin, ein schlechtes (sprich Google-, Apple- oder Samsung-)Handy zu kaufen. Lieber kaufe ich ein gutes, das durch seinen modularen Aufbau sehr lange hält.
+Die Materialien im FP sind bei Weitem nachhaltiger und &lt;em&gt;fairer&lt;/em&gt; produziert als bei allen anderen Handys (siehe &lt;a href="https://www.izm.fraunhofer.de/de/news_events/tech_news/fairphone-2-_-nachhaltigkeitstest-bestanden.html"&gt;Test des Frauenhofer -Instituts&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Freiheit.&lt;/em&gt; Zudem hat das Fairphone eine Community wie sonst kein Handy (außer vielleicht das One, aber das will ich nicht). Diese Community ist im &lt;a href="https://forum.fairphone.com/"&gt;Fairphone-Forum&lt;/a&gt; immer ansprechbar und extrem hilfsbereit, falls mal etwas sein sollte oder man etwas verbessern möchte. Sie sorgt auch dafür, dass das Betriebssystem immer aktuell bleibt. Es gibt verschiedene Betriebssysteme, je nach Anspruch (Android mit Googlezeug, Fairphone Open, LineageOS, Sailfish, Ubuntu).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Technisch&lt;/em&gt; und &lt;em&gt;ästhetisch&lt;/em&gt; wird das FP immer wieder schlecht beurteilt, meines Erachtens, weil man sonst nichts findet oder auch mal Fake News verbreiten will. Stiftung Warentest meint, das FP sei nicht konkurrenzfähig. Ich vermute, dass sie beleidigt sind, weil sie für ihren Test keine Fairphones geschenkt bekommen haben. Als Argument nennen sie den Akku. Ja, okay, der Akku ist nicht richtig gut, aber meistens hat man doch nachts Strom, um es aufzuladen, oder? Also ich hatte noch nie Probleme mit dem Akku, obwohl ich in meinen Urlauben oft Zelten gehe und &lt;a href="https://f-droid.org/packages/#q=osmand"&gt;OsmAnd&lt;/a&gt; verwende. Spiegel Online bemängelt im FP-Test das veraltete Betriebssystem. Hä? Die Aktualität des Betriebssystems ist gerade einer der großen Pluspunkte des Fairphones. Außerdem wird das Gehäuse als globig bezeichnet. Dabei haben sie vermutlich nicht realisiert, dass das Gehäuse bereits die Hülle enthält. Verwendet man für sein neuestes Samsung ein Cover ist es genau so globig, die meisten Cover um Google-Handys machen das Handy sogar einiges globiger als das Fairphone. Einen vernünftigen Test findest du bei &lt;a href="https://utopia.de/ratgeber/test-fairphone-2/"&gt;utopia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Wer etwas von einer schlechten Kamera liest, liest vermutlich einen alten Test. Seit September 2017 gibt's eine 12 MP Kamera. Und wer davon liest, dass das FP nicht verfügbar ist, der hat übersehen, dass es das FP nicht nur direkt, sondern auch in anderen Shops zu kaufen gibt.&lt;/p&gt;
+&lt;!-- ### FP vs. A3
+Zum Schluss noch ein Kommentar zum Vergleich des Fairphones mit dem Samsung A3 aus aktuellem Anlass.
+* Mein FP wiegt 172 g, das A3 mit Hülle 123 g, Pluspunkt für Samsung. Mir ist das Gewicht bisher übrigens nie negativ aufgefallen.
+* Der Akku des A3 (1900 mAh) ist schlechter als der des FPs (2400 mAh) - aber wie gesagt finde ich, dass der Akku kein relevantes Argument ist. Aber der Akku des A3 ist fest verbaut, also klarer Minuspunkt.
+* Die Strahlungswerte des FPs sind besser.
+* Man vergleiche die Abmessungen des A3 mit Hülle (137 x 68 x 9) mit denen des FPs (144 x 75 x 12) - die Relevanz dieser 3-7 mm möge jeder selbst beurteilen, aber jeder möge auch bitte mal drüber nachdenken, wie relevant das Argument der Abmessungen ist.
+* Das Display des FP ist viel besser: die Auflösung und der Härtegrad
+* Das FP ist schneller und hat mehr Speicher
+* Das A3 hat nur ein Android 4
+* Die Kamera das FP ist besser
+* Das Wlan-Modul des FPs ist schneller
+* Das A3 kostet halb so viel wie das FP. Schön für den eigenen Geldbeutel, aber das Geld kriegt ein Unternehmen, das seit es existiert quasi nichts für Transparenz, fairen Handel und Nachhaltigkeit tut. --&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sun, 29 Oct 2017 11:22:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2017-10-29:/neues-handy.html</guid><category>Fair Trade</category><category>Nachhaltigkeit</category><category>Datensicherheit</category></item><item><title>Update der Homepage</title><link>https://xcosx.github.io/update_2017.html</link><description>&lt;p&gt;Ich habe meiner Internetseite ein Update verpasst. Sie basiert jetzt auf reinem HTML und CSS, verwendet kein Javascript mehr, keine Links zu Google-Analytics und keinen Canvas-Blödsinn. Das hat für dich den Vorteil, dass du aufgrund meiner Seite keinem möglichen Tracking ausgesetzt bist und die Seite schneller läd, und für mich, dass ich kein Wordpress verwenden muss.&lt;/p&gt;
 &lt;p&gt;Statt Wordpress, verwende ich zur Erzeugung dieser Internetseiten ein Programm namens &lt;a href="http://getpelican.com/"&gt;Pelican&lt;/a&gt;, das aus Markdown-Dateien eine statische Internetseite macht. Ich habe &lt;a href="http://mathamy.com/migrating-to-github-pages-using-pelican.html"&gt;diese Anleitung&lt;/a&gt; und &lt;a href="https://github.com/art1fa/minimalX"&gt;dieses Styling&lt;/a&gt; verwendet, etwas modifiziert, und den Quellcode auf GitHub hinterlegt.&lt;/p&gt;
 &lt;h2&gt;Details&lt;/h2&gt;
 &lt;p&gt;Ich habe die Arbeitsverzeichnisse auf meinem GitHub-Account &lt;em&gt;DorKeinath&lt;/em&gt; gespeichert unter &lt;em&gt;xcosx.github.io&lt;/em&gt;, also in &lt;em&gt;https://github.com/DorKeinath/xcosx.github.io&lt;/em&gt;.
@@ -63,13 +96,13 @@ git add --all
 git commit -m &lt;span class="s2"&gt;&amp;quot;update&amp;quot;&lt;/span&gt;
 git push origin master
 dorkeinath
-&lt;/pre&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 23 Oct 2017 10:00:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2017-10-23:/update_2017.html</guid><category>HTML</category></item><item><title>Feed</title><link>https://xcosx.github.io/feed.html</link><description>&lt;p&gt;Um die Beiträge dieser Internetseite zu abonnieren, kannst du einen der folgenden Links zu deiner Feed-App hinzufügen.&lt;/p&gt;
+&lt;/pre&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 23 Oct 2017 10:00:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2017-10-23:/update_2017.html</guid><category>HTML</category><category>Datensicherheit</category></item><item><title>Feed</title><link>https://xcosx.github.io/feed.html</link><description>&lt;p&gt;Um die Beiträge dieser Internetseite zu abonnieren, kannst du einen der folgenden Links zu deiner Feed-App hinzufügen.&lt;/p&gt;
 &lt;p class="content-highlight"&gt;Eine Feed-App wie &lt;a href="https://f-droid.org/en/packages/net.etuldan.sparss.floss/"&gt;SpaRSS&lt;/a&gt; sollte den Status deiner Chat-App haben&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://xcosx.github.io/feeds/all.rss.xml"&gt;https://xcosx.github.io/feeds/all.rss.xml&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://xcosx.github.io/feeds/all.atom.xml"&gt;https://xcosx.github.io/feeds/all.atom.xml&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Was ist ein Feed?&lt;/h2&gt;
 &lt;p&gt;Was es sich mit sogenannten RSS-Feeds oder Atom-Feeds auf sich hat, ist &lt;a href="http://www.taz.de/!114191/"&gt;hier&lt;/a&gt; gut beschrieben. Ein Feed-Reader ist &lt;em&gt;die&lt;/em&gt; Möglichkeit, auf deinem Gerät Nachrichten zu lesen.
-Das Atom-Protokoll ist ein Update des RSS-Protokolls.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Thu, 05 Oct 2017 14:48:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2017-10-05:/feed.html</guid></item><item><title>Trampelt Trump? Leseempfehlung!</title><link>https://xcosx.github.io/trampelt-trump-leseempfehlung.html</link><description>&lt;p&gt;Dringende Leseempfehlung:&lt;/p&gt;
+Das Atom-Protokoll ist ein Update des RSS-Protokolls.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Thu, 05 Oct 2017 14:48:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2017-10-05:/feed.html</guid><category>Datensicherheit</category><category>App</category><category>Nachrichten</category></item><item><title>Trampelt Trump? Leseempfehlung!</title><link>https://xcosx.github.io/trampelt-trump-leseempfehlung.html</link><description>&lt;p&gt;Dringende Leseempfehlung:&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/"&gt;https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;... und bitte den Ich-habe-nichts-zu-verbergen-Menschen weiterleiten oder berichten.&lt;/p&gt;
 &lt;p&gt;Das sind ja James-Bond-Szenarien&lt;/p&gt;
@@ -100,7 +133,7 @@ können.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.kiwi-verlag.de/buch/der-circle/978-3-462-04675-5/"&gt;The    Circle&lt;/a&gt; zur Pflichtlektüre im Fach Deutsch machen.&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 05 Dec 2016 22:33:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-12-05:/trampelt-trump-leseempfehlung.html</guid><category>Politik</category><category>Big Data</category></item><item><title>Gajim mit OMEMO</title><link>https://xcosx.github.io/gajim-mit-omemo.html</link><description>&lt;p&gt;Bei Gajim das OMEMO-Plugin zum Laufen zu bringen ist nicht ganz
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 05 Dec 2016 22:33:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-12-05:/trampelt-trump-leseempfehlung.html</guid><category>Politik</category><category>Big Data</category><category>Datensicherheit</category></item><item><title>Gajim mit OMEMO</title><link>https://xcosx.github.io/gajim-mit-omemo.html</link><description>&lt;p&gt;Bei Gajim das OMEMO-Plugin zum Laufen zu bringen ist nicht ganz
 trivial. Gajim ist ein Programm, mit dem man Chatten kann und OMEMO ist die aktuellste Verschlüsselungstechnik.&lt;/p&gt;
 &lt;p&gt;Wenn man nur in Konferenzen unterwegs
 ist, braucht man es nicht installieren, aber um mit Gajim sicher
@@ -143,11 +176,11 @@ sudo -H pip install &lt;span class="nv"&gt;protobuf&lt;/span&gt;&lt;span class="
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;und weiter mit Klicken. Nach dem Installieren das &lt;strong&gt;Aktivieren&lt;/strong&gt; nicht vergessen.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 05 Dec 2016 20:33:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-12-05:/gajim-mit-omemo.html</guid></item><item><title>Kill: Browser-Addons</title><link>https://xcosx.github.io/kill-browser-addons.html</link><description>&lt;p&gt;Du solltest so wenige Addons wie möglich installiert haben.&lt;/p&gt;
+&lt;p&gt;und weiter mit Klicken. Nach dem Installieren das &lt;strong&gt;Aktivieren&lt;/strong&gt; nicht vergessen.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 05 Dec 2016 20:33:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-12-05:/gajim-mit-omemo.html</guid><category>Datensicherheit</category><category>Apps</category></item><item><title>Kill: Browser-Addons</title><link>https://xcosx.github.io/kill-browser-addons.html</link><description>&lt;p&gt;Du solltest so wenige Addons wie möglich installiert haben.&lt;/p&gt;
 &lt;p&gt;AdBlock Plus solltet ihr löschen.&lt;!--more--&gt;&lt;/p&gt;
 &lt;p&gt;Nach dem neuesten Skandal fragt man sich, welches Addon noch wirklich
 gut ist. &lt;a href="https://www.kuketz-blog.de/ublock-origin-schutz-gegen-tracker-und-werbung/"&gt;Kuketz empfiehlt das Addon uBlock
-origin&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 07 Nov 2016 23:29:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-11-07:/kill-browser-addons.html</guid><category>Kill</category></item><item><title>Informatik für alle</title><link>https://xcosx.github.io/informatik-fuer-alle.html</link><description>&lt;p&gt;Grundkenntnisse in Informatik sind eine Bedingung der Möglichkeit von
+origin&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 07 Nov 2016 23:29:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-11-07:/kill-browser-addons.html</guid><category>Kill</category><category>Datensicherheit</category></item><item><title>Informatik für alle</title><link>https://xcosx.github.io/informatik-fuer-alle.html</link><description>&lt;p&gt;Grundkenntnisse in Informatik sind eine Bedingung der Möglichkeit von
 Mündigkeit.&lt;!--more--&gt;&lt;/p&gt;
 &lt;p&gt;Wer informationstechnische Hintergründe nicht versteht, kann heutzutage
 nicht mehr selbstbestimmt leben. Erst ein Verständnis dessen, was im
@@ -158,7 +191,7 @@ kann man auf informatisch-ethische Probleme reagieren.&lt;/p&gt;
 in Informatik unterrichtet wird. &lt;a href="https://www.kuketz-blog.de/kommentar-eine-unbequeme-datenschutz-wahrheit/"&gt;Eine ausführlichere Argumentation&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Die &lt;a href="http://www.ill-bw.de/"&gt;ILL-BW&lt;/a&gt; setzt sich dafür ein, dass
 Informatik als Pflichtfach eingeführt wird. Wir sind für jede
-Unterstützung dankbar!&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 31 Oct 2016 18:40:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-10-31:/informatik-fuer-alle.html</guid></item><item><title>Kill: Dropbox</title><link>https://xcosx.github.io/kill-dropbox.html</link><description>&lt;p&gt;Alternativen zu Dropbox, Google Cloud, OneDrive,
+Unterstützung dankbar!&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 31 Oct 2016 18:40:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-10-31:/informatik-fuer-alle.html</guid><category>Datensicherheit</category></item><item><title>Kill: Dropbox</title><link>https://xcosx.github.io/kill-dropbox.html</link><description>&lt;p&gt;Alternativen zu Dropbox, Google Cloud, OneDrive,
 iCloud,...&lt;!--more--&gt;Dropbox ist ein Cloud-Service - ziemlich praktisch
 aber genau so unsicher. 2011 konnte man sich aufgrund einer
 Sicherheitslücke mit einem beliebigen Passwort in einen Account
@@ -176,7 +209,7 @@ Es gibt mehrere Wege, auf Dropbox zu verzichten:&lt;/p&gt;
 verwenden. Ich persönlich finde das nervig und finde Syncthing
 überzeugender.&lt;/p&gt;
 &lt;p&gt;Will man weiterhin E-Mails mit Anhängen verwenden, um Dateien zu teilen,
-kann &lt;a href="https://veracrypt.codeplex.com/"&gt;VeraCrypt&lt;/a&gt; verwenden.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sun, 30 Oct 2016 13:13:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-10-30:/kill-dropbox.html</guid><category>Kill</category></item><item><title>Kill: Gmail-Mails</title><link>https://xcosx.github.io/kill-gmail-mails.html</link><description>&lt;h1&gt;Gmail&lt;/h1&gt;
+kann &lt;a href="https://veracrypt.codeplex.com/"&gt;VeraCrypt&lt;/a&gt; verwenden.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sun, 30 Oct 2016 13:13:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-10-30:/kill-dropbox.html</guid><category>Kill</category><category>Datensicherheit</category></item><item><title>Kill: Gmail-Mails</title><link>https://xcosx.github.io/kill-gmail-mails.html</link><description>&lt;h1&gt;Gmail&lt;/h1&gt;
 &lt;!--more--&gt;
 
 &lt;p&gt;Es gibt für mich zwei Handlungsweisen:&lt;/p&gt;
@@ -210,7 +243,7 @@ will read your e-mail but might not answer it.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Details siehe Kuketz:
 &lt;a href="https://www.kuketz-blog.de/google-also-jetzt-doch-identified-tracking/"&gt;https://www.kuketz-blog.de/google-also-jetzt-doch-identified-tracking/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Weitere E-Mail-Provider und viele Details:
-&lt;a href="https://privacy-handbuch.de/handbuch_31.htm"&gt;https://privacy-handbuch.de/handbuch_31.htm&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sat, 22 Oct 2016 16:15:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-10-22:/kill-gmail-mails.html</guid><category>Kill</category><category>E-Mail</category></item><item><title>Programmieren lernen</title><link>https://xcosx.github.io/programmieren-lernen.html</link><description>&lt;p&gt;Mit Hilfe der folgenden Internetseiten kannst du selbständig beginnen,
+&lt;a href="https://privacy-handbuch.de/handbuch_31.htm"&gt;https://privacy-handbuch.de/handbuch_31.htm&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sat, 22 Oct 2016 16:15:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-10-22:/kill-gmail-mails.html</guid><category>Kill</category><category>Datensicherheit</category></item><item><title>Programmieren lernen</title><link>https://xcosx.github.io/programmieren-lernen.html</link><description>&lt;p&gt;Mit Hilfe der folgenden Internetseiten kannst du selbständig beginnen,
 programmieren zu lernen.&lt;!--more--&gt;&lt;/p&gt;
 &lt;h2&gt;Klicki-Bunti&lt;/h2&gt;
 &lt;p&gt;Um ein paar der wichtigsten Strukturen beim Programmieren zu lernen,
@@ -275,7 +308,7 @@ eingeben.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.optout-service.telekom-dienste.de/public/anmeldung.jsp"&gt;Opt-Out  beiTelekom&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.telefonica.de/dap/selbst-entscheiden.html"&gt;Opt-Out bei Telefónica (O2, E-Plus, Aldi,...)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Hintergrund-Infos dazu findest du über
-&lt;a href="https://www.kuketz-blog.de/opt-out-telefonica-vermarktet-bewegungsdaten/"&gt;Kuketz&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Thu, 06 Oct 2016 16:12:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-10-06:/kill-deinen-netzbetreiber.html</guid><category>Kill</category></item><item><title>Kill: Google Play</title><link>https://xcosx.github.io/kill-google-play.html</link><description>&lt;p&gt;&lt;strong&gt;Google Play löschen&lt;/strong&gt;&lt;/p&gt;
+&lt;a href="https://www.kuketz-blog.de/opt-out-telefonica-vermarktet-bewegungsdaten/"&gt;Kuketz&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Thu, 06 Oct 2016 16:12:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-10-06:/kill-deinen-netzbetreiber.html</guid><category>Kill</category><category>Datensicherheit</category></item><item><title>Kill: Google Play</title><link>https://xcosx.github.io/kill-google-play.html</link><description>&lt;p&gt;&lt;strong&gt;Google Play löschen&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;F-Droid installieren&lt;/strong&gt;&lt;/p&gt;
 &lt;!--more--&gt;
 
@@ -290,7 +323,7 @@ kannst, die sich weniger Daten nach Hause senden als die Apps aus dem Playstore.
 &lt;p&gt;Willst du ganz konsequent sein, musst du ein anderes Android ohne Google-Service auf dein Handy spielen. Ob es für dein Handy ein
 besseres Android gibt, musst du selbst recherchieren. Recht wahrscheinlich ist es, dass es für dein Handy ein &lt;a href="https://wiki.lineageos.org/devices/"&gt;LineageOS&lt;/a&gt;. Eine ganze Serie zu diesem Thema findest du bei
 &lt;a href="https://www.kuketz-blog.de/your-phone-your-data-teil1/"&gt;Kuketz&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Das Bespielen deines Handys mit einem neuen Betriebssystem läuft grob gesagt so: Du sicherst zuerst alle deine Daten auf dem Handy, dann lädst du diverse Programme auf dein Handy und auf deinen PC herunter, installierst ein paar von den Programmen auf deinem (möglichst Linux-)PC, um dann dein Handy mittels USB-Kabel an den PC anschließen und mit ein paar Klicks ein neues Android (was auch ein Linux ist) übertragen und installieren zu können. Wenn man man's zum zweiten Mal macht, braucht man vielleicht eine halbe Stunde dafür, das erste mal vielleicht ein paar Tage.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Thu, 06 Oct 2016 15:47:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-10-06:/kill-google-play.html</guid><category>Kill</category></item><item><title>Mathematik Abitur-Vorbereitung</title><link>https://xcosx.github.io/mathe-abi.html</link><description>&lt;p&gt;Hier findest du Informationen zum Mathematik-Abitur in Baden-Württemberg
+&lt;p&gt;Das Bespielen deines Handys mit einem neuen Betriebssystem läuft grob gesagt so: Du sicherst zuerst alle deine Daten auf dem Handy, dann lädst du diverse Programme auf dein Handy und auf deinen PC herunter, installierst ein paar von den Programmen auf deinem (möglichst Linux-)PC, um dann dein Handy mittels USB-Kabel an den PC anschließen und mit ein paar Klicks ein neues Android (was auch ein Linux ist) übertragen und installieren zu können. Wenn man man's zum zweiten Mal macht, braucht man vielleicht eine halbe Stunde dafür, das erste mal vielleicht ein paar Tage.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Thu, 06 Oct 2016 15:47:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-10-06:/kill-google-play.html</guid><category>Kill</category><category>Datensicherheit</category></item><item><title>Mathematik Abitur-Vorbereitung</title><link>https://xcosx.github.io/mathe-abi.html</link><description>&lt;p&gt;Hier findest du Informationen zum Mathematik-Abitur in Baden-Württemberg
 und Aufgaben, die ich empfehle zu rechnen&lt;/p&gt;
 &lt;h2&gt;Zum Buch&lt;/h2&gt;
 &lt;ul&gt;
@@ -506,7 +539,7 @@ hinzufügen. Dazu gibt es zwei Wege&lt;/p&gt;
     grün wird.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Wed, 20 Jul 2016 20:27:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-07-20:/conversations.html</guid><category>Android</category><category>App</category><category>XMPP</category><category>Chat</category><category>Kommunikation</category></item><item><title>Schütz dich!</title><link>https://xcosx.github.io/schuetz-dich.html</link><description>&lt;p&gt;Mit diesen Apps kannst du deine Privatsphäre schützen, und die deiner Freunde.&lt;/p&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Wed, 20 Jul 2016 20:27:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-07-20:/conversations.html</guid><category>Apps</category><category>Datensicherheit</category></item><item><title>Schütz dich!</title><link>https://xcosx.github.io/schuetz-dich.html</link><description>&lt;p&gt;Mit diesen Apps kannst du deine Privatsphäre schützen, und die deiner Freunde.&lt;/p&gt;
 &lt;!--more--&gt;
 
 &lt;p&gt;Unsere tolle Regierung hat die Vorratsdatenspeicherung (VDS)
@@ -618,7 +651,7 @@ Möglichkeiten beschrieben.&lt;/p&gt;
 &lt;p&gt;Die sichersten (und nachhaltigsten!) E-Mail-Anbieter sind
 &lt;a href="https://posteo.de/de"&gt;Posteo&lt;/a&gt; und &lt;a href="http://mailbox.org/"&gt;Mailbox.org&lt;/a&gt;.
 Bei anderen Anbietern sind eure E-Mails oft unverschlüsselt gespeichert,
-bei manchen werden sogar die Inhalte statistisch ausgewertet.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 14 Mar 2016 19:51:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-03-14:/schuetz-dich.html</guid><category>Android</category><category>App</category><category>Jabber</category><category>PC</category><category>Sicherheit</category><category>TextSecure</category><category>WhatsApp</category><category>XMPP</category></item><item><title>Informatik-AG</title><link>https://xcosx.github.io/informatik-ag.html</link><description>&lt;p&gt;Ich veröffentliche meine Unterrichtsmaterialien im&lt;/p&gt;
+bei manchen werden sogar die Inhalte statistisch ausgewertet.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 14 Mar 2016 19:51:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-03-14:/schuetz-dich.html</guid><category>Apps</category><category>Datensicherheit</category></item><item><title>Informatik-AG</title><link>https://xcosx.github.io/informatik-ag.html</link><description>&lt;p&gt;Ich veröffentliche meine Unterrichtsmaterialien im&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.gitbook.com/book/dorkeinath/informatik-ag/details"&gt;Git-Book Informatik-AG&lt;/a&gt;&lt;!--more--&gt;&lt;/p&gt;
 &lt;p&gt;Wer Ideen beitragen, mich auf Fehler aufmerksam machen oder mitschreiben will, kann sich sehr gerne bei mir melden.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Fri, 11 Mar 2016 23:11:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-03-11:/informatik-ag.html</guid></item><item><title>ITG-Unterricht</title><link>https://xcosx.github.io/itg-unterricht.html</link><description>&lt;p&gt;Ich veröffentliche meine Unterrichtsmaterialien im&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.gitbook.com/book/dorkeinath/itg/details"&gt;GitBook ITG&lt;/a&gt;&lt;!--more--&gt;&lt;/p&gt;
@@ -648,7 +681,7 @@ grundsätzlich sicherer macht.&lt;/p&gt;
     Hinweis darauf kommen, dass und wie du für die Zeit der Installation
     unter Systemeinstellungen/Sicherheit/Geräteverwaltung ein Häkchen
     bei "Unbekannte Herkunft" setzen musst.)&lt;/li&gt;
-&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Tue, 27 Oct 2015 18:16:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2015-10-27:/f-droid.html</guid></item><item><title>Cyberkrieg</title><link>https://xcosx.github.io/cyberkrieg.html</link><description>&lt;p&gt;Edward Snowden: "Wir sehen unerwartete Auswirkungen, völlig neue
+&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Tue, 27 Oct 2015 18:16:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2015-10-27:/f-droid.html</guid><category>Datensicherheit</category></item><item><title>Cyberkrieg</title><link>https://xcosx.github.io/cyberkrieg.html</link><description>&lt;p&gt;Edward Snowden: "Wir sehen unerwartete Auswirkungen, völlig neue
 Verhaltensweisen,&lt;!--more--&gt; wenn wir den kleinen bösen Virus in das
 große Becken unserer Privatleben, in all unsere privaten Systeme im Netz
 setzen. Denn der Virus neigt dazu, zu flüchten, und dann wird das ein
@@ -667,7 +700,7 @@ Hacker&lt;/a&gt;&lt;/p&gt;
 Waffen&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Laura Poitras: "Die Vereinigten Staaten benutzen die Angst, um einen
 Sicherheitsapparat zu rechtfertigen, der nicht mehr Teil des
-demokratischen Prozesses oder einer demokratischen Kontrolle ist."&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sun, 18 Oct 2015 17:40:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2015-10-18:/cyberkrieg.html</guid></item><item><title>Gefahren für die Daten</title><link>https://xcosx.github.io/gefahren-fuer-die-daten.html</link><description>&lt;p&gt;Kleine Auswahl an Artikel, die über die Sicherheitslage von Daten
+demokratischen Prozesses oder einer demokratischen Kontrolle ist."&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sun, 18 Oct 2015 17:40:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2015-10-18:/cyberkrieg.html</guid><category>Datensicherheit</category></item><item><title>Gefahren für die Daten</title><link>https://xcosx.github.io/gefahren-fuer-die-daten.html</link><description>&lt;p&gt;Kleine Auswahl an Artikel, die über die Sicherheitslage von Daten
 berichten.&lt;/p&gt;
 &lt;p&gt;Sorry, dass ich die Auswahl nicht aktualisiere, sonst müsste ich jeden
 Tag hier Zeit investieren.&lt;/p&gt;
@@ -728,7 +761,7 @@ Detail&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Browser-Check&lt;/h2&gt;
 &lt;p&gt;Teste auf &lt;a href="https://panopticlick.eff.org/"&gt;Panopticclick&lt;/a&gt;, ob dein
 Browser "unique" ist. Wenn ja, bedeutet das, dass Internetseiten deinen
-Browser als &lt;em&gt;deinen&lt;/em&gt; erkennen und dich damit tracken können.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sat, 17 Oct 2015 19:33:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2015-10-17:/gefahren-fuer-die-daten.html</guid></item><item><title>Ethik-AUVs und -Referenten</title><link>https://xcosx.github.io/ethik-auvs-und-referenten.html</link><description>&lt;p&gt;Vorschläge für den Ethikunterricht&lt;!--more--&gt;&lt;/p&gt;
+Browser als &lt;em&gt;deinen&lt;/em&gt; erkennen und dich damit tracken können.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sat, 17 Oct 2015 19:33:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2015-10-17:/gefahren-fuer-die-daten.html</guid><category>Datensicherheit</category></item><item><title>Ethik-AUVs und -Referenten</title><link>https://xcosx.github.io/ethik-auvs-und-referenten.html</link><description>&lt;p&gt;Vorschläge für den Ethikunterricht&lt;!--more--&gt;&lt;/p&gt;
 &lt;h2&gt;AUVs&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Suchtberatungsstelle&lt;/li&gt;
@@ -787,19 +820,12 @@ Zukunft in seiner Stadt haben möchte, sollte besser direkt dort Bücher
 kaufen. Die meisten kleinen Buchläden bieten übrigens auch an, dass man
 auf ihrer Internetseite Bücher bestellt und bei ihnen abholt.&lt;/p&gt;
 &lt;p&gt;Aber besser als Bücher bei Amazon oder Thalia zu kaufen, ist das
-Bestellen bei &lt;a href="https://www.buch7.de/"&gt;buch7.de&lt;/a&gt;allemal.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Tue, 30 Jun 2015 21:53:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2015-06-30:/sozial-buecher-kaufen.html</guid><category>Bücher</category><category>Good Shops</category></item><item><title>Good Shops</title><link>https://xcosx.github.io/good-shops.html</link><description>&lt;h2&gt;Wo man mit gutem Gewissen einkaufen kann&lt;/h2&gt;
-&lt;!--more--&gt;
-
+Bestellen bei &lt;a href="https://www.buch7.de/"&gt;buch7.de&lt;/a&gt;allemal.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Tue, 30 Jun 2015 21:53:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2015-06-30:/sozial-buecher-kaufen.html</guid><category>Bücher</category><category>Good Shops</category><category>Fair Trade</category><category>Nachhaltigkeit</category></item><item><title>Good Shops</title><link>https://xcosx.github.io/good-shops.html</link><description>&lt;h2&gt;Wo man mit gutem Gewissen einkaufen kann.&lt;/h2&gt;
 &lt;p&gt;Bevor's zu den empfehlenswerten Shops geht, zwei Bemerkungen&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Am ökologischsten ist es, wenn man gar keine Klamotten oder Schuhe
-    einkauft. Ergo ist es sinnvoll, gute Qualität zu kaufen.&lt;/li&gt;
-&lt;li&gt;Im September 2014 hat Entwicklungsminister Gerd Müller zu einem
-    Bündnis für Nachhaltigkeit und Fairness aufgerufen. Die meisten
-    großen Unternehmen wie Adidas oder Tchibo haben dabei eine
-    Blockadehaltung eingenommen. Hier findet man die &lt;a href="http://www.bmz.de/de/zentrales_downloadarchiv/Presse/Textilbuendnis/Textilbuendnis_Beitrittserklaerungen.pdf"&gt;Liste derjenigen,
-    die dem Bündnis beigetreten
-    sind&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Am ökologischsten ist es, wenn man gar keine Klamotten, Schuhe oder sonst etwas einkauft. Ergo ist es sinnvoll, gute Qualität zu kaufen.&lt;/li&gt;
+&lt;li&gt;Im September 2014 hat Entwicklungsminister Gerd Müller zu einem Bündnis für Nachhaltigkeit und Fairness aufgerufen. Die meisten großen Unternehmen wie Adidas oder Tchibo haben dabei eine Blockadehaltung eingenommen. Hier findet man die &lt;a href="http://www.bmz.de/de/zentrales_downloadarchiv/Presse/Textilbuendnis/Textilbuendnis_Beitrittserklaerungen.pdf"&gt;Liste derjenigen, die dem Bündnis beigetreten sind&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Leider gibt es m.E. kein sinnvolles Siegel. Auch Bio ist nicht immer gut, weil es z.B. nicht regional sein muss (Schau dir mal den Begriff &lt;a href="https://de.wikipedia.org/wiki/Slow_Food"&gt;Slow Food&lt;/a&gt; an). Bio bedeutet leider auch nicht nachhaltig; was man schon meistens an der Verpackung sieht. (Frau Schubert lebt quasi &lt;a href="https://frauschubertbloggt.wordpress.com/category/plastikfrei-einkaufen/"&gt;pastikfrei&lt;/a&gt;!) Ist die Verpackung schlecht, wird wiederum oft das Produkt zu schnell schlecht. Man muss also wohl Aristoteles' Mesoteslehre folgen und immer die goldene Mitte wählen und dabei seinen Verstand benutzen.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3&gt;Kleidung&lt;/h3&gt;
 &lt;ul&gt;
@@ -815,7 +841,7 @@ Bestellen bei &lt;a href="https://www.buch7.de/"&gt;buch7.de&lt;/a&gt;allemal.&l
     Planet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.toms.com"&gt;toms&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Womit ich keine gute Erfahrung gemacht habe&lt;/h4&gt;
+&lt;h4&gt;Womit ich &lt;em&gt;keine&lt;/em&gt; gute Erfahrung gemacht habe&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Earth positive (nicht nachhaltig, da sehr schnell kaputt)&lt;/li&gt;
 &lt;/ul&gt;
@@ -853,10 +879,17 @@ Bestellen bei &lt;a href="https://www.buch7.de/"&gt;buch7.de&lt;/a&gt;allemal.&l
 &lt;/ul&gt;
 &lt;h3&gt;Schokolade&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Meine derzeitige Lieblingsschokolade: &lt;a href="https://www.bioschokolade.de/produktsortiment/gourmet-tafeln/vivani-bio-schokolade-dunkle-vollmilch/a-713/"&gt;Vivani 50
-    %&lt;/a&gt;.
-    Gibt's bei Alnatura und zurzeit ab 11 Tafeln billiger bei
-    &lt;a href="http://www.biovio.de/Naturkost/Suesses/Schokolade/Vivani-Dunkle-Vollmilch-50--Cacao-80-g.html"&gt;biovio.de&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bioschokolade.de/produktsortiment/gourmet-tafeln/vivani-bio-schokolade-dunkle-vollmilch/a-713/"&gt;Vivani &lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.biovio.de/Naturkost/Suesses/Schokolade/Vivani-Dunkle-Vollmilch-50--Cacao-80-g.html"&gt;biovio.de&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Elektronik&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.vireo.de/"&gt;Vireo.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.memolife.de/Smartphone-Fairphone-2-Slim-Android-6.html?ono=E5408"&gt;memolife&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Haushalt und Büro&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.memolife.de"&gt;memolife&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Zum Stöbern&lt;/h3&gt;
 &lt;p&gt;Die folgende Liste zu Öko-Mode habe ich nicht selbst zusammen gestellt
@@ -891,7 +924,7 @@ und nicht ausprobiert:&lt;/p&gt;
 &lt;p&gt;http://mappenmanufaktur.com&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;http://www.schreiner-loeffler.de&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 04 May 2015 21:22:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2015-05-04:/good-shops.html</guid><category>Bio</category><category>Bücher</category><category>Fair Trade</category><category>Good Shops</category><category>Klamotten</category><category>Kleidung</category><category>Nachhaltigkeit</category><category>Outdoor</category><category>Schokolade</category><category>Schuhe</category><category>Wandern</category></item><item><title>Vom Handy zum Beamer: Das RPi im Klassenzimmer</title><link>https://xcosx.github.io/rpi-im-klassenzimmer.html</link><description>&lt;p&gt;Du willst deine Medien vom Handy an den Beamer senden?&lt;!--more--&gt;&lt;/p&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 04 May 2015 21:22:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2015-05-04:/good-shops.html</guid><category>Bio</category><category>Fair Trade</category><category>Nachhaltigkeit</category></item><item><title>Vom Handy zum Beamer: Das RPi im Klassenzimmer</title><link>https://xcosx.github.io/rpi-im-klassenzimmer.html</link><description>&lt;p&gt;Du willst deine Medien vom Handy an den Beamer senden?&lt;!--more--&gt;&lt;/p&gt;
 &lt;p&gt;Dann kannst du dir von einem beliebigen Hersteller einen WLAN-Stick
 kaufen, der das kann (ca. 35-60 €) oder du bastelst dir mit einer
 Raspberry Pi (RPi) deine Lösung selbst.&lt;/p&gt;
@@ -1055,7 +1088,7 @@ der Rechnung der Seite vergleichen.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://ne.lo-net2.de/selbstlernmaterial/index.html"&gt;Nach Themen
     sortiert&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sat, 17 Jan 2015 19:06:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2015-01-17:/grula-mathe.html</guid><category>Mathematik</category><category>MGB</category><category>Online-Rechner</category><category>Zahlensysteme</category></item><item><title>Warum Primark schlecht ist</title><link>https://xcosx.github.io/warum-primark-schlecht-ist.html</link><description>&lt;p&gt;Weil Primark noch schlechter ist als die Menschen, die dort einkaufen.
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sat, 17 Jan 2015 19:06:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2015-01-17:/grula-mathe.html</guid><category>Mathematik</category></item><item><title>Warum Primark schlecht ist</title><link>https://xcosx.github.io/warum-primark-schlecht-ist.html</link><description>&lt;p&gt;Weil Primark noch schlechter ist als die Menschen, die dort einkaufen.
 &lt;!--more--&gt;&lt;/p&gt;
 &lt;h2&gt;Auch schlecht&lt;/h2&gt;
 &lt;ul&gt;
@@ -1063,11 +1096,11 @@ der Rechnung der Seite vergleichen.&lt;/p&gt;
 &lt;li&gt;Zara&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Wo und was man mit gutem Gewissen einkaufen kann&lt;/h2&gt;
-&lt;p&gt;&lt;a href="good-shops.html"&gt;Good Shops&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sat, 03 May 2014 22:23:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2014-05-03:/warum-primark-schlecht-ist.html</guid><category>Good Shops</category><category>Kleidung</category><category>Primark</category><category>Schuhe</category></item><item><title>Zahlensysteme</title><link>https://xcosx.github.io/zahlensysteme.html</link><description>&lt;p&gt;Seite, auf der man zwischen verschiedenen Zahlensystemen umrechnen
+&lt;p&gt;&lt;a href="good-shops.html"&gt;Good Shops&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sat, 03 May 2014 22:23:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2014-05-03:/warum-primark-schlecht-ist.html</guid><category>Good Shops</category><category>Fair Trade</category><category>Nachhaltigkeit</category></item><item><title>Zahlensysteme</title><link>https://xcosx.github.io/zahlensysteme.html</link><description>&lt;p&gt;Seite, auf der man zwischen verschiedenen Zahlensystemen umrechnen
 lassen kann.&lt;br&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 &lt;h2&gt;Zahlensysteme&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm"&gt;http://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Wed, 30 Apr 2014 16:40:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2014-04-30:/zahlensysteme.html</guid><category>Binärzahlen</category><category>Online-Rechner</category><category>Schriftliche Division</category><category>Teilen</category><category>Zahlensysteme</category></item><item><title>Sich ökologisch bewegen</title><link>https://xcosx.github.io/sich-oekologisch-bewegen.html</link><description>&lt;p&gt;Möglichkeiten um möglichst umweltverträglich von A nach B zu kommen.&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm"&gt;http://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Wed, 30 Apr 2014 16:40:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2014-04-30:/zahlensysteme.html</guid><category>Mathematik</category></item><item><title>Sich ökologisch bewegen</title><link>https://xcosx.github.io/sich-oekologisch-bewegen.html</link><description>&lt;p&gt;Möglichkeiten um möglichst umweltverträglich von A nach B zu kommen.&lt;!--more--&gt;&lt;/p&gt;
 &lt;p&gt;Reihenfolge von gut zu schlecht&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Sich nach B denken (&lt;a href="https://de.wikipedia.org/wiki/Immanuel_Kant"&gt;sehr
@@ -1095,7 +1128,7 @@ lassen kann.&lt;br&gt;
 &lt;a href="http://www.verkehrsmittelvergleich.de/"&gt;VerkehrsmittelVergleich&lt;/a&gt;beginnen.&lt;/p&gt;
 &lt;p&gt;Um festzustellen, wie umweltverträglich du lebst, kannst du deinen
 &lt;a href="http://www.mein-fussabdruck.at/#start"&gt;ökologischen Fußabdruck&lt;/a&gt;messen
-(&lt;a href="http://www.verbraucherbildung.de/verbraucherwissen/der-oekologische-fussabdruck"&gt;Informationen&lt;/a&gt;dazu).&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Wed, 30 Apr 2014 13:53:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2014-04-30:/sich-oekologisch-bewegen.html</guid><category>Fernbus</category><category>Ökologie</category><category>ökologischer Fußabdruck</category><category>Umwelt</category></item><item><title>Podcast-Empfehlungen</title><link>https://xcosx.github.io/podcast-empfehlungen.html</link><description>&lt;p&gt;Sogenannte Podcasts sind Radio-Beiträge oder andere Audio- oder
+(&lt;a href="http://www.verbraucherbildung.de/verbraucherwissen/der-oekologische-fussabdruck"&gt;Informationen&lt;/a&gt;dazu).&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Wed, 30 Apr 2014 13:53:00 +0200</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2014-04-30:/sich-oekologisch-bewegen.html</guid><category>Nachhaltigkeit</category></item><item><title>Podcast-Empfehlungen</title><link>https://xcosx.github.io/podcast-empfehlungen.html</link><description>&lt;p&gt;Sogenannte Podcasts sind Radio-Beiträge oder andere Audio- oder
 Video-Dateien, die man mit jedem PC oder Handy herunterladen und so
 jederzeit anhören kann. &lt;!--more--&gt;Zum Beispiel kann man zuhause über
 WLAN Podcasts auf sein Handy laden und im Auto über
@@ -1243,7 +1276,7 @@ Programm auch installiert hat.&lt;/p&gt;
     im &lt;a href="https://f-droid.org/"&gt;F-Droid-Store&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://play.google.com/store/apps/details?id=org.smssecure.smssecure"&gt;SMSSecure&lt;/a&gt;
     im Playstore&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Thu, 27 Feb 2014 19:23:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2014-02-27:/sichere-sms.html</guid><category>Android</category><category>App</category><category>Freiheit</category><category>iOS</category><category>Sicherheit</category><category>WhatsApp</category></item><item><title>WADI</title><link>https://xcosx.github.io/wadi.html</link><description>&lt;p&gt;Hier sind alle WADI-Aufgaben und Lösungen direkt verlinkt.&lt;/p&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Thu, 27 Feb 2014 19:23:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2014-02-27:/sichere-sms.html</guid><category>Apps</category><category>Datensicherheit</category></item><item><title>WADI</title><link>https://xcosx.github.io/wadi.html</link><description>&lt;p&gt;Hier sind alle WADI-Aufgaben und Lösungen direkt verlinkt.&lt;/p&gt;
 &lt;p&gt;WADI ist eine Sammlung von thematisch geordneten Aufgabenblättern für
 jede Klassenstufe und die Kursstufe.&lt;/p&gt;
 &lt;p&gt;Die Aufgaben sind so gewählt, dass sie Basiskompetenzen abfragen.
@@ -1259,6 +1292,6 @@ Material geben.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/wadi7_2/WADI-8.pdf"&gt;WADI_8.pdf&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;&lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/wadi9_1/wadi_9_02_04_16.pdf"&gt;WADI_9.pdf&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;&lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/wadi9_2/wadi_10_16_02_16.pdf"&gt;WADI_10.pdf&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/wadi_kursstufe/wadi_kursstufe_20_07_12.pdf"&gt;WADI-Kursstufe.pdf&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 10 Feb 2014 20:13:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2014-02-10:/wadi.html</guid><category>Abitur</category><category>Mathematik</category><category>WADI</category></item><item><title>Schüler-Moodle</title><link>https://xcosx.github.io/schueler-moodle.html</link><description>&lt;p&gt;&lt;a href="https://moodle2.schule-bw.de/login/index.php"&gt;Hier geht's zum Schüler-Moodle auf dem
+&lt;p&gt;&lt;a href="http://lehrerfortbildung-bw.de/faecher/mathematik/gym/fb1/modul4/wadi_kursstufe/wadi_kursstufe_20_07_12.pdf"&gt;WADI-Kursstufe.pdf&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Mon, 10 Feb 2014 20:13:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2014-02-10:/wadi.html</guid><category>Abitur</category><category>Mathematik</category></item><item><title>Schüler-Moodle</title><link>https://xcosx.github.io/schueler-moodle.html</link><description>&lt;p&gt;&lt;a href="https://moodle2.schule-bw.de/login/index.php"&gt;Hier geht's zum Schüler-Moodle auf dem
 Landesserver.&lt;!--more--&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://moodle2.schule-bw.de/login/index.php"&gt;https://moodle2.schule-bw.de/login/index.php&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Tue, 04 Feb 2014 23:10:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2014-02-04:/schueler-moodle.html</guid><category>MGB</category><category>Moodle</category></item></channel></rss>
