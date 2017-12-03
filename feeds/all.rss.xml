@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>xcosx - DorKeinath</title><link>https://xcosx.github.io/</link><description></description><lastBuildDate>Sun, 29 Oct 2017 11:22:00 +0100</lastBuildDate><item><title>Ein gutes neues Handy</title><link>https://xcosx.github.io/neues-handy.html</link><description>&lt;h1&gt;Ein gutes neues Handy&lt;/h1&gt;
+<rss version="2.0"><channel><title>xcosx - DorKeinath</title><link>https://xcosx.github.io/</link><description></description><lastBuildDate>Sat, 02 Dec 2017 10:27:00 +0100</lastBuildDate><item><title>Gegen die VDS unterschreiben!</title><link>https://xcosx.github.io/gegen-vds-unterschreiben.html</link><description>&lt;p&gt;Das Gesetz zur Vorratsdatenspeicherung (VDS) ist so ziemlich der schlechteste Gesetzesentwurf, den die GroKo jemals eingebracht hat. Das Bundesverfassungsgericht und das EU-Parlament haben es als grundrechtswidrig beurteilt. Die CDU und die Hälfte der SPD wollen es immer wieder einführen.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://weact.campact.de/petitions/weg-mit-dem-gesetz-zur-vorratsdatenspeicherung"&gt;Hier kannst du eine Petition gegen die Vorratsdatenspeicherung unterschreiben.&lt;/a&gt;.&lt;/p&gt;
+&lt;p class="content-highlight"&gt;Ich habe doch nichts zu verbergen&lt;/p&gt;
+&lt;p&gt;Auf das Argument &lt;strong&gt;Ich habe doch nichts zu verbergen.&lt;/strong&gt; will ich hier kurz eingehen:&lt;/p&gt;
+&lt;p&gt;Auch wenn du als Muster-Bürger weit davon entfernt bist, einen Menschen umzubringen, so ist das Gebot "Du sollst nicht töten." doch wichtig. Auch wenn es dir egal wäre, wenn dich deine Regierung überwacht, so ist es doch wichtig, dass unser Grundgesetz die Informationsfreiheit festlegt und unser Staat einen Bürger nicht grundlos verdächtigt. Das Grundgesetz zu schützen ist wichtig, auch wenn der Aspekt dich gerade nicht tangiert.&lt;/p&gt;
+&lt;p&gt;Außerdem hast du etwas zu verbergen. Strenge einfach deine Fantasie ein bisschen an.&lt;/p&gt;
+&lt;p&gt;Übrigens ist die politische VDS zwar schlimmer, aber die wirtschaftliche ist auch schlecht, man spricht dabei von &lt;strong&gt;Tracking&lt;/strong&gt;. Auch hier ist das Argument &lt;strong&gt;Ich habe doch nichts zu verbergen.&lt;/strong&gt; irrelevant und falsch. Wäre es egal, wenn die Welt nur von einer Hand voll Monopolen beherrscht werden würde? Der Standard-Bürger spielt durch sein Bequemlichkeitsargument Google die Macht in die Hände. Schon jetzt erfährt Google auf über 80 % der Internetseiten, ob du du diese gerade anschaust und macht damit übel viel Geld. Dass Google danach strebt, sich politisch einzumischen konnte man bei der letzten Bundestagswahl sehen und im Nachrichtensektor will Google sich auch breit machen. Das Ignoranzargument ist also alles andere als schlüssig.&lt;/p&gt;
+&lt;p&gt;Weitere Argumente gegen die VDS sind&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bei der Petition&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.kuketz-blog.de/tipps-gegen-die-vorratsdatenspeicherung/"&gt;bei Kuketz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dorkeinath.github.io/slides_html/ethik-slides/VDS.html"&gt;in meiner Präsentation gegen die VDS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;zu finden.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sat, 02 Dec 2017 10:27:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2017-12-02:/gegen-vds-unterschreiben.html</guid><category>Datensicherheit</category></item><item><title>Ein gutes neues Handy</title><link>https://xcosx.github.io/neues-handy.html</link><description>&lt;h1&gt;Ein gutes neues Handy&lt;/h1&gt;
 &lt;p&gt;Die meisten Menschen, die ich kenne, denken bei der Frage nach einem guten Handy nur an die Leistung des Handys. Ich bin der Meinung, dass das Attribut &lt;em&gt;gut&lt;/em&gt; mehr enthält, und schlage für die Wahl eines neuen Handys die folgenden Kategorien vor:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Technisch gut&lt;/li&gt;
@@ -666,8 +679,7 @@ hier:&lt;!--more--&gt;&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Präsentationen&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://xcosx.de/mgb/slides.php"&gt;Slides Version 2016&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://xcosx.de/mgb/ethik-slides.php"&gt;Slides Version 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dorkeinath.github.io/"&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ephraim Keinath</dc:creator><pubDate>Sun, 14 Feb 2016 22:54:00 +0100</pubDate><guid isPermaLink="false">tag:xcosx.github.io,2016-02-14:/ethik-unterricht.html</guid></item><item><title>F-Droid</title><link>https://xcosx.github.io/f-droid.html</link><description>&lt;p&gt;Alternative zu Googles Playstore.&lt;!--more--&gt;&lt;/p&gt;
 &lt;p&gt;Im App-Store namens F-Droid sind alle Apps open-source, was die Apps
 grundsätzlich sicherer macht.&lt;/p&gt;
