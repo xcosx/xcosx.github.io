@@ -44,24 +44,73 @@
           <li class="w3-bottombar w3-border-white w3-hover-border-red" ><a href="https://xcosx.github.io/category/it.html">IT</a></li>
           <li class="w3-bottombar w3-border-white w3-hover-border-red" ><a href="https://xcosx.github.io/category/it-ethik.html">IT-Ethik</a></li>
           <li class="w3-bottombar w3-border-white w3-hover-border-red" ><a href="https://xcosx.github.io/category/mgb.html">MGB</a></li>
-          <!-- Suche mit Quant -->
-          <form method="GET" action="http://www.qwant.com">
-          <div align="left">
-          <table bgcolor="#FFFFFF">
-          <tbody>
-          <tr>
-          <td>
-          <a href="http://www.qwant.com"> <img src="https://www.qwant.com/img/logo/q-48.png" border="0" alt="Qwant" align="absmiddle"></a>
-          <input type="text" name="q" size="31" maxlength="255" value="">
-          <input type="hidden" name="l" value="fr">
-          <input type="submit" name="btnG" value="@">
-          </td>
-          </tr>
-          </tbody>
-          </table>
-          </div>
+          <!-- SUCHE Beginn-->
+          <li class="w3-bottombar w3-border-white w3-hover-border-red">
+          <form method="GET" action="http://www.qwant.com" id="form" onsubmit="addSiteSearch()">
+              <style type="text/css" scoped>
+                  input[type=text] {
+                      position: relative;
+                      bottom: 3px;
+                      /*width: 100%;*/
+                      width: 53px;
+                      margin-top: -7px;
+                      /*box-sizing: border-box;*/
+                      border: 0px solid #fff;
+                      border-bottom: 10px;
+                      background-color: #fff;
+                      /*Picture*/
+                      background-image: url('/images/searchicon8.png');
+                      background-size: 18px;
+                      background-repeat: no-repeat;
+                      background-position-x: 50%;
+                      background-position-y: 40%;
+                      /*Picture end*/
+                      /*Für den Text bzw. Platzhalter */
+                      font-size: 14pt;
+                      padding-left: 51px;
+                      -webkit-transition: width 2s ease;
+                      transition: width 2s ease;
+                      /*transform: scale(2,0);*/
+                    }
+                    input[type=text]:focus {
+                      width: 100%;
+                      background-position-x: 95%;
+                      padding-left: 15px;
+                      background-color: rgb(241, 241, 241);
+                      color: #868282;
+                      background-size:0px;
+                      -webkit-transition: width 0s ease;
+                      transition: width 0s ease;
+                    }
+                    /*.search-bar .input-text {
+                    }*/
+              </style>
+              <div align="left">
+              <table bgcolor="#FFFFFF">
+               <tbody>
+               <tr>
+               <td>
+              <!-- <a href="http://www.qwant.com"> <img src="https://www.qwant.com/img/logo/q-48.png" border="0" alt="Qwant" align="absmiddle"></a> -->
+              <input type="text" name="q" id="query" size="31" maxlength="255" value="" placeholder="Suche mit Qwant">
+              <input type="hidden" name="l" value="fr">
+              <!-- <input type="submit" name="btnG" value="go" > -->
+              <!-- <i class="fas fa-search"></i> -->
+              </td>
+              </tr>
+              </tbody>
+              </table>
+              </div>
           </form>
-          <!-- Suche Ende -->
+          <script type="text/javascript">
+          function encodeHTML(s) {
+          return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+          }
+          function addSiteSearch() {
+          document.getElementById('query').value = encodeHTML(document.getElementById('query').value) + " site:https://xcosx.github.io/";
+          }
+          </script>
+          <!-- SUCHE Ende -->
+          </li>
         </ul>
       </nav>
     </header>
@@ -70,131 +119,6 @@
 <br>
 <section id="content">
 <!-- Blog entries -->
-<article class="w3-container w3-card-2 w3-white col-main">
-  <header>
-  <div class="headerimage-card">
-    <a href="https://xcosx.github.io/conversations.html"><img src="/images/conversations.png" style="width: 100%;"></img></a>
-  </div>
-  <h1><a href="https://xcosx.github.io/conversations.html">Conversations</a></h1>
-  <div class="post-info">
-    <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
-      <span>Gepostet am <time datetime="2016-07-20T20:27:00+02:00">Mi, 20. Juli 2016</time> in <i><a href="https://xcosx.github.io/category/it-ethik.html" title="Alle Artikel der Kategorie IT-Ethik">IT-Ethik</a></i>
-      </span>
-    </div>
-    <div id="article-tags" class="w3-margin-right">
-      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
-        <a href="https://xcosx.github.io/tag/apps.html" title="Alle Posts zum Thema Apps">#Apps</a>
-      </span>
-      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
-        <a href="https://xcosx.github.io/tag/datensicherheit.html" title="Alle Posts zum Thema Datensicherheit">#Datensicherheit</a>
-      </span>
-    </div>
-  </div>
-</header>
-  <div class="entry-content"><p>Conversations ist zurzeit die sicherste Kommunikations-App und damit die beste Alternative zu WhatsApp.<!--more--></p></div>
-  <footer>
-  <a class="w3-btn w3-red w3-right w3-margin" href="https://xcosx.github.io/conversations.html">Weiterlesen &#10093;</a>
-  </footer>
-</article>
-<br>
-<br>
-<br>
-<article class="w3-container w3-card-2 w3-white col-main">
-  <header>
-  <div class="headerimage-card">
-    <a href="https://xcosx.github.io/schuetz-dich.html"><img src="/images/schuetz-dich.png" style="width: 100%;"></img></a>
-  </div>
-  <h1><a href="https://xcosx.github.io/schuetz-dich.html">Schütz dich!</a></h1>
-  <div class="post-info">
-    <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
-      <span>Gepostet am <time datetime="2016-03-14T19:51:00+01:00">Mo, 14. März 2016</time> in <i><a href="https://xcosx.github.io/category/it-ethik.html" title="Alle Artikel der Kategorie IT-Ethik">IT-Ethik</a></i>
-      </span>
-    </div>
-    <div id="article-tags" class="w3-margin-right">
-      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
-        <a href="https://xcosx.github.io/tag/apps.html" title="Alle Posts zum Thema Apps">#Apps</a>
-      </span>
-      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
-        <a href="https://xcosx.github.io/tag/datensicherheit.html" title="Alle Posts zum Thema Datensicherheit">#Datensicherheit</a>
-      </span>
-    </div>
-  </div>
-</header>
-  <div class="entry-content"><p>Mit diesen Apps kannst du deine Privatsphäre schützen, und die deiner Freunde.</p></div>
-  <footer>
-  <a class="w3-btn w3-red w3-right w3-margin" href="https://xcosx.github.io/schuetz-dich.html">Weiterlesen &#10093;</a>
-  </footer>
-</article>
-<br>
-<br>
-<br>
-<!-- Whitespace between Articles -->
-<article class="w3-container w3-card-2 w3-white col-main">
-  <header>
-  <div class="headerimage-card">
-    <a href="https://xcosx.github.io/informatik-ag.html"><img src="/images/informatik-ag.jpg" style="width: 100%;"></img></a>
-  </div>
-  <h1><a href="https://xcosx.github.io/informatik-ag.html">Informatik-AG</a></h1>
-  <div class="post-info">
-    <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
-      <span>Gepostet am <time datetime="2016-03-11T23:11:00+01:00">Fr, 11. März 2016</time> in <i><a href="https://xcosx.github.io/category/mgb.html" title="Alle Artikel der Kategorie MGB">MGB</a></i>
-      </span>
-    </div>
-  </div>
-</header>
-  <div class="entry-content"><p>Material meiner Informatik-AG</p></div>
-  <footer>
-  <a class="w3-btn w3-red w3-right w3-margin" href="https://xcosx.github.io/informatik-ag.html">Weiterlesen &#10093;</a>
-  </footer>
-</article>
-<br>
-<br>
-<br>
-<!-- Whitespace between Articles -->
-<article class="w3-container w3-card-2 w3-white col-main">
-  <header>
-  <div class="headerimage-card">
-    <a href="https://xcosx.github.io/itg-unterricht.html"><img src="/images/itg-unterricht.jpg" style="width: 100%;"></img></a>
-  </div>
-  <h1><a href="https://xcosx.github.io/itg-unterricht.html">ITG-Unterricht</a></h1>
-  <div class="post-info">
-    <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
-      <span>Gepostet am <time datetime="2016-03-11T22:40:00+01:00">Fr, 11. März 2016</time> in <i><a href="https://xcosx.github.io/category/mgb.html" title="Alle Artikel der Kategorie MGB">MGB</a></i>
-      </span>
-    </div>
-  </div>
-</header>
-  <div class="entry-content"><p>Material zu ITG-Unterricht</p></div>
-  <footer>
-  <a class="w3-btn w3-red w3-right w3-margin" href="https://xcosx.github.io/itg-unterricht.html">Weiterlesen &#10093;</a>
-  </footer>
-</article>
-<br>
-<br>
-<br>
-<!-- Whitespace between Articles -->
-<article class="w3-container w3-card-2 w3-white col-main">
-  <header>
-  <div class="headerimage-card">
-    <a href="https://xcosx.github.io/ethik-unterricht.html"><img src="/images/ethik-unterricht.jpg" style="width: 100%;"></img></a>
-  </div>
-  <h1><a href="https://xcosx.github.io/ethik-unterricht.html">Ethik-Unterricht</a></h1>
-  <div class="post-info">
-    <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
-      <span>Gepostet am <time datetime="2016-02-14T22:54:00+01:00">So, 14. Februar 2016</time> in <i><a href="https://xcosx.github.io/category/mgb.html" title="Alle Artikel der Kategorie MGB">MGB</a></i>
-      </span>
-    </div>
-  </div>
-</header>
-  <div class="entry-content"><p>Links zum Ethik-Unterricht</p></div>
-  <footer>
-  <a class="w3-btn w3-red w3-right w3-margin" href="https://xcosx.github.io/ethik-unterricht.html">Weiterlesen &#10093;</a>
-  </footer>
-</article>
-<br>
-<br>
-<br>
-<!-- Whitespace between Articles -->
 <article class="w3-container w3-card-2 w3-white col-main">
   <header>
   <div class="headerimage-card">
@@ -221,7 +145,6 @@
 <br>
 <br>
 <br>
-<!-- Whitespace between Articles -->
 <article class="w3-container w3-card-2 w3-white col-main">
   <header>
   <div class="headerimage-card">
@@ -487,13 +410,227 @@
 <br>
 <br>
 <!-- Whitespace between Articles -->
+<article class="w3-container w3-card-2 w3-white col-main">
+  <header>
+  <div class="headerimage-card">
+    <a href="https://xcosx.github.io/sich-oekologisch-bewegen.html"><img src="/images/sich-oekologisch-bewegen.jpg" style="width: 100%;"></img></a>
+  </div>
+  <h1><a href="https://xcosx.github.io/sich-oekologisch-bewegen.html">Sich ökologisch bewegen</a></h1>
+  <div class="post-info">
+    <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
+      <span>Gepostet am <time datetime="2014-04-30T13:53:00+02:00">Mi, 30. April 2014</time> in <i><a href="https://xcosx.github.io/category/ethik.html" title="Alle Artikel der Kategorie Ethik">Ethik</a></i>
+      </span>
+    </div>
+    <div id="article-tags" class="w3-margin-right">
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/nachhaltigkeit.html" title="Alle Posts zum Thema Nachhaltigkeit">#Nachhaltigkeit</a>
+      </span>
+    </div>
+  </div>
+</header>
+  <div class="entry-content"><p>Möglichkeiten um möglichst umweltverträglich von A nach B zu kommen.<!--more--></p></div>
+  <footer>
+  <a class="w3-btn w3-red w3-right w3-margin" href="https://xcosx.github.io/sich-oekologisch-bewegen.html">Weiterlesen &#10093;</a>
+  </footer>
+</article>
+<br>
+<br>
+<br>
+<!-- Whitespace between Articles -->
+<article class="w3-container w3-card-2 w3-white col-main">
+  <header>
+  <div class="headerimage-card">
+    <a href="https://xcosx.github.io/podcast-empfehlungen.html"><img src="/images/podcast-empfehlungen.jpg" style="width: 100%;"></img></a>
+  </div>
+  <h1><a href="https://xcosx.github.io/podcast-empfehlungen.html">Podcast-Empfehlungen</a></h1>
+  <div class="post-info">
+    <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
+      <span>Gepostet am <time datetime="2014-03-12T14:21:00+01:00">Mi, 12. März 2014</time> in <i><a href="https://xcosx.github.io/category/ethik.html" title="Alle Artikel der Kategorie Ethik">Ethik</a></i>
+      </span>
+    </div>
+    <div id="article-tags" class="w3-margin-right">
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/android.html" title="Alle Posts zum Thema Android">#Android</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/app.html" title="Alle Posts zum Thema App">#App</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/nachrichten.html" title="Alle Posts zum Thema Nachrichten">#Nachrichten</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/podcast.html" title="Alle Posts zum Thema Podcast">#Podcast</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/radio.html" title="Alle Posts zum Thema Radio">#Radio</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/raspberry-pi.html" title="Alle Posts zum Thema Raspberry Pi">#Raspberry Pi</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/upnp.html" title="Alle Posts zum Thema Upnp">#UPnP</a>
+      </span>
+    </div>
+  </div>
+</header>
+  <div class="entry-content"><p>Podcast-Empfehlungen</p></div>
+  <footer>
+  <a class="w3-btn w3-red w3-right w3-margin" href="https://xcosx.github.io/podcast-empfehlungen.html">Weiterlesen &#10093;</a>
+  </footer>
+</article>
+<br>
+<br>
+<br>
+<!-- Whitespace between Articles -->
+<article class="w3-container w3-card-2 w3-white col-main">
+  <header>
+  <div class="headerimage-card">
+    <a href="https://xcosx.github.io/raspberry-pi-30-e-pc-mit-vielen-einsatzmoeglichkeiten.html"><img src="/images/rpi.png" style="width: 100%;"></img></a>
+  </div>
+  <h1><a href="https://xcosx.github.io/raspberry-pi-30-e-pc-mit-vielen-einsatzmoeglichkeiten.html">Raspberry Pi: 30-€-PC mit vielen Einsatzmöglichkeiten</a></h1>
+  <div class="post-info">
+    <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
+      <span>Gepostet am <time datetime="2014-03-01T13:15:00+01:00">Sa, 01. März 2014</time> in <i><a href="https://xcosx.github.io/category/it.html" title="Alle Artikel der Kategorie IT">IT</a></i>
+      </span>
+    </div>
+    <div id="article-tags" class="w3-margin-right">
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/android.html" title="Alle Posts zum Thema Android">#Android</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/app.html" title="Alle Posts zum Thema App">#App</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/freiheit.html" title="Alle Posts zum Thema Freiheit">#Freiheit</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/musik.html" title="Alle Posts zum Thema Musik">#Musik</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/owncloud.html" title="Alle Posts zum Thema Owncloud">#OwnCloud</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/pc.html" title="Alle Posts zum Thema Pc">#PC</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/raspberry-pi.html" title="Alle Posts zum Thema Raspberry Pi">#Raspberry Pi</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/sicherheit.html" title="Alle Posts zum Thema Sicherheit">#Sicherheit</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/tv.html" title="Alle Posts zum Thema Tv">#TV</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/upnp.html" title="Alle Posts zum Thema Upnp">#UPnP</a>
+      </span>
+    </div>
+  </div>
+</header>
+  <div class="entry-content"><p>Das Raspberry Pi ist eine Platine, die mit ihrem USB, HDMI, LAN und Audio-Anschluss viele Möglicheiten bietet. Sie ist ein kleiner</p></div>
+  <footer>
+  <a class="w3-btn w3-red w3-right w3-margin" href="https://xcosx.github.io/raspberry-pi-30-e-pc-mit-vielen-einsatzmoeglichkeiten.html">Weiterlesen &#10093;</a>
+  </footer>
+</article>
+<br>
+<br>
+<br>
+<!-- Whitespace between Articles -->
+<article class="w3-container w3-card-2 w3-white col-main">
+  <header>
+  <div class="headerimage-card">
+    <a href="https://xcosx.github.io/sichere-sms.html"><img src="/images/sichere-sms.jpg" style="width: 100%;"></img></a>
+  </div>
+  <h1><a href="https://xcosx.github.io/sichere-sms.html">Sichere SMS</a></h1>
+  <div class="post-info">
+    <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
+      <span>Gepostet am <time datetime="2014-02-27T19:23:00+01:00">Do, 27. Februar 2014</time> in <i><a href="https://xcosx.github.io/category/it-ethik.html" title="Alle Artikel der Kategorie IT-Ethik">IT-Ethik</a></i>
+      </span>
+    </div>
+    <div id="article-tags" class="w3-margin-right">
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/apps.html" title="Alle Posts zum Thema Apps">#Apps</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/datensicherheit.html" title="Alle Posts zum Thema Datensicherheit">#Datensicherheit</a>
+      </span>
+    </div>
+  </div>
+</header>
+  <div class="entry-content"><p>Sichere SMS schreiben</p></div>
+  <footer>
+  <a class="w3-btn w3-red w3-right w3-margin" href="https://xcosx.github.io/sichere-sms.html">Weiterlesen &#10093;</a>
+  </footer>
+</article>
+<br>
+<br>
+<br>
+<!-- Whitespace between Articles -->
+<article class="w3-container w3-card-2 w3-white col-main">
+  <header>
+  <div class="headerimage-card">
+    <a href="https://xcosx.github.io/wadi.html"><img src="/images/wadi.png" style="width: 100%;"></img></a>
+  </div>
+  <h1><a href="https://xcosx.github.io/wadi.html">WADI</a></h1>
+  <div class="post-info">
+    <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
+      <span>Gepostet am <time datetime="2014-02-10T20:13:00+01:00">Mo, 10. Februar 2014</time> in <i><a href="https://xcosx.github.io/category/mgb.html" title="Alle Artikel der Kategorie MGB">MGB</a></i>
+      </span>
+    </div>
+    <div id="article-tags" class="w3-margin-right">
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/abitur.html" title="Alle Posts zum Thema Abitur">#Abitur</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/mathematik.html" title="Alle Posts zum Thema Mathematik">#Mathematik</a>
+      </span>
+    </div>
+  </div>
+</header>
+  <div class="entry-content"><p>Hier sind alle WADI-Aufgaben und Lösungen direkt verlinkt.</p></div>
+  <footer>
+  <a class="w3-btn w3-red w3-right w3-margin" href="https://xcosx.github.io/wadi.html">Weiterlesen &#10093;</a>
+  </footer>
+</article>
+<br>
+<br>
+<br>
+<!-- Whitespace between Articles -->
+<article class="w3-container w3-card-2 w3-white col-main">
+  <header>
+  <div class="headerimage-card">
+    <a href="https://xcosx.github.io/schueler-moodle.html"><img src="/images/schueler-moodle.jpg" style="width: 100%;"></img></a>
+  </div>
+  <h1><a href="https://xcosx.github.io/schueler-moodle.html">Schüler-Moodle</a></h1>
+  <div class="post-info">
+    <div class="w3-opacity w3-margin-right w3-margin-bottom" style="flex-grow: 1;">
+      <span>Gepostet am <time datetime="2014-02-04T23:10:00+01:00">Di, 04. Februar 2014</time> in <i><a href="https://xcosx.github.io/category/mgb.html" title="Alle Artikel der Kategorie MGB">MGB</a></i>
+      </span>
+    </div>
+    <div id="article-tags" class="w3-margin-right">
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/mgb.html" title="Alle Posts zum Thema Mgb">#MGB</a>
+      </span>
+      <span class="w3-tag w3-light-grey w3-text-red w3-hover-red">
+        <a href="https://xcosx.github.io/tag/moodle.html" title="Alle Posts zum Thema Moodle">#Moodle</a>
+      </span>
+    </div>
+  </div>
+</header>
+  <div class="entry-content"><p>Schüler-Moodle</p></div>
+  <footer>
+  <a class="w3-btn w3-red w3-right w3-margin" href="https://xcosx.github.io/schueler-moodle.html">Weiterlesen &#10093;</a>
+  </footer>
+</article>
+<br>
+<br>
+<br>
+<!-- Whitespace between Articles -->
 <div class="w3-center">
 <ul class="w3-pagination">
     <li><a href="https://xcosx.github.io/index.html">&#10094;</a></li>
     <li><a  class="" href="https://xcosx.github.io/index.html">1</a></li>
     <li><a  class="w3-red" href="https://xcosx.github.io/index2.html">2</a></li>
-    <li><a  class="" href="https://xcosx.github.io/index3.html">3</a></li>
-    <li><a href="https://xcosx.github.io/index3.html">&#10095;</a></li>
 </ul>
 </div>
 <br>

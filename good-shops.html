@@ -54,24 +54,73 @@
           <li class="w3-bottombar w3-border-white w3-hover-border-red" ><a href="https://xcosx.github.io/category/it.html">IT</a></li>
           <li class="w3-bottombar w3-border-white w3-hover-border-red" ><a href="https://xcosx.github.io/category/it-ethik.html">IT-Ethik</a></li>
           <li class="w3-bottombar w3-border-white w3-hover-border-red" ><a href="https://xcosx.github.io/category/mgb.html">MGB</a></li>
-          <!-- Suche mit Quant -->
-          <form method="GET" action="http://www.qwant.com">
-          <div align="left">
-          <table bgcolor="#FFFFFF">
-          <tbody>
-          <tr>
-          <td>
-          <a href="http://www.qwant.com"> <img src="https://www.qwant.com/img/logo/q-48.png" border="0" alt="Qwant" align="absmiddle"></a>
-          <input type="text" name="q" size="31" maxlength="255" value="">
-          <input type="hidden" name="l" value="fr">
-          <input type="submit" name="btnG" value="@">
-          </td>
-          </tr>
-          </tbody>
-          </table>
-          </div>
+          <!-- SUCHE Beginn-->
+          <li class="w3-bottombar w3-border-white w3-hover-border-red">
+          <form method="GET" action="http://www.qwant.com" id="form" onsubmit="addSiteSearch()">
+              <style type="text/css" scoped>
+                  input[type=text] {
+                      position: relative;
+                      bottom: 3px;
+                      /*width: 100%;*/
+                      width: 53px;
+                      margin-top: -7px;
+                      /*box-sizing: border-box;*/
+                      border: 0px solid #fff;
+                      border-bottom: 10px;
+                      background-color: #fff;
+                      /*Picture*/
+                      background-image: url('/images/searchicon8.png');
+                      background-size: 18px;
+                      background-repeat: no-repeat;
+                      background-position-x: 50%;
+                      background-position-y: 40%;
+                      /*Picture end*/
+                      /*Für den Text bzw. Platzhalter */
+                      font-size: 14pt;
+                      padding-left: 51px;
+                      -webkit-transition: width 2s ease;
+                      transition: width 2s ease;
+                      /*transform: scale(2,0);*/
+                    }
+                    input[type=text]:focus {
+                      width: 100%;
+                      background-position-x: 95%;
+                      padding-left: 15px;
+                      background-color: rgb(241, 241, 241);
+                      color: #868282;
+                      background-size:0px;
+                      -webkit-transition: width 0s ease;
+                      transition: width 0s ease;
+                    }
+                    /*.search-bar .input-text {
+                    }*/
+              </style>
+              <div align="left">
+              <table bgcolor="#FFFFFF">
+               <tbody>
+               <tr>
+               <td>
+              <!-- <a href="http://www.qwant.com"> <img src="https://www.qwant.com/img/logo/q-48.png" border="0" alt="Qwant" align="absmiddle"></a> -->
+              <input type="text" name="q" id="query" size="31" maxlength="255" value="" placeholder="Suche mit Qwant">
+              <input type="hidden" name="l" value="fr">
+              <!-- <input type="submit" name="btnG" value="go" > -->
+              <!-- <i class="fas fa-search"></i> -->
+              </td>
+              </tr>
+              </tbody>
+              </table>
+              </div>
           </form>
-          <!-- Suche Ende -->
+          <script type="text/javascript">
+          function encodeHTML(s) {
+          return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;');
+          }
+          function addSiteSearch() {
+          document.getElementById('query').value = encodeHTML(document.getElementById('query').value) + " site:https://xcosx.github.io/";
+          }
+          </script>
+          <!-- SUCHE Ende -->
+          </li>
         </ul>
       </nav>
     </header>
