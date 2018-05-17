@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>xcosx - DorKeinath</title><link href="https://xcosx.github.io/" rel="alternate"></link><link href="https://xcosx.github.io/feeds/all.atom.xml" rel="self"></link><id>https://xcosx.github.io/</id><updated>2018-04-10T21:27:00+02:00</updated><entry><title>Petition für G9</title><link href="https://xcosx.github.io/petition-fur-g9.html" rel="alternate"></link><published>2018-04-10T21:27:00+02:00</published><updated>2018-04-10T21:27:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2018-04-10:/petition-fur-g9.html</id><summary type="html">&lt;p&gt;Es gibt eine Petition für G9, also ein jahr länger im Gymnasium. Vielleicht mag der eine oder andere ja unterschreiben.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Es gibt eine Petition für G9, also ein jahr länger im Gymnasium. Vielleicht mag der eine oder andere ja unterschreiben.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>xcosx - DorKeinath</title><link href="https://xcosx.github.io/" rel="alternate"></link><link href="https://xcosx.github.io/feeds/all.atom.xml" rel="self"></link><id>https://xcosx.github.io/</id><updated>2018-05-17T20:27:00+02:00</updated><entry><title>Links zum CCC</title><link href="https://xcosx.github.io/ccc.html" rel="alternate"></link><published>2018-05-17T20:27:00+02:00</published><updated>2018-05-17T20:27:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2018-05-17:/ccc.html</id><summary type="html">&lt;p&gt;Links zum Chaos Computer Club&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hier sind ein paar Links zu interessanten Internetseiten, die mit dem Chaos Computer Club (CCC) zu tun haben.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.ccc.de/"&gt;Chaos Computer Club allgemein&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://chaosradio.ccc.de/"&gt;Podcast vom CCC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://jugendhackt.org/"&gt;Jugend hackt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ccc.de/schule"&gt;Chaos macht Schule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://entropia.de/Hauptseite"&gt;Hackerspace Karlsruhe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://events.ccc.de/"&gt;Informationen über Jahresendcongress usw.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Chaos_Communication_Camp"&gt;Chaos Communication Camp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/shackspace?lang=de"&gt;Hackerspace in Stuttgart&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://entropia.de/GPN"&gt;Gulaschprogrammiernacht, Veranstalter: Entropia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/entropiagpn?lang=de"&gt;Hackerspace Entropia auf Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/chaosupdates?lang=de"&gt;CCC auf Twitter&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Petition für G9</title><link href="https://xcosx.github.io/petition-fur-g9.html" rel="alternate"></link><published>2018-04-10T21:27:00+02:00</published><updated>2018-04-10T21:27:00+02:00</updated><author><name>Ephraim Keinath</name></author><id>tag:xcosx.github.io,2018-04-10:/petition-fur-g9.html</id><summary type="html">&lt;p&gt;Es gibt eine Petition für G9, also ein jahr länger im Gymnasium. Vielleicht mag der eine oder andere ja unterschreiben.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Es gibt eine Petition für G9, also ein jahr länger im Gymnasium. Vielleicht mag der eine oder andere ja unterschreiben.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.openpetition.de/petition/online/g9-jetzt-baden-wuerttemberg"&gt;https://www.openpetition.de/petition/online/g9-jetzt-baden-wuerttemberg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Die angeführten Argumente sind gut.&lt;/p&gt;
 &lt;h2&gt;Als Ethik-Lehrer&lt;/h2&gt;
@@ -170,8 +181,11 @@ hier meine Terminal-Befehle&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;sudo add-apt-repository &lt;span class="s1"&gt;&amp;#39;deb ftp://ftp.gajim.org/debian unstable main&amp;#39;&lt;/span&gt;
 sudo apt-get update
 sudo apt-get upgrade
+sudo apt-get install gajim-nightly
 &lt;/pre&gt;&lt;/div&gt;
 
+
+&lt;!-- # https://dev.gajim.org/gajim/gajim/issues/9118 --&gt;
 
 &lt;p&gt;Zum Überprüfen ob die Installation erfolgreich war&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;dpkg -l gajim
@@ -854,7 +868,6 @@ Bestellen bei &lt;a href="https://www.buch7.de/"&gt;buch7.de&lt;/a&gt;allemal.&l
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.zuendstoff-clothing.de/"&gt;Zündstoff&lt;/a&gt; (Es gibt auch einen
     Laden in Freiburg)&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.monagoo.com/magazin/2014/06/projekt-faire-laufkleidung-zusammenfassung-des-nachhaltigen-selbstversuchs/"&gt;Monagoo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.lana-shop.de/"&gt;Lana&lt;/a&gt; (u. a. Kinder-Klamotten)&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.grundstoff.net/schuhe-sneaker-und-flipflops-c-32.html"&gt;Grundstoff&lt;/a&gt;
     (u.a. Klamotten von &lt;a href="http://www.stanleystella.com/de#about"&gt;Stanley &amp;amp;
