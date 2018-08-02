@@ -535,6 +535,7 @@ Staaten sperren bisweilen einzelne Server), drittens kann man seine
 Adresse sogar selbst hosten.&lt;/p&gt;
 &lt;p&gt;Als Verschlüsselung wird OMEMO verwenden, der derzeitig höchsten
 Standard.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://media.kuketz.de/blog/artikel/2016/conversations/Anleitung_Conversations.pdf"&gt;Einführung und Anleitung auf dem Kuketz-Blog (pdf)&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Schritt-für-Schritt-Anleitungen&lt;/h2&gt;
 &lt;h3&gt;Installation&lt;/h3&gt;
 &lt;p&gt;Du kannst die App entweder im &lt;a href="https://play.google.com/store/apps/details?id=eu.siacs.conversations"&gt;Google
@@ -577,7 +578,7 @@ Startbildschirm mit der Überschrift "Join the Conversation".&lt;/p&gt;
 &lt;li&gt;Entscheide dich für eine XMPP-Adresse. Dabei hast du extrem viel
     &lt;a href="https://gultsch.de/compliance_ranked.html"&gt;Auswahl&lt;/a&gt;, z.B.&lt;ul&gt;
 &lt;li&gt;ich@trashserver.net&lt;/li&gt;
-&lt;li&gt;ich@ubuntu-jabber.de&lt;/li&gt;
+&lt;li&gt;ich@dismail.de&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Setze den Haken bei "Neues Konto auf Server erstellen".&lt;/li&gt;
